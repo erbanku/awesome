@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -29,10 +28,6 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
-
-## AutoHotkey 
-
-- [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
 
 ## C 
 
