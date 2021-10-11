@@ -88,6 +88,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [JacksonBates/tweet-delete-bot](https://github.com/JacksonBates/tweet-delete-bot) - A bot that deletes and un-favourites tweets that are more than 10 days old. Schedule this to run once a day to become an ephemeral tweep, just like http://twitter.com/JacksonBates
 - [misitebao/standard-repository](https://github.com/misitebao/standard-repository) - 🚀 Standard Repository Template
@@ -120,6 +121,7 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 - [wantToDoSomeThing/ssSSRV2rayClashTrojan](https://github.com/wantToDoSomeThing/ssSSRV2rayClashTrojan) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
