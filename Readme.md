@@ -88,6 +88,8 @@
 
 ## JavaScript 
 
+- [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
+- [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [JacksonBates/tweet-delete-bot](https://github.com/JacksonBates/tweet-delete-bot) - A bot that deletes and un-favourites tweets that are more than 10 days old. Schedule this to run once a day to become an ephemeral tweep, just like http://twitter.com/JacksonBates
@@ -149,6 +151,7 @@
 
 ## Python 
 
+- [snow922841/telegram_channel_downloader](https://github.com/snow922841/telegram_channel_downloader) - 一个电报群组、频道下载脚本，支持上传到GD、OD等rclone可以挂载的网盘。
 - [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) - A Telegram bot that forwards Tweets
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots
@@ -180,6 +183,7 @@
 
 ## Shell 
 
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 
