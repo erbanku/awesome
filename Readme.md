@@ -124,7 +124,7 @@
 
 ## Others 
 
-- [erbanku/awesome](https://github.com/erbanku/awesome) - My Starred Awesome Repositories
+- [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
