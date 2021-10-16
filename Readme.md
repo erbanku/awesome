@@ -72,13 +72,13 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - uBlacklist subscription compilation 订阅合集
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 
 ## HTML 
 
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [Sobranier/github-chart](https://github.com/Sobranier/github-chart) - 
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2021中国翻墙软件VPN推荐以及避坑指南，稳定好用。对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙梯子VPN下载推荐。
 - [renzhezhilu/img2color-online](https://github.com/renzhezhilu/img2color-online) - 在线图片配色提取 测试中...
@@ -128,6 +128,8 @@
 
 ## Others 
 
+- [actionsflow/awesome-actionsflow](https://github.com/actionsflow/awesome-actionsflow) - This is a list of awesome workflow use cases for Actionsflow
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -158,6 +160,7 @@
 
 ## Python 
 
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Anankke/ASM-Bot](https://github.com/Anankke/ASM-Bot) - 自动删除 Telegram 群组中的服务消息，如加群退群信息等。
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [snow922841/telegram_channel_downloader](https://github.com/snow922841/telegram_channel_downloader) - 一个电报群组、频道下载脚本，支持上传到GD、OD等rclone可以挂载的网盘。
@@ -214,6 +217,7 @@
 
 ## Vue 
 
+- [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [xiaoluoboding/skylines](https://github.com/xiaoluoboding/skylines) - My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 - [luyuhuang/DWords2](https://github.com/luyuhuang/DWords2) - Show words as Danmaku on the screen to help you memorize them | 把单词变成屏幕上的弹幕来帮助你记住它们
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
