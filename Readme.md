@@ -43,6 +43,7 @@
 
 ## C# # 
 
+- [mili-tan/AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI) - 纯净抗污染，简单轻量级
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
