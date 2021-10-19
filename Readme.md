@@ -90,6 +90,7 @@
 
 ## Java 
 
+- [ciscolxh/aliyunshare](https://github.com/ciscolxh/aliyunshare) - 让阿里云盘可以分享所有的文件
 - [zhaojun1998/zfile](https://github.com/zhaojun1998/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
@@ -98,6 +99,10 @@
 
 ## JavaScript 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [lekoOwO/short-link-bot](https://github.com/lekoOwO/short-link-bot) - A telegram short link bot hosting onCloudflare Workers powered by short.io
+- [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 - [pyatyispyatil/github-releases-notify-bot](https://github.com/pyatyispyatil/github-releases-notify-bot) - Allows you to receive notifications of new releases of software on GitHub in Telegram
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -178,6 +183,8 @@
 
 ## Python 
 
+- [devourbots/word_cloud_bot](https://github.com/devourbots/word_cloud_bot) - 一个可以统计群组用户发言，并且能将聊天内容生成词云的机器人
+- [Mrvishal2k2/TG-ShortLinkBot](https://github.com/Mrvishal2k2/TG-ShortLinkBot) - 
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
@@ -252,6 +259,7 @@
 
 ## Vue 
 
+- [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [xiaoluoboding/skylines](https://github.com/xiaoluoboding/skylines) - My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
