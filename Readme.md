@@ -87,6 +87,7 @@
 
 ## HTML 
 
+- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [Sobranier/github-chart](https://github.com/Sobranier/github-chart) - 
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2021中国翻墙软件VPN推荐以及避坑指南，稳定好用。对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙梯子VPN下载推荐。
@@ -190,6 +191,7 @@
 
 ## Python 
 
+- [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) - 仅供参考。
 - [yhangf/PythonCrawler](https://github.com/yhangf/PythonCrawler) - :heartpulse:用python编写的爬虫项目集合
