@@ -20,6 +20,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -105,6 +106,7 @@
 
 ## JavaScript 
 
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 各平台的分流规则、复写规则及自动化脚本。
 - [littlegolden/syntax-highlight-word](https://github.com/littlegolden/syntax-highlight-word) - A revived project of Syntax Highlight Code for planetB.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -189,8 +191,13 @@
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
 
+## PowerShell 
+
+- [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
+
 ## Python 
 
+- [brndnmtthws/tweet-delete](https://github.com/brndnmtthws/tweet-delete) - Self-destructing Tweets so you too can be cool 😎
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) - 仅供参考。
@@ -268,6 +275,7 @@
 
 ## TypeScript 
 
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -283,6 +291,7 @@
 
 ## Vue 
 
+- [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
