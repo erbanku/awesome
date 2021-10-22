@@ -6,6 +6,7 @@
 ## Contents
 
   - [AutoHotkey](#autohotkey)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -34,6 +35,10 @@
 ## AutoHotkey 
 
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
+
+## Batchfile 
+
+- [erbanku/custom-search-engines-backup](https://github.com/erbanku/custom-search-engines-backup) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 
 ## C 
 
@@ -88,6 +93,7 @@
 
 ## HTML 
 
+- [guillaC/JSBatchobfuscator](https://github.com/guillaC/JSBatchobfuscator) - JSBatchobfuscator is a simple obfuscator for batch script
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [Sobranier/github-chart](https://github.com/Sobranier/github-chart) - 
@@ -187,6 +193,7 @@
 
 ## PHP 
 
+- [SkyEmie/batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator) - Easy way to obfuscuate batch files (Windows)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
