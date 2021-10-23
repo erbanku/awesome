@@ -18,6 +18,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [MATLAB](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -50,6 +51,7 @@
 
 ## C# # 
 
+- [stax76/mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [ModuleArt/quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer) - 🖼️ Lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer.
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
@@ -117,6 +119,7 @@
 
 ## JavaScript 
 
+- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [RichardKrikler/Notability-Viewer](https://github.com/RichardKrikler/Notability-Viewer) - Notability Note Viewer for the Backup PDFs inside of a file system (e.g. with OneDrive integration in Windows).
@@ -163,6 +166,10 @@
 ## Kotlin 
 
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
+
+## MATLAB 
+
+- [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 
 ## Objective-C 
 
@@ -214,6 +221,7 @@
 
 ## Python 
 
+- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - Spotify song downloader without injecting into the windows client
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes) - Converts text into a PDF of handwritten notes
 - [steventango/notability2pdf](https://github.com/steventango/notability2pdf) - Extract PDF files from notability (*.note).
@@ -268,6 +276,7 @@
 
 ## Ruby 
 
+- [IgnoredAmbience/github-gitlab-sync](https://github.com/IgnoredAmbience/github-gitlab-sync) - Continuous repository synchroniser between GitHub and GitLab
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## Rust 
