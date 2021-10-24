@@ -12,6 +12,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -86,8 +87,13 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
+## Dart 
+
+- [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
 ## Go 
 
+- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
@@ -119,6 +125,8 @@
 
 ## JavaScript 
 
+- [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
+- [asd920/Auto-jd](https://github.com/asd920/Auto-jd) - 京东自用脚本
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -177,6 +185,7 @@
 
 ## Others 
 
+- [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -210,6 +219,7 @@
 
 ## PHP 
 
+- [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [SkyEmie/batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator) - Easy way to obfuscuate batch files (Windows)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
@@ -221,6 +231,10 @@
 
 ## Python 
 
+- [BadagalaAdarsh/Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario) - 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Forward message automatically from channel/group with telegram bot @/heroku
+- [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify) - PagerMaid Telegram utility daemon.
 - [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - Spotify song downloader without injecting into the windows client
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes) - Converts text into a PDF of handwritten notes
