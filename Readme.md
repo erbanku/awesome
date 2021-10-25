@@ -44,6 +44,7 @@
 
 ## C 
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core) - Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
 - [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
@@ -188,6 +189,7 @@
 
 ## Others 
 
+- [treehollow/install-doc](https://github.com/treehollow/install-doc) - 如何搭建一个树洞
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
@@ -238,7 +240,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Forward message automatically from channel/group with telegram bot @/heroku
 - [Xtao-Labs/PagerMaid-Modify](https://github.com/Xtao-Labs/PagerMaid-Modify) - PagerMaid Telegram utility daemon.
-- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - Spotify song downloader without injecting into the windows client
+- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg.
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes) - Converts text into a PDF of handwritten notes
 - [steventango/notability2pdf](https://github.com/steventango/notability2pdf) - Extract PDF files from notability (*.note).
@@ -307,6 +309,7 @@
 
 ## Shell 
 
+- [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
