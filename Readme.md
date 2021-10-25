@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables.
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
