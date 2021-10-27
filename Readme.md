@@ -304,6 +304,7 @@
 
 ## Rust 
 
+- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
