@@ -32,6 +32,7 @@
   - [Svelte](#svelte)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
@@ -73,6 +74,7 @@
 
 ## C++ 
 
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
@@ -359,6 +361,7 @@
 
 ## TypeScript 
 
+- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [rid9/DateTime](https://github.com/rid9/DateTime) - Date and time status bar information for Visual Studio Code.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
@@ -380,6 +383,10 @@
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+
+## Vim script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Visual Basic .NET 
 
