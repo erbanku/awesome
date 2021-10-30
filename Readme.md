@@ -56,6 +56,8 @@
 
 ## C# # 
 
+- [wakatime/notepadpp-wakatime](https://github.com/wakatime/notepadpp-wakatime) - Notepad++ plugin for automatic time tracking and metrics generated from your programming activity.
+- [wakatime/office-wakatime](https://github.com/wakatime/office-wakatime) - Office Solution add-ins for automatic time tracking and metrics generated from your programming activity.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -119,7 +121,7 @@
 ## HTML 
 
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、大屏、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网
+- [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网
 - [HuyNguyenAu/notability-to-svg](https://github.com/HuyNguyenAu/notability-to-svg) - A short and simple Python script that converts a Notability note into an SVG wrapped HTML file.
 - [guillaC/JSBatchobfuscator](https://github.com/guillaC/JSBatchobfuscator) - JSBatchobfuscator is a simple obfuscator for batch script
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -141,6 +143,7 @@
 
 ## JavaScript 
 
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -363,6 +366,7 @@
 
 ## TypeScript 
 
+- [YXL76/cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) - Netease Music for VS Code / 网易云音乐vscode扩展
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [rid9/DateTime](https://github.com/rid9/DateTime) - Date and time status bar information for Visual Studio Code.
