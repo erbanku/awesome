@@ -109,6 +109,7 @@
 
 ## Go 
 
+- [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
@@ -143,6 +144,8 @@
 
 ## JavaScript 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [Glitchbone/vscode-base16-term](https://github.com/Glitchbone/vscode-base16-term) - Base16 Terminal Colors for Visual Studio Code
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
@@ -349,6 +352,7 @@
 
 ## Shell 
 
+- [SnShine/Twitter-to-DayOne](https://github.com/SnShine/Twitter-to-DayOne) - Fetches all your tweets of the day and makes a DayOne entry.
 - [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -366,6 +370,9 @@
 
 ## TypeScript 
 
+- [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
+- [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
+- [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
 - [YXL76/cloudmusic-vscode](https://github.com/YXL76/cloudmusic-vscode) - Netease Music for VS Code / 网易云音乐vscode扩展
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
