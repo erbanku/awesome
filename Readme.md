@@ -25,6 +25,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -57,6 +58,7 @@
 
 ## C# # 
 
+- [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
 - [wakatime/notepadpp-wakatime](https://github.com/wakatime/notepadpp-wakatime) - Notepad++ plugin for automatic time tracking and metrics generated from your programming activity.
 - [wakatime/office-wakatime](https://github.com/wakatime/office-wakatime) - Office Solution add-ins for automatic time tracking and metrics generated from your programming activity.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -73,10 +75,10 @@
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 - [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) - GUI for AV1 (aomenc, rav1e & svt-av1)
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 ## C++ 
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
@@ -147,6 +149,7 @@
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -345,6 +348,10 @@
 - [ZenithalHourlyRate/thuservices](https://github.com/ZenithalHourlyRate/thuservices) - https://thu.services. A yellow page for Tsinghua/THU service/info/utils
 - [lflame/TsinghuaBookCrawler](https://github.com/lflame/TsinghuaBookCrawler) - 清华教参平台爬虫
 
+## Rich Text Format 
+
+- [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
+
 ## Ruby 
 
 - [IgnoredAmbience/github-gitlab-sync](https://github.com/IgnoredAmbience/github-gitlab-sync) - Continuous repository synchroniser between GitHub and GitLab
@@ -387,6 +394,7 @@
 
 ## TypeScript 
 
+- [brianlovin/figma-dominant-color-toolkit](https://github.com/brianlovin/figma-dominant-color-toolkit) - Generate a palette from an image to magically populate your designs.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
 - [doki-theme/doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) - Code with your waifu! Here are a bunch of themes for VS-Code. Choose a girl from various anime series, manga, and visual novels such as: Re:Zero, KillLaKill and Doki-Doki Literature Club.
