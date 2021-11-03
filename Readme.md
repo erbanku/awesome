@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [AkiyamaKunka/rtconfer-whiteboard](https://github.com/AkiyamaKunka/rtconfer-whiteboard) - Web conference platform, provide collaborative canvas + video-streaming + real-time code + rich-text editing + file displaying, team and session management. | Do contact us if you wanna join in!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -236,6 +237,7 @@
 
 ## Others 
 
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [dracula/telegram](https://github.com/dracula/telegram) - 🧛🏻‍♂️ Dark theme for Telegram Desktop
 - [ahmadawais/shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple to go along with your VSCode. Reviewed by several designers and 75+ theme versions released to keep it updated. One of the top rated best VSCode themes on VS Code Marketplace. Download →
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
