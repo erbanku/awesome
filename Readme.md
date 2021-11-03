@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [gabrielbarros/export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
 - [AkiyamaKunka/rtconfer-whiteboard](https://github.com/AkiyamaKunka/rtconfer-whiteboard) - Web conference platform, provide collaborative canvas + video-streaming + real-time code + rich-text editing + file displaying, team and session management. | Do contact us if you wanna join in!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -396,6 +397,7 @@
 
 ## TypeScript 
 
+- [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [brianlovin/figma-dominant-color-toolkit](https://github.com/brianlovin/figma-dominant-color-toolkit) - Generate a palette from an image to magically populate your designs.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
