@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [arturbien/Mandala-3D](https://github.com/arturbien/Mandala-3D) - :cherry_blossom: Dynamically drawing 3D Mandala patterns. Made with three.js and GSAP tweenmax.
 - [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
