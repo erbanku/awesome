@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [arturbien/Mandala-3D](https://github.com/arturbien/Mandala-3D) - :cherry_blossom: Dynamically drawing 3D Mandala patterns. Made with three.js and GSAP tweenmax.
@@ -302,6 +303,7 @@
 
 ## Python 
 
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [mono0926/alfred-git-commit-message-example](https://github.com/mono0926/alfred-git-commit-message-example) - Alfred Git Commit Message Example
 - [SkullTech/twitter-follow-bot](https://github.com/SkullTech/twitter-follow-bot) - A tool for automatically following a bunch of Twitter accounts
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -408,6 +410,7 @@
 
 ## TypeScript 
 
+- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
@@ -459,6 +462,7 @@
 
 ## Vue 
 
+- [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
