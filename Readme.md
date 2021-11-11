@@ -91,6 +91,7 @@
 
 ## CSS 
 
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -150,6 +151,7 @@
 
 ## JavaScript 
 
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
@@ -390,6 +392,7 @@
 
 ## Shell 
 
+- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [SnShine/Twitter-to-DayOne](https://github.com/SnShine/Twitter-to-DayOne) - Fetches all your tweets of the day and makes a DayOne entry.
 - [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
