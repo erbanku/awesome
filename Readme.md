@@ -151,6 +151,7 @@
 
 ## JavaScript 
 
+- [pocc/bulk_delete_notion_pages](https://github.com/pocc/bulk_delete_notion_pages) - Bookmarklet to permanently delete all notion pages that have already been deleted.
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 😡 A CLI that tells you who recently unfollowed you on GitHub
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -306,6 +307,7 @@
 
 ## Python 
 
+- [axyyu/notion-clear-trash](https://github.com/axyyu/notion-clear-trash) - A small script to clear the trash from Notion
 - [mono0926/alfred-git-commit-message-example](https://github.com/mono0926/alfred-git-commit-message-example) - Alfred Git Commit Message Example
 - [SkullTech/twitter-follow-bot](https://github.com/SkullTech/twitter-follow-bot) - A tool for automatically following a bunch of Twitter accounts
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
