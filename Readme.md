@@ -161,7 +161,7 @@
 - [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [candh/cookies-backup-chrome](https://github.com/candh/cookies-backup-chrome) - A Chrome Extension that Backups and 🔐 Encrypts and Restores 🍪 Cookies.
 - [gabrielbarros/export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
-- [AkiyamaKunka/rtconfer-whiteboard](https://github.com/AkiyamaKunka/rtconfer-whiteboard) - Web conference platform, provide collaborative canvas + video-streaming + real-time code + rich-text editing + file displaying, team and session management. | Do contact us if you wanna join in!
+- [AkiyamaKunka/rtconfer-whiteboard](https://github.com/AkiyamaKunka/rtconfer-whiteboard) - Web conference platform integrated collaborative rich-media canvas ⚙ Every feature you can image!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
