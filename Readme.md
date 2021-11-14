@@ -468,6 +468,7 @@
 
 ## Vue 
 
+- [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files in at the same time, with certain condition. Available for windows, linux, and macos
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
