@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -310,6 +311,7 @@
 
 ## Python 
 
+- [woider/PythonExercise](https://github.com/woider/PythonExercise) - Python 编程练习题 100 例（源码），实例在 Python 3.6 环境下测试通过。
 - [axyyu/notion-clear-trash](https://github.com/axyyu/notion-clear-trash) - A small script to clear the trash from Notion
 - [mono0926/alfred-git-commit-message-example](https://github.com/mono0926/alfred-git-commit-message-example) - Alfred Git Commit Message Example
 - [SkullTech/twitter-follow-bot](https://github.com/SkullTech/twitter-follow-bot) - A tool for automatically following a bunch of Twitter accounts
