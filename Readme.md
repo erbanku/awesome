@@ -252,6 +252,7 @@
 
 ## Others 
 
+- [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
@@ -276,7 +277,6 @@
 - [actionsflow/awesome-actionsflow](https://github.com/actionsflow/awesome-actionsflow) - This is a list of awesome workflow use cases for Actionsflow
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
-- [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
@@ -420,6 +420,7 @@
 
 ## TypeScript 
 
+- [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
