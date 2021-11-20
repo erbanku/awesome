@@ -20,6 +20,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [MATLAB](#matlab)
+  - [Meson](#meson)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -248,6 +249,10 @@
 
 - [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 
+## Meson 
+
+- [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
+
 ## Objective-C 
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
@@ -313,6 +318,7 @@
 
 ## Python 
 
+- [genzj/pybingwallpaper](https://github.com/genzj/pybingwallpaper) - Download wallpaper from bing.com
 - [woider/PythonExercise](https://github.com/woider/PythonExercise) - Python 编程练习题 100 例（源码），实例在 Python 3.6 环境下测试通过。
 - [axyyu/notion-clear-trash](https://github.com/axyyu/notion-clear-trash) - A small script to clear the trash from Notion
 - [mono0926/alfred-git-commit-message-example](https://github.com/mono0926/alfred-git-commit-message-example) - Alfred Git Commit Message Example
