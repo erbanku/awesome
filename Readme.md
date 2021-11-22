@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [sttz/expresso](https://github.com/sttz/expresso) - expresso is a command line interface to control the ExpressVPN app
 - [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
 - [wakatime/notepadpp-wakatime](https://github.com/wakatime/notepadpp-wakatime) - Notepad++ plugin for automatic time tracking and metrics generated from your programming activity.
@@ -95,6 +96,9 @@
 
 ## CSS 
 
+- [kevinzhao2233/typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) - This is a typora theme inspired by sspai.com and Misty. 一个typora主题，具有少数派和Misty的风格
+- [wilde3/typora-theme-redrail](https://github.com/wilde3/typora-theme-redrail) - This is a typora theme inspired by pie and ursine theme. 一个typora主题，具有pie和ursine风格。
+- [Theigrams/My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes) - A CSS style for Typora
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 - [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -156,6 +160,7 @@
 
 ## JavaScript 
 
+- [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
 - [sigoden/netease-music-crx](https://github.com/sigoden/netease-music-crx) - 能够收听VIP或变灰歌曲的网易云音乐播放器
 - [pocc/bulk_delete_notion_pages](https://github.com/pocc/bulk_delete_notion_pages) - Bookmarklet to permanently delete all notion pages that have already been deleted.
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 😡 A CLI that tells you who recently unfollowed you on GitHub
@@ -239,6 +244,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) - PyTorch implementation of AnimeGANv2
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
@@ -315,10 +321,12 @@
 
 ## PowerShell 
 
+- [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
 
 ## Python 
 
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [srx-2000/spider_collection](https://github.com/srx-2000/spider_collection) - python爬虫，目前库存：网易云音乐歌曲爬取，B站视频爬取，知乎问答爬取，壁纸爬取，xvideos视频爬取，有声书爬取，微博爬虫，安居客信息爬取+数据可视化，哔哩哔哩视频封面提取器，ip代理池封装，知乎百万级用户爬虫+数据分析
@@ -433,6 +441,7 @@
 
 ## TypeScript 
 
+- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
