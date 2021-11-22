@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！
 - [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
 - [sigoden/netease-music-crx](https://github.com/sigoden/netease-music-crx) - 能够收听VIP或变灰歌曲的网易云音乐播放器
 - [pocc/bulk_delete_notion_pages](https://github.com/pocc/bulk_delete_notion_pages) - Bookmarklet to permanently delete all notion pages that have already been deleted.
@@ -266,6 +267,7 @@
 
 ## Others 
 
+- [atomiechen/THU-PPT-Theme](https://github.com/atomiechen/THU-PPT-Theme) - 清华主题PPT模板
 - [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
@@ -326,6 +328,7 @@
 
 ## Python 
 
+- [find456789/pipyuan](https://github.com/find456789/pipyuan) - pipyuan 内置了国内常用的 pip 源， 你可以快速设置想要的源
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -441,6 +444,7 @@
 
 ## TypeScript 
 
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
