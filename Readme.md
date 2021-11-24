@@ -61,6 +61,7 @@
 
 ## C# # 
 
+- [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [sttz/expresso](https://github.com/sttz/expresso) - expresso is a command line interface to control the ExpressVPN app
 - [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
@@ -136,6 +137,8 @@
 
 ## HTML 
 
+- [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [belaviyo/save-images](https://github.com/belaviyo/save-images) - Save loaded images in nested iframe pages
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网
@@ -314,6 +317,7 @@
 
 ## PHP 
 
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [SkyEmie/batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator) - Easy way to obfuscuate batch files (Windows)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
