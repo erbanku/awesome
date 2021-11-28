@@ -124,7 +124,6 @@
 
 ## Go 
 
-- [chenjiandongx/clock](https://github.com/chenjiandongx/clock) - 😅 人生短短数十载 来都来了 凑活着过吧
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
 - [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter) - Exports Prometheus metrics from Wakatime.
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
