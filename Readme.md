@@ -98,6 +98,7 @@
 
 ## CSS 
 
+- [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
 - [kevinzhao2233/typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) - This is a typora theme inspired by sspai.com and Misty. 一个typora主题，具有少数派和Misty的风格
 - [wilde3/typora-theme-redrail](https://github.com/wilde3/typora-theme-redrail) - This is a typora theme inspired by pie and ursine theme. 一个typora主题，具有pie和ursine风格。
 - [Theigrams/My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes) - A CSS style for Typora
@@ -166,6 +167,7 @@
 
 ## JavaScript 
 
+- [binaryoung/convert-atom-snippets-to-vscode](https://github.com/binaryoung/convert-atom-snippets-to-vscode) - A tiny package that help you convert atom snippets to vscode format.
 - [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
 - [sigoden/netease-music-crx](https://github.com/sigoden/netease-music-crx) - 能够收听VIP或变灰歌曲的网易云音乐播放器
 - [pocc/bulk_delete_notion_pages](https://github.com/pocc/bulk_delete_notion_pages) - Bookmarklet to permanently delete all notion pages that have already been deleted.
@@ -184,7 +186,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Glitchbone/vscode-base16-term](https://github.com/Glitchbone/vscode-base16-term) - Base16 Terminal Colors for Visual Studio Code
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -273,6 +274,7 @@
 
 ## Others 
 
+- [mcdtaiwan/McDonalds_Fries_Font](https://github.com/mcdtaiwan/McDonalds_Fries_Font) - 為每⼀位熱愛薯條的麥當勞鐵粉獻上　—⿆當勞薯條體 薯條 vs 番茄醬一起鬧一下！酥脆綿密的薯條、沾上美味番茄醬，拼出無限可能。 ⿆當勞薯條體，免費開放下載！
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [atomiechen/THU-PPT-Theme](https://github.com/atomiechen/THU-PPT-Theme) - 清华主题PPT模板
 - [erbanku/awesome](https://github.com/erbanku/awesome) - My Awesome Repositories List
@@ -434,6 +436,7 @@
 
 ## Shell 
 
+- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [rey/tweet-delete](https://github.com/rey/tweet-delete) - 
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
