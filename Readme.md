@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [microsoft/vscode-atom-keybindings](https://github.com/microsoft/vscode-atom-keybindings) - Port of Atom Keybindings for VS Code.
 - [binaryoung/convert-atom-snippets-to-vscode](https://github.com/binaryoung/convert-atom-snippets-to-vscode) - A tiny package that help you convert atom snippets to vscode format.
 - [dstein64/workflows](https://github.com/dstein64/workflows) - ▶️ View the status of GitHub workflows.
 - [sigoden/netease-music-crx](https://github.com/sigoden/netease-music-crx) - 能够收听VIP或变灰歌曲的网易云音乐播放器
