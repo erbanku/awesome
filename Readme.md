@@ -117,6 +117,7 @@
 
 ## Clojure 
 
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## Dart 
@@ -167,6 +168,9 @@
 
 ## JavaScript 
 
+- [pxeger/url-shortener](https://github.com/pxeger/url-shortener) - World's simplest URL shortener using Cloudflare Workers
+- [mrmartineau/snippet-generator](https://github.com/mrmartineau/snippet-generator) - ⚡ Sublime Text, Atom & VS Code snippet generator
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [b3by/atom-clock](https://github.com/b3by/atom-clock) - Place a clock or calendar in your status bar
 - [microsoft/vscode-atom-keybindings](https://github.com/microsoft/vscode-atom-keybindings) - Port of Atom Keybindings for VS Code.
 - [binaryoung/convert-atom-snippets-to-vscode](https://github.com/binaryoung/convert-atom-snippets-to-vscode) - A tiny package that help you convert atom snippets to vscode format.
@@ -276,6 +280,7 @@
 
 ## Others 
 
+- [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 - [mcdtaiwan/McDonalds_Fries_Font](https://github.com/mcdtaiwan/McDonalds_Fries_Font) - 為每⼀位熱愛薯條的麥當勞鐵粉獻上　—⿆當勞薯條體 薯條 vs 番茄醬一起鬧一下！酥脆綿密的薯條、沾上美味番茄醬，拼出無限可能。 ⿆當勞薯條體，免費開放下載！
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [atomiechen/THU-PPT-Theme](https://github.com/atomiechen/THU-PPT-Theme) - 清华主题PPT模板
