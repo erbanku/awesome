@@ -1,0 +1,26 @@
+name: "monthly-auto-create-release"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+jobs:
+  release:
+    name: "Awesome Repositories List Monthly Release Create"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y%m%d')"
+      - name: "Build & test"
+        run: |
+          echo "Done!"
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: ${{ steps.date.outputs.date }}
+          prerelease: false
+          title: "Awesome Repositories List ${{ steps.date.outputs.date}} Release"
