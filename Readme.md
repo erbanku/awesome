@@ -284,6 +284,7 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - Listing of papers about machine learning for proteins.
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 - [mcdtaiwan/McDonalds_Fries_Font](https://github.com/mcdtaiwan/McDonalds_Fries_Font) - 為每⼀位熱愛薯條的麥當勞鐵粉獻上　—⿆當勞薯條體 薯條 vs 番茄醬一起鬧一下！酥脆綿密的薯條、沾上美味番茄醬，拼出無限可能。 ⿆當勞薯條體，免費開放下載！
@@ -345,6 +346,7 @@
 
 ## PowerShell 
 
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
 
@@ -426,6 +428,7 @@
 
 ## Rich Text Format 
 
+- [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 
 ## Ruby 
@@ -470,10 +473,12 @@
 
 ## TeX 
 
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nglviewer/ngl](https://github.com/nglviewer/ngl) - WebGL protein viewer
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder) - A small vscode extension that help you to create files & folder in Atom Style.
