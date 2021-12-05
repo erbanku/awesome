@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [pxeger/url-shortener](https://github.com/pxeger/url-shortener) - World's simplest URL shortener using Cloudflare Workers
@@ -285,6 +286,7 @@
 
 ## Others 
 
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - Listing of papers about machine learning for proteins.
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
@@ -479,6 +481,7 @@
 
 ## TypeScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nglviewer/ngl](https://github.com/nglviewer/ngl) - WebGL protein viewer
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
