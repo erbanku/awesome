@@ -62,6 +62,7 @@
 
 ## C# # 
 
+- [gheyret/UyghurEditPP](https://github.com/gheyret/UyghurEditPP) - Text Editor with Spell Check Ability for Uyghur
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [sttz/expresso](https://github.com/sttz/expresso) - expresso is a command line interface to control the ExpressVPN app
@@ -100,6 +101,8 @@
 
 ## CSS 
 
+- [sweatran/typora-onedark-theme](https://github.com/sweatran/typora-onedark-theme) - A dark theme for Typora inspired by VScode's One Dark Pro theme.
+- [ljosberinn/github-one-dark-vivid](https://github.com/ljosberinn/github-one-dark-vivid) - [Browser Extension] changes GitHubs code appearance to resemble One Dark Vivid with Fira Code of VS Code as closely as possible, built upon https://github.com/vovanmix/github-dark-theme
 - [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
 - [kevinzhao2233/typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) - This is a typora theme inspired by sspai.com and Misty. 一个typora主题，具有少数派和Misty的风格
 - [wilde3/typora-theme-redrail](https://github.com/wilde3/typora-theme-redrail) - This is a typora theme inspired by pie and ursine theme. 一个typora主题，具有pie和ursine风格。
@@ -286,6 +289,8 @@
 
 ## Others 
 
+- [UyCode/uyfonts](https://github.com/UyCode/uyfonts) - there are UKIJ and Uighursoft fonts
+- [kkozee/vscode-theme-one-dark-vivid](https://github.com/kkozee/vscode-theme-one-dark-vivid) - Atom's One Dark Vivid Theme for VS Code
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - Listing of papers about machine learning for proteins.
@@ -340,6 +345,7 @@
 
 ## PHP 
 
+- [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [SkyEmie/batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator) - Easy way to obfuscuate batch files (Windows)
@@ -355,6 +361,7 @@
 
 ## Python 
 
+- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
 - [CyrusRenty/CNKI-download](https://github.com/CyrusRenty/CNKI-download) - :frog: 知网(CNKI)文献下载及文献速览爬虫
 - [aqlaboratory/proteinnet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure
 - [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) - To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released
@@ -542,6 +549,7 @@
 
 ## Vue 
 
+- [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
 - [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files in at the same time, with certain condition. Available for windows, linux, and macos
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - 🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
