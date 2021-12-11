@@ -63,6 +63,7 @@
 
 ## C# # 
 
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [gheyret/UyghurEditPP](https://github.com/gheyret/UyghurEditPP) - Text Editor with Spell Check Ability for Uyghur
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
@@ -134,6 +135,7 @@
 
 ## Go 
 
+- [erbanku/treehollow-backend](https://github.com/erbanku/treehollow-backend) - T大树洞 的Golang后端
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
 - [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter) - Exports Prometheus metrics from Wakatime.
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
@@ -306,6 +308,8 @@
 
 ## Others 
 
+- [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) - Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
+- [erbanku/webhole](https://github.com/erbanku/webhole) - THU Hole react frontend
 - [UyCode/uyfonts](https://github.com/UyCode/uyfonts) - there are UKIJ and Uighursoft fonts
 - [kkozee/vscode-theme-one-dark-vivid](https://github.com/kkozee/vscode-theme-one-dark-vivid) - Atom's One Dark Vivid Theme for VS Code
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
@@ -379,6 +383,7 @@
 
 ## Python 
 
+- [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [v2ex/remote](https://github.com/v2ex/remote) - Remote Worker
 - [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
@@ -508,6 +513,7 @@
 
 ## TypeScript 
 
+- [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
