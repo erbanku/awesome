@@ -35,6 +35,7 @@
   - [Sass](#sass)
   - [Shell](#shell)
   - [Svelte](#svelte)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -63,6 +64,7 @@
 
 ## C# # 
 
+- [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [gheyret/UyghurEditPP](https://github.com/gheyret/UyghurEditPP) - Text Editor with Spell Check Ability for Uyghur
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
@@ -135,6 +137,7 @@
 
 ## Go 
 
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [erbanku/treehollow-backend](https://github.com/erbanku/treehollow-backend) - T大树洞 的Golang后端
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
 - [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter) - Exports Prometheus metrics from Wakatime.
@@ -183,6 +186,7 @@
 
 ## JavaScript 
 
+- [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持telegram web登录。请勿将本项目用于非法用途，否则后果自负。
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
@@ -308,6 +312,11 @@
 
 ## Others 
 
+- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - An advanced guide to learn English that might benefit you a lot  可能是让你受益匪浅的英语进阶指南。
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) - Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
 - [erbanku/webhole](https://github.com/erbanku/webhole) - THU Hole react frontend
 - [UyCode/uyfonts](https://github.com/UyCode/uyfonts) - there are UKIJ and Uighursoft fonts
@@ -383,6 +392,7 @@
 
 ## Python 
 
+- [zhenghaoz/gitrec](https://github.com/zhenghaoz/gitrec) - A TikTok-like recommender system for GitHub repositories based on Gorse
 - [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [v2ex/remote](https://github.com/v2ex/remote) - Remote Worker
@@ -490,6 +500,7 @@
 
 ## Shell 
 
+- [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [rey/tweet-delete](https://github.com/rey/tweet-delete) - 
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
@@ -505,6 +516,10 @@
 ## Svelte 
 
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
+
+## Swift 
+
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 
 ## TeX 
 
