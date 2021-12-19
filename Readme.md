@@ -108,6 +108,7 @@
 
 ## CSS 
 
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [sweatran/typora-onedark-theme](https://github.com/sweatran/typora-onedark-theme) - A dark theme for Typora inspired by VScode's One Dark Pro theme.
 - [ljosberinn/github-one-dark-vivid](https://github.com/ljosberinn/github-one-dark-vivid) - [Browser Extension] changes GitHubs code appearance to resemble One Dark Vivid with Fira Code of VS Code as closely as possible, built upon https://github.com/vovanmix/github-dark-theme
 - [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
@@ -192,6 +193,7 @@
 
 ## JavaScript 
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [hunkim/digital-human](https://github.com/hunkim/digital-human) - 
 - [cheems/goindex-extended](https://github.com/cheems/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
@@ -414,6 +416,8 @@
 
 ## Python 
 
+- [waykom/weibo_top](https://github.com/waykom/weibo_top) - 每十分钟爬取一次微博热搜
+- [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
 - [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 通过获取IP定位，爬取当地的天气（不需要API）
 - [thep0y/up2b](https://github.com/thep0y/up2b) - Typora's image upload package
 - [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
