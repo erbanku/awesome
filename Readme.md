@@ -259,7 +259,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [RichardKrikler/Notability-Viewer](https://github.com/RichardKrikler/Notability-Viewer) - Notability Note Viewer for the Backup PDFs inside of a file system (e.g. with OneDrive integration in Windows).
+- [richardkrikler/Notability-Viewer](https://github.com/richardkrikler/Notability-Viewer) - Notability Note Viewer for the Backup PDFs inside of a file system (e.g. with OneDrive integration in Windows).
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 各平台的分流规则、复写规则及自动化脚本。
 - [littlegolden/syntax-highlight-word](https://github.com/littlegolden/syntax-highlight-word) - A revived project of Syntax Highlight Code for planetB.
