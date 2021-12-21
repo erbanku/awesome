@@ -110,6 +110,7 @@
 
 ## CSS 
 
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [sweatran/typora-onedark-theme](https://github.com/sweatran/typora-onedark-theme) - A dark theme for Typora inspired by VScode's One Dark Pro theme.
 - [ljosberinn/github-one-dark-vivid](https://github.com/ljosberinn/github-one-dark-vivid) - [Browser Extension] changes GitHubs code appearance to resemble One Dark Vivid with Fira Code of VS Code as closely as possible, built upon https://github.com/vovanmix/github-dark-theme
@@ -163,6 +164,7 @@
 
 ## HTML 
 
+- [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -193,7 +195,7 @@
 - [zhaojun1998/zfile](https://github.com/zhaojun1998/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现优秀中文项目，无语言障碍地、更高效地吸收优秀经验成果。
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，分离中文/英文、软件/资料项目，精准挖掘优秀中文项目，高效吸收优秀经验。               Brother project: 「GitHub English Top Charts」https://github.com/kon9chunkit/GitHub-English-Top-Charts
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## JavaScript 
@@ -423,7 +425,7 @@
 
 - [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) - 🚀 Curated collection of Awesome Python Scripts which will make you go wow. Dive into this world of 360+ scripts. Feel free to contribute. Show your support by ✨this repository.
 - [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
-- [kon9chunkit/GitHub-English-Top-Charts](https://github.com/kon9chunkit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of the interference of other spoken language.
+- [kon9chunkit/GitHub-English-Top-Charts](https://github.com/kon9chunkit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [waykom/weibo_top](https://github.com/waykom/weibo_top) - 每十分钟爬取一次微博热搜
 - [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
 - [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 通过获取IP定位，爬取当地的天气（不需要API）
