@@ -201,6 +201,8 @@
 
 ## JavaScript 
 
+- [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
+- [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [toncenter/ton-wallet](https://github.com/toncenter/ton-wallet) - Web Wallet for TON (The Open Network)
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -313,6 +315,7 @@
 
 ## Jupyter Notebook 
 
+- [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Spidy20/Python_To_APK](https://github.com/Spidy20/Python_To_APK) - You can convert your Python Code to Android APK.
 - [Dsantra92/Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab
@@ -342,6 +345,7 @@
 
 ## Others 
 
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
 - [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
 - [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
 - [erbanku/picx-image-hosting](https://github.com/erbanku/picx-image-hosting) - Personal image hosting repository, please do not fork or download, thanks~
@@ -429,6 +433,9 @@
 
 ## Python 
 
+- [songquanpeng/zhihu-archiver](https://github.com/songquanpeng/zhihu-archiver) - 每日自动抓取知乎热榜，之后转换成 Markdown 文件并构造静态网站
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [bmjcode/pywebarchive](https://github.com/bmjcode/pywebarchive) - Software for reading Apple's webarchive format
