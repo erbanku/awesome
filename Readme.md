@@ -66,6 +66,7 @@
 
 ## C# # 
 
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [DinoChan/Loaf](https://github.com/DinoChan/Loaf) - 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
@@ -198,7 +199,7 @@
 - [zhaojun1998/zfile](https://github.com/zhaojun1998/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## JavaScript 
@@ -450,7 +451,7 @@
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) - 🚀 Curated collection of Awesome Python Scripts which will make you go wow. Dive into this world of 360+ scripts. Feel free to contribute. Show your support by ✨this repository.
 - [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
-- [kon9chunkit/GitHub-English-Top-Charts](https://github.com/kon9chunkit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
+- [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [waykom/weibo_top](https://github.com/waykom/weibo_top) - 每十分钟爬取一次微博热搜
 - [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
@@ -600,6 +601,7 @@
 
 ## TypeScript 
 
+- [GustavoASC/google-drive-vscode](https://github.com/GustavoASC/google-drive-vscode) - Extension to integrate VSCode with Google Drive™
 - [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
