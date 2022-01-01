@@ -350,6 +350,8 @@
 
 ## Others 
 
+- [60ss/Npp-1-Dark](https://github.com/60ss/Npp-1-Dark) - One Dark Syntax Theme for Notepad++
+- [rdev/vscode-theme-onedark-spacegray](https://github.com/rdev/vscode-theme-onedark-spacegray) - VSCode Theme based on Atom's One Dark theme
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
