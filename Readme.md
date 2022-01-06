@@ -558,6 +558,7 @@
 
 ## Roff 
 
+- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - Auto Mergo New Rules From Upstream Website./来自上游网站的自动合并新规则。
 - [JACKUSR2089/v2ray-subscribed](https://github.com/JACKUSR2089/v2ray-subscribed) - v2ray666
 
 ## Ruby 
