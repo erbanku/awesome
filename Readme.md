@@ -147,6 +147,7 @@
 
 ## Go 
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [sjlleo/VerifyDisneyPlus](https://github.com/sjlleo/VerifyDisneyPlus) - 一个检测出口IP是否解锁DisneyPlus的脚本
 - [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [ahui2016/localtags](https://github.com/ahui2016/localtags) - localtags: 一个本地文件备份系统 + 正确设计的标签系统
