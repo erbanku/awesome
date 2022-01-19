@@ -149,7 +149,7 @@
 
 ## Go 
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - windows平台clash_for_windows一键更新工具
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - Malio主题 - Malio分支是Malio原版(by editXY) - QuickEdition分支是极速版(无js加密 - By彩虹)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [imlonghao/smms-bot](https://github.com/imlonghao/smms-bot) - A Telegram Bot For SM.MS
@@ -374,6 +375,8 @@
 
 ## Others 
 
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+- [jeffreyxuan/toneoz-font-pinyin-kai](https://github.com/jeffreyxuan/toneoz-font-pinyin-kai) - 
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，兼容 Surge for iOS 和 Surge for Mac 客户端。
@@ -589,6 +592,7 @@
 
 ## Ruby 
 
+- [apsheronets/reader](https://github.com/apsheronets/reader) - 
 - [IgnoredAmbience/github-gitlab-sync](https://github.com/IgnoredAmbience/github-gitlab-sync) - Continuous repository synchroniser between GitHub and GitLab
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
