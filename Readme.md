@@ -54,6 +54,7 @@
 
 ## C 
 
+- [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience.
@@ -375,6 +376,7 @@
 
 ## Others 
 
+- [AlenZhang-Dev/News-Record](https://github.com/AlenZhang-Dev/News-Record) - 目前主要维护经济学人【The Economist】、纽约客【The NewYorker】和时代杂志【Time】
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [jeffreyxuan/toneoz-font-pinyin-kai](https://github.com/jeffreyxuan/toneoz-font-pinyin-kai) - 
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅
