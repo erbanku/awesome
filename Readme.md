@@ -480,6 +480,7 @@
 
 ## Python 
 
+- [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
@@ -665,6 +666,7 @@
 
 ## TypeScript 
 
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - mdSilo is an open-source alternative to your writing tool. You fully own and control  your data.
 - [GustavoASC/google-drive-vscode](https://github.com/GustavoASC/google-drive-vscode) - Extension to integrate VSCode with Google Drive™
