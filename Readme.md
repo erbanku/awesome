@@ -149,7 +149,7 @@
 
 ## Go 
 
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
@@ -625,6 +625,7 @@
 
 ## Shell 
 
+- [Websoft9/ansible-nextcloud](https://github.com/Websoft9/ansible-nextcloud) - Automatic installation for Nextcloud on Linux（Nextcloud自动安装程序）
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
