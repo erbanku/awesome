@@ -625,6 +625,7 @@
 
 ## Shell 
 
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [Websoft9/ansible-nextcloud](https://github.com/Websoft9/ansible-nextcloud) - Automatic installation for Nextcloud on Linux（Nextcloud自动安装程序）
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
