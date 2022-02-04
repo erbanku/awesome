@@ -628,6 +628,7 @@
 
 ## Shell 
 
+- [gfw-breaker/ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) - V2Ray, 免费V2Ray账号分享, 翻墙,无界, 自由门, SquirrelVPN, SS账号, 机场
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [Websoft9/ansible-nextcloud](https://github.com/Websoft9/ansible-nextcloud) - Automatic installation for Nextcloud on Linux（Nextcloud自动安装程序）
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
