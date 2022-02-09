@@ -55,7 +55,7 @@
 ## C 
 
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
@@ -121,6 +121,7 @@
 
 ## CSS 
 
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
 - [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
@@ -152,6 +153,8 @@
 
 ## Go 
 
+- [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opionated MTPROTO proxy for Telegram
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -229,6 +232,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [suxiaogang/WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) - 新浪微博图床 Chrome扩展
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - Malio主题 - Malio分支是Malio原版(by editXY) - QuickEdition分支是极速版(无js加密 - By彩虹)
@@ -666,6 +670,7 @@
 
 ## Swift 
 
+- [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 
 ## TeX 
@@ -676,6 +681,7 @@
 
 ## TypeScript 
 
+- [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
