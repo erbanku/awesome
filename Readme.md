@@ -767,7 +767,7 @@
 - [xiaoluoboding/skylines](https://github.com/xiaoluoboding/skylines) - My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 - [luyuhuang/DWords2](https://github.com/luyuhuang/DWords2) - Show words as Danmaku on the screen to help you memorize them | 把单词变成屏幕上的弹幕来帮助你记住它们
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 
 
 ## License
