@@ -385,6 +385,7 @@
 
 ## Others 
 
+- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [methylcloud/learn-gcp](https://github.com/methylcloud/learn-gcp) - Study resources to learn Google Cloud Platform (GCP)
 - [awsdocs/amazon-ec2-user-guide-windows](https://github.com/awsdocs/amazon-ec2-user-guide-windows) - The open source version of the Amazon EC2 User Guide for Windows. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
 - [AlenZhang-Dev/News-Record](https://github.com/AlenZhang-Dev/News-Record) - 目前主要维护经济学人【The Economist】、纽约客【The NewYorker】和时代杂志【Time】
