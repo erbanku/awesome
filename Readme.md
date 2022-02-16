@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [ksinkar/ticpp2](https://github.com/ksinkar/ticpp2) - Thinking in C++ (Volume 2)
 - [ksinkar/ticpp1](https://github.com/ksinkar/ticpp1) - Thinking in C++ (Volume 1)
 - [lammps/lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
