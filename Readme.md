@@ -22,6 +22,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [MATLAB](#matlab)
+  - [Makefile](#makefile)
   - [Meson](#meson)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -101,6 +102,10 @@
 
 ## C++ 
 
+- [czs108/Cpp-Primer-5th-Notes-CN](https://github.com/czs108/Cpp-Primer-5th-Notes-CN) - 📚 《C++ Primer中文版（第5版）》笔记
+- [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5 answers
+- [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
+- [xaxfan/Cpp_Primer_5th](https://github.com/xaxfan/Cpp_Primer_5th) - 📔  C++ Primer 第五版
 - [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - 下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发
 - [TcNobo/TcNo-WSA-SimpleSideload](https://github.com/TcNobo/TcNo-WSA-SimpleSideload) - Open .apk files with one-click on Windows 11
 - [ksinkar/ticpp2](https://github.com/ksinkar/ticpp2) - Thinking in C++ (Volume 2)
@@ -192,7 +197,7 @@
 - [long2ice/longurl](https://github.com/long2ice/longurl) - A self-hosted short url service
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -385,6 +390,10 @@
 
 - [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 
+## Makefile 
+
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+
 ## Meson 
 
 - [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
@@ -395,6 +404,8 @@
 
 ## Others 
 
+- [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书籍整理分享，持续更新...
+- [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
