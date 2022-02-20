@@ -164,6 +164,7 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opionated MTPROTO proxy for Telegram
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -246,6 +247,7 @@
 
 ## JavaScript 
 
+- [diafygi/gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - Source code for https://gethttpsforfree.com/
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [moshang-xc/lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [xuhuai66/used-book-pro](https://github.com/xuhuai66/used-book-pro) - 微信小程序云开发校园二手书商城，可在线支付提现，源码全开源
@@ -404,6 +406,7 @@
 
 ## Others 
 
+- [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书籍整理分享，持续更新...
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
@@ -516,6 +519,7 @@
 
 ## Python 
 
+- [libthu/reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader) - Download pages from http://reserves.lib.tsinghua.edu.cn/
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [SeaHOH/GotoX](https://github.com/SeaHOH/GotoX) - 本地自动代理，修改自 goagent。
@@ -648,6 +652,7 @@
 
 ## Rust 
 
+- [ihciah/ddns-worker](https://github.com/ihciah/ddns-worker) - 
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -668,6 +673,7 @@
 
 ## Shell 
 
+- [vicalloy/outline-docker-compose](https://github.com/vicalloy/outline-docker-compose) - Install a self-hosted Outline wiki instance in a couple of minutes
 - [txthinking/bash](https://github.com/txthinking/bash) - This repo provide a short url for your bash on Github Page with domain bash.ooo  这个仓库提供为你的bash脚本提供一个短网址，基于 Github Page 和域名 bash.ooo
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [haoyume/233blog-v2ray](https://github.com/haoyume/233blog-v2ray) - 
@@ -716,6 +722,9 @@
 
 ## TypeScript 
 
+- [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - Microsoft To Do 浏览器扩展
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [ddiu8081/bus-vis](https://github.com/ddiu8081/bus-vis) - 🚌 City bus visualizations of China.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -726,9 +735,9 @@
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - mdSilo is an open-source alternative to your writing tool. You fully own and control  your data.
 - [GustavoASC/google-drive-vscode](https://github.com/GustavoASC/google-drive-vscode) - Extension to integrate VSCode with Google Drive™
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nglviewer/ngl](https://github.com/nglviewer/ngl) - WebGL protein viewer
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
@@ -791,7 +800,6 @@
 
 - [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 - [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
 - [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files at the same time, with certain condition. Available for windows, linux, and macos
