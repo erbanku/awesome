@@ -13,7 +13,6 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Dart](#dart)
-  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -169,11 +168,7 @@
 
 ## Dart 
 
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.
-
-## Dockerfile 
-
-- [wabarc/on-github](https://github.com/wabarc/on-github) - Wayback service as GitHub Actions
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.
 
 ## Go 
 
@@ -496,7 +491,7 @@
 - [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [actionsflow/awesome-actionsflow](https://github.com/actionsflow/awesome-actionsflow) - This is a list of awesome workflow use cases for Actionsflow
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
@@ -696,7 +691,9 @@
 
 ## Shell 
 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [wabarc/on-heroku](https://github.com/wabarc/on-heroku) - Deploy and maintaining wayback service as a Heroku app easily and quickly.
+- [wabarc/on-github](https://github.com/wabarc/on-github) - Wayback service as GitHub Actions
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
 - [vicalloy/outline-docker-compose](https://github.com/vicalloy/outline-docker-compose) - Install a self-hosted Outline wiki instance in a couple of minutes
 - [txthinking/bash](https://github.com/txthinking/bash) - This repo provide a short url for your bash on Github Page with domain bash.ooo  这个仓库提供为你的bash脚本提供一个短网址，基于 Github Page 和域名 bash.ooo
