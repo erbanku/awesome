@@ -12,6 +12,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -165,6 +166,10 @@
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+
+## Dart 
+
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.
 
 ## Dockerfile 
 
@@ -418,6 +423,8 @@
 
 ## Others 
 
+- [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
@@ -740,6 +747,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🔥 The 2.x of vuepress-theme-reco.
 - [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - Microsoft To Do 浏览器扩展
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
