@@ -133,6 +133,7 @@
 
 ## CSS 
 
+- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautifull Tailwind typography layout for Typora.
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -739,6 +740,7 @@
 
 ## TypeScript 
 
+- [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🔥 The 2.x of vuepress-theme-reco.
 - [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - Microsoft To Do 浏览器扩展
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
@@ -815,6 +817,7 @@
 
 ## Vue 
 
+- [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - 🆒  My personal website and blog, powered by @vuejs (3)
 - [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
