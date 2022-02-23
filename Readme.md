@@ -105,6 +105,7 @@
 
 ## C++ 
 
+- [WhitewaterFoundry/Fedora-Remix-for-WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) - Fedora Remix for Windows Subsystem for Linux.
 - [czs108/Cpp-Primer-5th-Notes-CN](https://github.com/czs108/Cpp-Primer-5th-Notes-CN) - 📚 《C++ Primer中文版（第5版）》笔记
 - [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5 answers
 - [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
@@ -133,7 +134,7 @@
 
 ## CSS 
 
-- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautifull Tailwind typography layout for Typora.
+- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -396,7 +397,7 @@
 
 ## Kotlin 
 
-- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - https://1.2345345.xyz/ads.html
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
 
@@ -691,6 +692,7 @@
 
 ## Shell 
 
+- [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [wabarc/on-heroku](https://github.com/wabarc/on-heroku) - Deploy and maintaining wayback service as a Heroku app easily and quickly.
 - [wabarc/on-github](https://github.com/wabarc/on-github) - Wayback service as GitHub Actions
