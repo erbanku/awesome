@@ -134,7 +134,6 @@
 
 ## CSS 
 
-- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
@@ -421,6 +420,7 @@
 
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
+- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
