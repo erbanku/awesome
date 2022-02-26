@@ -168,7 +168,7 @@
 
 ## Dart 
 
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube Music support.
 
 ## Go 
 
@@ -243,6 +243,7 @@
 
 ## Java 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -420,6 +421,8 @@
 
 ## Others 
 
+- [axipo/TrafficBlackhole](https://github.com/axipo/TrafficBlackhole) - network quality & proxy service bench
+- [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 好工具周刊，每周四发布
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
@@ -735,6 +738,7 @@
 
 ## Svelte 
 
+- [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - online bookmark application, easy and customizable for everyone
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
 ## Swift 
