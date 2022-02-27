@@ -245,7 +245,7 @@
 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [git-commit-id/git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) - Maven plugin which includes build-time git repository information into an POJO / *.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-)
@@ -257,6 +257,8 @@
 
 ## JavaScript 
 
+- [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
+- [rishimohan/pika](https://github.com/rishimohan/pika) - Open source app to beautify screenshots, quickly and easily
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [E011011101001/Twitter-Block-With-Love](https://github.com/E011011101001/Twitter-Block-With-Love) - Block users who loves a specific tweet, and help you improve your experience using Twitter.
 - [YaoZeyuan/stablog](https://github.com/YaoZeyuan/stablog) - 稳部落. 专业备份导出微博记录, 稳!
@@ -541,6 +543,9 @@
 
 ## Python 
 
+- [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
+- [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每日收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
+- [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [ros/ros](https://github.com/ros/ros) - Core ROS packages
 - [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent) - NGINX Amplify Agent
 - [libthu/reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader) - Download pages from http://reserves.lib.tsinghua.edu.cn/
