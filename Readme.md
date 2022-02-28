@@ -239,6 +239,7 @@
 
 ## Haskell 
 
+- [asvyazin/imgbb-telegram-bot](https://github.com/asvyazin/imgbb-telegram-bot) - Telegram bot for autouploading images to imgbb
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
@@ -543,6 +544,7 @@
 
 ## Python 
 
+- [AmineSoukara/ImgBB-Bot](https://github.com/AmineSoukara/ImgBB-Bot) - Telegram Bot That Hosts Your Image On imgbb.com And Returns Link
 - [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每日收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
 - [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
