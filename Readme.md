@@ -434,6 +434,7 @@
 
 ## Others 
 
+- [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [gqcn/effective-go-zh-en](https://github.com/gqcn/effective-go-zh-en) - 《Effective Go》中英双语版
 - [sublime-china/sublime-merge-chinese](https://github.com/sublime-china/sublime-merge-chinese) - Sublime Merge 汉化版
@@ -478,7 +479,7 @@
 - [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
 - [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
 - [erbanku/picx-image-hosting](https://github.com/erbanku/picx-image-hosting) - Personal image hosting repository, please do not fork or download, thanks~
-- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List,. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
+- [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [algolia/awesome-algolia](https://github.com/algolia/awesome-algolia) - 🔍👋  START HERE! A curated list of Algolia libraries, resources and projects.
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub) - ss/ssr/v2ray/trojan/mtproxy: 免费代理节点订阅clash,surge,loon,surfboard,quantumultX
@@ -567,6 +568,7 @@
 
 ## Python 
 
+- [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [absop/ST-ChineseTokenizer](https://github.com/absop/ST-ChineseTokenizer) - Sublime Text 3 的 jieba 分词库绑定，支持对中文更精确地选词、删词和按词移动光标
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put blind watermark into a text(invisible watermark for text).
