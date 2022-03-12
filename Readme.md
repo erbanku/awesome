@@ -177,6 +177,7 @@
 
 ## Go 
 
+- [yinchengtsinghua/IPFS-Golang-China](https://github.com/yinchengtsinghua/IPFS-Golang-China) - 清华尹成定制翻译版ipfs
 - [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
@@ -547,6 +548,7 @@
 
 ## PHP 
 
+- [bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL) - 清华大学计算机学科推荐学术会议和期刊列表
 - [youranreus/Subscription-Manager](https://github.com/youranreus/Subscription-Manager) - 订阅管理
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 - [privacy-protection-tools/dead-horse](https://github.com/privacy-protection-tools/dead-horse) - 
