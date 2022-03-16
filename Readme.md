@@ -179,6 +179,7 @@
 
 ## Go 
 
+- [holic/redirect.name](https://github.com/holic/redirect.name) - Simple DNS-based redirection service
 - [yinchengtsinghua/IPFS-Golang-China](https://github.com/yinchengtsinghua/IPFS-Golang-China) - 清华尹成定制翻译版ipfs
 - [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -606,7 +607,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 203 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 204 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -808,6 +809,7 @@
 
 ## TypeScript 
 
+- [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。主要目的是为了构建一个 React Native 快速开发脚手架。
 - [trzsz/trzsz.js](https://github.com/trzsz/trzsz.js) - Making webshell and terminal supports trzsz ( trz / tsz ), which similar to rz / sz, and compatible with tmux.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
@@ -894,7 +896,7 @@
 
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [yddeng/amp](https://github.com/yddeng/amp) - 自动化管理平台: 计划任务、进程控制、进程监控报警
-- [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - 🆒  My personal website and blog, powered by @vuejs (3)
+- [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My personal website and blog, powered by @vuejs (3)
 - [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
