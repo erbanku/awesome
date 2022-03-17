@@ -12,7 +12,9 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [D](#d)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -173,9 +175,17 @@
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
+## D 
+
+- [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
+
 ## Dart 
 
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WIP] 🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube Music support.
+
+## Dockerfile 
+
+- [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
 ## Go 
 
@@ -798,6 +808,7 @@
 
 ## Swift 
 
+- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 
