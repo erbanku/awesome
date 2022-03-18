@@ -280,6 +280,7 @@
 
 ## JavaScript 
 
+- [pabueco/linear-vscode-theme](https://github.com/pabueco/linear-vscode-theme) - 
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
 - [noxue/bingdundun](https://github.com/noxue/bingdundun) - 冰墩墩3d源码
@@ -451,6 +452,8 @@
 
 ## Others 
 
+- [pabueco/new-moon-vscode](https://github.com/pabueco/new-moon-vscode) - 🌙 New Moon Theme for Visual Studio Code.
+- [pabueco/tokyo-night-vscode-theme](https://github.com/pabueco/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
@@ -803,6 +806,7 @@
 
 ## Svelte 
 
+- [pabueco/hue.tools](https://github.com/pabueco/hue.tools) - Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.
 - [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - online bookmark application, easy and customizable for everyone
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
