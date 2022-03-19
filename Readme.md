@@ -59,6 +59,7 @@
 
 ## C 
 
+- [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
@@ -282,6 +283,7 @@
 
 ## JavaScript 
 
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀
 - [pabueco/linear-vscode-theme](https://github.com/pabueco/linear-vscode-theme) - 
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
@@ -466,7 +468,6 @@
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
 - [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-- [disbalancer-project/main](https://github.com/disbalancer-project/main) - 
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [stop-war-in-ukraine/stop-russia-it](https://github.com/stop-war-in-ukraine/stop-russia-it) - An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни.
 - [axipo/TrafficBlackhole](https://github.com/axipo/TrafficBlackhole) - network quality & proxy service bench
@@ -766,6 +767,7 @@
 
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [denysdovhan/one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) - Atom's One Dark and One Light theme for GNOME Terminal
+- [disbalancer-project/main](https://github.com/disbalancer-project/main) - 
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [xiantang/xiantang-blog](https://github.com/xiantang/xiantang-blog) - blog
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
