@@ -269,7 +269,7 @@
 
 ## Java 
 
-- [G3G4X5X6/ultimateshell](https://github.com/G3G4X5X6/ultimateshell) - UltimateShell 是开源的远程服务器管理工具箱，目标是为渗透测试工程师、程序员、网站管理员、IT 管理员以及几乎所有需要以更简单的方式处理远程工作的用户提供大量定制功能。
+- [G3G4X5X6/ultimateshell](https://github.com/G3G4X5X6/ultimateshell) - 代码重构中......
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -284,6 +284,9 @@
 
 ## JavaScript 
 
+- [Robpayot/risograph-grain-shader](https://github.com/Robpayot/risograph-grain-shader) - Light grain shader codrops tutorial
+- [erbanku/smms-bot](https://github.com/erbanku/smms-bot) - A Telegram Bot For SM.MS
+- [imlonghao/smms-bot](https://github.com/imlonghao/smms-bot) - A Telegram Bot For SM.MS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀
 - [pabueco/linear-vscode-theme](https://github.com/pabueco/linear-vscode-theme) - 
@@ -309,7 +312,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - Malio主题 - Malio分支是Malio原版(by editXY) - QuickEdition分支是极速版(无js加密 - By彩虹)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-- [imlonghao/smms-bot](https://github.com/imlonghao/smms-bot) - A Telegram Bot For SM.MS
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
 - [szenius/set-timezone](https://github.com/szenius/set-timezone) - GitHub action to set timezone in your locale, works with Linux, Windows, MacOS
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
@@ -458,6 +460,7 @@
 
 ## Others 
 
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [pabueco/new-moon-vscode](https://github.com/pabueco/new-moon-vscode) - 🌙 New Moon Theme for Visual Studio Code.
 - [pabueco/tokyo-night-vscode-theme](https://github.com/pabueco/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
