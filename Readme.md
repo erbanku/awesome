@@ -271,7 +271,7 @@
 
 ## Java 
 
-- [G3G4X5X6/ultimateshell](https://github.com/G3G4X5X6/ultimateshell) - 代码重构中......
+- [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - 代码重构中......
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -286,6 +286,7 @@
 
 ## JavaScript 
 
+- [aboutDavid/discord-telegram-bridge](https://github.com/aboutDavid/discord-telegram-bridge) - rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [Robpayot/risograph-grain-shader](https://github.com/Robpayot/risograph-grain-shader) - Light grain shader codrops tutorial
 - [erbanku/smms-bot](https://github.com/erbanku/smms-bot) - A Telegram Bot For SM.MS
@@ -428,6 +429,7 @@
 
 ## Jupyter Notebook 
 
+- [hgorr/matlab-with-python](https://github.com/hgorr/matlab-with-python) - Examples using MATLAB and Python together
 - [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Spidy20/Python_To_APK](https://github.com/Spidy20/Python_To_APK) - You can convert your Python Code to Android APK.
@@ -462,6 +464,7 @@
 
 ## Others 
 
+- [SpongeNobody/Clashy](https://github.com/SpongeNobody/Clashy) - A GUI proxy client for Windows / Mac / Ubuntu Desktop based on Clash and Electron. Windows / Mac / Ubuntu 适用的Clash客户端.
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [pabueco/new-moon-vscode](https://github.com/pabueco/new-moon-vscode) - 🌙 New Moon Theme for Visual Studio Code.
 - [pabueco/tokyo-night-vscode-theme](https://github.com/pabueco/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
@@ -600,6 +603,8 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [surajjjjjj/Telegram-automatic-message](https://github.com/surajjjjjj/Telegram-automatic-message) - A python script using the telethon library to simply send messages to a bot every 30 seconds
 - [pirobot/rbx1](https://github.com/pirobot/rbx1) - ROS By Example Volume 1
 - [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) - 网易云音乐自动任务：刷等级、云贝、云豆等
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -823,6 +828,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
@@ -835,6 +841,7 @@
 
 ## TypeScript 
 
+- [k9982874/github-gist-explorer](https://github.com/k9982874/github-gist-explorer) - 
 - [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 - [luyuhuang/vscode-rss](https://github.com/luyuhuang/vscode-rss) - An RSS reader embedded in Visual Studio Code
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
