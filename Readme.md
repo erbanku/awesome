@@ -194,6 +194,7 @@
 
 ## Go 
 
+- [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [holic/redirect.name](https://github.com/holic/redirect.name) - Simple DNS-based redirection service
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
@@ -621,7 +622,7 @@
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
 - [AmineSoukara/ImgBB-Bot](https://github.com/AmineSoukara/ImgBB-Bot) - Telegram Bot That Hosts Your Image On imgbb.com And Returns Link
 - [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
-- [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每日收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
+- [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
 - [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [ros/ros](https://github.com/ros/ros) - Core ROS packages
 - [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent) - NGINX Amplify Agent
@@ -638,7 +639,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 206 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 208 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
