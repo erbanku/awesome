@@ -45,6 +45,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [VimL](#viml)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
@@ -289,6 +290,7 @@
 
 ## JavaScript 
 
+- [stef-levesque/vscode-3dviewer](https://github.com/stef-levesque/vscode-3dviewer) - Preview 3D meshes in VSCode
 - [marcomontalbano/video-to-markdown](https://github.com/marcomontalbano/video-to-markdown) - How to embed a video in markdown? Here the answer. Add videos to your markdown files easier.
 - [dangeredwolf/ModernDeck](https://github.com/dangeredwolf/ModernDeck) - A beautiful, powerful Twitter client for desktop.
 - [aboutDavid/discord-telegram-bridge](https://github.com/aboutDavid/discord-telegram-bridge) - rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted
@@ -640,7 +642,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 208 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 209 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -848,6 +850,8 @@
 
 ## TypeScript 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
+- [HAG87/vscode-maxscript-lsp](https://github.com/HAG87/vscode-maxscript-lsp) - MaxScript language for VS Code (Language Server implementation)
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [k9982874/github-gist-explorer](https://github.com/k9982874/github-gist-explorer) - 
 - [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
@@ -929,7 +933,14 @@
 
 ## Vim script 
 
+- [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
+- [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## VimL 
+
+- [albert12132/dotfiles](https://github.com/albert12132/dotfiles) - 
 
 ## Visual Basic .NET 
 
