@@ -289,6 +289,7 @@
 
 ## JavaScript 
 
+- [marcomontalbano/video-to-markdown](https://github.com/marcomontalbano/video-to-markdown) - How to embed a video in markdown? Here the answer. Add videos to your markdown files easier.
 - [dangeredwolf/ModernDeck](https://github.com/dangeredwolf/ModernDeck) - A beautiful, powerful Twitter client for desktop.
 - [aboutDavid/discord-telegram-bridge](https://github.com/aboutDavid/discord-telegram-bridge) - rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
