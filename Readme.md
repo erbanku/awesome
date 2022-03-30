@@ -60,6 +60,8 @@
 
 ## C 
 
+- [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
@@ -322,6 +324,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Cydiater/thucal](https://github.com/Cydiater/thucal) - Keep Tsinghua course in your local calender, wich ICS file format.
 - [diafygi/gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - Source code for https://gethttpsforfree.com/
+- [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - Microsoft To Do 浏览器扩展
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [xuhuai66/used-book-pro](https://github.com/xuhuai66/used-book-pro) - 微信小程序云开发校园二手书商城，可在线支付提现，源码全开源
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
@@ -617,6 +620,9 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
+- [mgedmin/ghcloneall](https://github.com/mgedmin/ghcloneall) - Script to clone/update all user/organization repos from GitHub
+- [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray/xray多用户管理部署程序
 - [kalanakt/Url-Uploader-TG](https://github.com/kalanakt/Url-Uploader-TG) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [jagrit007/gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - Permanent Direct Link generator for Google Drive with multiple link support. P.S. This is a noob code that I wrote while learning Python :D
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -672,7 +678,7 @@
 - [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
 - [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 通过获取IP定位，爬取当地的天气（不需要API）
-- [thep0y/up2b](https://github.com/thep0y/up2b) - Typora's image upload package
+- [thep0y/up2b](https://github.com/thep0y/up2b) - Image Uploader.
 - [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [zhenghaoz/gitrec](https://github.com/zhenghaoz/gitrec) - A recommender system for GitHub repositories based on Gorse
@@ -792,6 +798,8 @@
 
 ## Shell 
 
+- [aprescott/gist-backup](https://github.com/aprescott/gist-backup) - Back up all your public and private gist repositories.
+- [Jrohy/nodejs-install](https://github.com/Jrohy/nodejs-install) - 一键安装最新版nodejs
 - [rickellis/ConkyMatic](https://github.com/rickellis/ConkyMatic) - Automatic Conky color scheme changer based on the current wallpaper colors. Written in Bash.
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -875,7 +883,6 @@
 - [luvsic3/remind](https://github.com/luvsic3/remind) - Bring mindmap to browser
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🔥 The 2.x of vuepress-theme-reco.
-- [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - Microsoft To Do 浏览器扩展
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
@@ -956,6 +963,7 @@
 
 ## Vue 
 
+- [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [yddeng/amp](https://github.com/yddeng/amp) - 自动化管理平台: 计划任务、进程控制、进程监控报警
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My personal website and blog, powered by @vuejs (3)
