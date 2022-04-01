@@ -44,6 +44,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vala](#vala)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Visual Basic .NET](#visual-basic-.net)
@@ -69,7 +70,7 @@
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
-- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience.
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -805,6 +806,7 @@
 
 ## Shell 
 
+- [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [aprescott/gist-backup](https://github.com/aprescott/gist-backup) - Back up all your public and private gist repositories.
 - [Jrohy/nodejs-install](https://github.com/Jrohy/nodejs-install) - 一键安装最新版nodejs
 - [rickellis/ConkyMatic](https://github.com/rickellis/ConkyMatic) - Automatic Conky color scheme changer based on the current wallpaper colors. Written in Bash.
@@ -956,6 +958,10 @@
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+
+## Vala 
+
+- [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 
 ## Vim script 
 
