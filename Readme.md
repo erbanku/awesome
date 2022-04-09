@@ -520,7 +520,7 @@
 ## Others 
 
 - [Infatuation-Fei/rule](https://github.com/Infatuation-Fei/rule) - 自用规则
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [erbanku/ghorg](https://github.com/erbanku/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [Serendipity-Theme/windows-terminal](https://github.com/Serendipity-Theme/windows-terminal) - Serendipity theme ported to windows terminal.
 - [Serendipity-Theme/vs-code](https://github.com/Serendipity-Theme/vs-code) - Relaxed, gentle and modern.
