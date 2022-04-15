@@ -156,6 +156,7 @@
 
 ## CSS 
 
+- [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
 - [BillChen2k/typora-theme-next](https://github.com/BillChen2k/typora-theme-next) - A theme for Typora, inspired by hexo theme NexT.
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
@@ -319,6 +320,7 @@
 
 ## JavaScript 
 
+- [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - nodejs爬虫 API接口项目,包括前端开发日报、前端top框架排行、知乎日报、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
@@ -502,9 +504,9 @@
 
 ## Kotlin 
 
+- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
 
 ## Lua 
@@ -534,10 +536,11 @@
 
 ## Others 
 
+- [fat0troll/terminalus](https://github.com/fat0troll/terminalus) - Terminal.app themes, inspired by color schemes of Termius iOS app
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [ShiftyTR/Proxy-List](https://github.com/ShiftyTR/Proxy-List) - Free proxy list UPDATED HOURLY! -- for api visit
 - [623637646/996.Leave](https://github.com/623637646/996.Leave) - 逃离996
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题；成为新中国人的核心宗教，核心信念。
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -994,6 +997,8 @@
 
 ## TypeScript 
 
+- [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
+- [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
 - [antfu/awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web) - ☕️ Web App for Awesome CN Café
 - [harrisoff/onedrive-api](https://github.com/harrisoff/onedrive-api) - Wraps some of OneDrive's APIs, only for uploading and sharing files.
 - [harrisoff/onedrive-image-hosting](https://github.com/harrisoff/onedrive-image-hosting) - Free Image Hosting Service Based on OneDrive | 基于 OneDrive 的免费图床
