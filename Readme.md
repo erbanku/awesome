@@ -325,6 +325,8 @@
 
 ## JavaScript 
 
+- [yuudi/onesend](https://github.com/yuudi/onesend) - send files through onedrive
+- [dukelec/cde](https://github.com/dukelec/cde) - HTML5 Encryption Tool (Tips: https://blog.d-l.io/cde), https://e.d-l.io or https://dukelec.gitee.io/cde or
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [gaocegege/Blog](https://github.com/gaocegege/Blog) - Personal Blog in github.io
@@ -1014,6 +1016,7 @@
 
 ## TypeScript 
 
+- [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform terminal app from Visual Studio Code.
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, highly customizable, standard output format commitizen adapter.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
