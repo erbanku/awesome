@@ -165,7 +165,6 @@
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
 - [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 49 selfhosted apps!
-- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
@@ -721,6 +720,7 @@
 
 ## Python 
 
+- [Dragon-Born/warpy](https://github.com/Dragon-Born/warpy) - A command-line program to get WARP+ as WireGuard written in python
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -922,6 +922,7 @@
 
 ## SCSS 
 
+- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my GitHub Pages site
 - [noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine) - A Typora theme, inspired by Bear
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
@@ -937,6 +938,7 @@
 
 ## Shell 
 
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
