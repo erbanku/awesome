@@ -373,7 +373,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
-- [rishimohan/pika](https://github.com/rishimohan/pika) - Open source app to beautify screenshots, quickly and easily
+- [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [E011011101001/Twitter-Block-With-Love](https://github.com/E011011101001/Twitter-Block-With-Love) - Block users who loves a specific tweet, and help you improve your experience using Twitter.
 - [YaoZeyuan/stablog](https://github.com/YaoZeyuan/stablog) - 稳部落. 专业备份导出微博记录, 稳!
