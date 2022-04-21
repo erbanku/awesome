@@ -721,6 +721,7 @@
 
 ## Python 
 
+- [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [Dragon-Born/warpy](https://github.com/Dragon-Born/warpy) - A command-line program to get WARP+ as WireGuard written in python
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
