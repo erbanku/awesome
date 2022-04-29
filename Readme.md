@@ -158,7 +158,7 @@
 
 ## CSS 
 
-- [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 扁平化明暗主题 Vue Material Juejin Google Purple Ayu Dark Light Black Drake Of Typora theme
+- [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - [深度定制] 扁平化明暗主题 Vue Material Juejin Google Purple Ayu Dark Light Black Drake Of Typora theme
 - [Zuntek/WeekToDoWeb](https://github.com/Zuntek/WeekToDoWeb) - WeekToDo is a free minimalist weekly planner app focused on privacy. Schedule your tasks and projects with to do lists and a calendar. Available for Windows, Mac, Linux or online.
 - [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
@@ -244,7 +244,7 @@
 - [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
@@ -282,6 +282,7 @@
 
 ## HTML 
 
+- [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) - 文章生成器
 - [tmplink/tmpUI](https://github.com/tmplink/tmpUI) - JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
@@ -330,6 +331,8 @@
 
 ## JavaScript 
 
+- [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE
 - [yuudi/onesend](https://github.com/yuudi/onesend) - send files through onedrive
@@ -709,6 +712,7 @@
 - [bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL) - 清华大学计算机学科推荐学术会议和期刊列表
 - [youranreus/Subscription-Manager](https://github.com/youranreus/Subscription-Manager) - 订阅管理
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - Auto Mergo New Rules From Upstream Website./来自上游网站的自动合并新规则。
 - [privacy-protection-tools/dead-horse](https://github.com/privacy-protection-tools/dead-horse) - 
 - [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 - [5ime/video_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
@@ -732,6 +736,8 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [globus/globus-cli](https://github.com/globus/globus-cli) - A Command Line Wrapper over the Globus SDK for Python
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
@@ -991,7 +997,6 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
-- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - Auto Mergo New Rules From Upstream Website./来自上游网站的自动合并新规则。
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
@@ -1041,6 +1046,7 @@
 
 ## TypeScript 
 
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos in shields.io badges
