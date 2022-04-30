@@ -331,6 +331,8 @@
 
 ## JavaScript 
 
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
