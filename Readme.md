@@ -35,7 +35,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rich Text Format](#rich-text-format)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -212,6 +211,7 @@
 
 ## Go 
 
+- [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [go-olive/olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具 | Live Streaming Recorder
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -741,6 +741,7 @@
 
 ## Python 
 
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [globus/globus-cli](https://github.com/globus/globus-cli) - A Command Line Wrapper over the Globus SDK for Python
@@ -919,10 +920,6 @@
 - [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 
-## Roff 
-
-- [JACKUSR2089/v2ray-subscribed](https://github.com/JACKUSR2089/v2ray-subscribed) - v2ray666
-
 ## Ruby 
 
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -971,6 +968,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Misaka-blog/Misaka-WARP-Script](https://github.com/Misaka-blog/Misaka-WARP-Script) - Misaka WARP 脚本、支持手工菜单+全自动化脚本安装。支持AMD64、ARM64和S390X CPU架构的VPS、支持KVM、ZVM、OpenVZ和LXC虚拟化架构的VPS
 - [Misaka-blog/Xray-script](https://github.com/Misaka-blog/Xray-script) - Xray一键安装脚本，基于网络跳跃原脚本魔改，支持节点自动生成Nginx伪装站，支持和宝塔面板共存，支持IPv4、IPv6 VPS
 - [nginxinc/nginx-for-azure-deploy-action](https://github.com/nginxinc/nginx-for-azure-deploy-action) - Github Actions to sync NGINX configs into the NGINX for Azure service.
@@ -1010,6 +1008,7 @@
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 - [wyx176/Socks5](https://github.com/wyx176/Socks5) - Socks5代理服务器搭建脚本/Socks5 shortcut creation script
+- [JACKUSR2089/v2ray-subscribed](https://github.com/JACKUSR2089/v2ray-subscribed) - v2ray666
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [rey/tweet-delete](https://github.com/rey/tweet-delete) - 
@@ -1046,6 +1045,7 @@
 
 ## TeX 
 
+- [zhaofeng-shu33/THU-coursework-template](https://github.com/zhaofeng-shu33/THU-coursework-template) - THU coursework template, intended user: Mathematics, Physics, Electronic Engineering, Mechanics and Computer Science
 - [zinccat/PKU-beamer-theme](https://github.com/zinccat/PKU-beamer-theme) - 从某清华模版魔改的beamer主题x
 - [ZenithalHourlyRate/learn-git-the-not-so-super-hard-way](https://github.com/ZenithalHourlyRate/learn-git-the-not-so-super-hard-way) - 
 - [K-Wu/CV-tsinghua-template](https://github.com/K-Wu/CV-tsinghua-template) - 
@@ -1054,6 +1054,7 @@
 
 ## TypeScript 
 
+- [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
