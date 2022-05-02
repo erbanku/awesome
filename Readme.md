@@ -63,6 +63,8 @@
 
 ## C 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
@@ -203,7 +205,7 @@
 ## Dart 
 
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client. Lyrics & Playlists.
 
 ## Dockerfile 
 
@@ -316,7 +318,7 @@
 
 ## Java 
 
-- [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube 是开源的远程服务器管理工具箱，提供大量定制功能。
+- [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube 是开源的远程服务器管理工具箱，提供大量定制功能。（最新代码在gitee: https://gitee.com/G3G4X5X6/ultimate-cube）
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -384,13 +386,13 @@
 - [moshang-xc/lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-- [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
+- [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [E011011101001/Twitter-Block-With-Love](https://github.com/E011011101001/Twitter-Block-With-Love) - Block users who loves a specific tweet, and help you improve your experience using Twitter.
 - [YaoZeyuan/stablog](https://github.com/YaoZeyuan/stablog) - 稳部落. 专业备份导出微博记录, 稳!
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [Cydiater/thucal](https://github.com/Cydiater/thucal) - Keep Tsinghua course in your local calender, wich ICS file format.
+- [Cydiater/thucal](https://github.com/Cydiater/thucal) - Keep Tsinghua course in your local calendar, with ICS file format.
 - [diafygi/gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - Source code for https://gethttpsforfree.com/
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [txthinking/bash](https://github.com/txthinking/bash) - This repo provide a short url for your bash on Github Page with domain bash.ooo  这个仓库提供为你的bash脚本提供一个短网址，基于 Github Page 和域名 bash.ooo
@@ -561,6 +563,7 @@
 
 ## Others 
 
+- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [wms521125/freevpn](https://github.com/wms521125/freevpn) - 免费VPN、免费翻墙、免费订阅链接、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [taunoe/arduino-dark-theme](https://github.com/taunoe/arduino-dark-theme) - Arduino dark theme!
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
@@ -741,6 +744,7 @@
 
 ## Python 
 
+- [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -815,7 +819,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 218 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 219 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1054,6 +1058,7 @@
 
 ## TypeScript 
 
+- [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
