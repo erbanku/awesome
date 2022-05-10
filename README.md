@@ -63,7 +63,7 @@
 ## C 
 
 - [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) - A simple, lightweight socks5 transparent proxy for Linux. (IPv4/IPv6/TCP/UDP over TCP)
-- [beordle/termtunnel](https://github.com/beordle/termtunnel) - Cross-platform terminal tunnel tool.
+- [beordle/termtunnel](https://github.com/beordle/termtunnel) - Cross-platform terminal tunnel tool
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -216,6 +216,7 @@
 
 ## Go 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [go-olive/olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具 | Live Streaming Recorder
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
@@ -339,6 +340,7 @@
 
 ## JavaScript 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [liviuschera/noctis](https://github.com/liviuschera/noctis) - Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors
@@ -355,7 +357,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [gaocegege/Blog](https://github.com/gaocegege/Blog) - Personal Blog in github.io
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
-- [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - nodejs爬虫 API接口项目,包括前端开发日报、前端top框架排行、知乎日报、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
+- [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - 基于node+express爬虫 API接口项目,包括全国高校信息、成语诗歌、星座运势、历史的今天、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
