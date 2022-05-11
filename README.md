@@ -1218,7 +1218,7 @@
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [yddeng/amp](https://github.com/yddeng/amp) - 自动化管理平台: 计划任务、进程控制、进程监控报警
-- [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My personal website and blog, powered by @vuejs (3)
+- [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My digital garden, powered by @vuejs
 - [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
