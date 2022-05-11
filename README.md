@@ -382,7 +382,7 @@
 - [pkuhollow/webhole](https://github.com/pkuhollow/webhole) - PKU Hollow react frontend
 - [stef-levesque/vscode-3dviewer](https://github.com/stef-levesque/vscode-3dviewer) - Preview 3D meshes in VSCode
 - [marcomontalbano/video-to-markdown](https://github.com/marcomontalbano/video-to-markdown) - How to embed a video in markdown? Here the answer. Add videos to your markdown files easier.
-- [aboutDavid/discord-telegram-bridge](https://github.com/aboutDavid/discord-telegram-bridge) - rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted
+- [aboutdavid/discord-telegram-bridge](https://github.com/aboutdavid/discord-telegram-bridge) - rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [Robpayot/risograph-grain-shader](https://github.com/Robpayot/risograph-grain-shader) - Light grain shader codrops tutorial
 - [erbanku/smms-bot](https://github.com/erbanku/smms-bot) - A Telegram Bot For SM.MS
