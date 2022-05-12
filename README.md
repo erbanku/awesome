@@ -62,6 +62,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) - A simple, lightweight socks5 transparent proxy for Linux. (IPv4/IPv6/TCP/UDP over TCP)
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) - Cross-platform terminal tunnel tool
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
