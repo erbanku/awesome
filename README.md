@@ -1134,7 +1134,7 @@
 - [CryogenicPlanet/cryogenicplanet.github.io](https://github.com/CryogenicPlanet/cryogenicplanet.github.io) - Personal Space on the web
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [mallowigi/iconGenerator](https://github.com/mallowigi/iconGenerator) - 
+- [mallowigi/iconGenerator](https://github.com/mallowigi/iconGenerator) - Icon Collection used within the Atom Material Icons plugins (for JetBrains, Chrome and Firefox)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
