@@ -164,6 +164,7 @@
 
 ## CSS 
 
+- [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - [深度定制] 扁平化明暗主题 Vue Material Juejin Google Purple Ayu Dark Light Black Drake Of Typora theme
 - [Zuntek/WeekToDoWeb](https://github.com/Zuntek/WeekToDoWeb) - WeekToDo is a free minimalist weekly planner app focused on privacy. Schedule your tasks and projects with to do lists and a calendar. Available for Windows, Mac, Linux or online.
 - [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
@@ -345,6 +346,8 @@
 
 ## JavaScript 
 
+- [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers
+- [MuggleWei/learning_compass](https://github.com/MuggleWei/learning_compass) - 各种学科自学指南 https://mugglewei.github.io/learning_compass/
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -1100,6 +1103,7 @@
 
 ## TypeScript 
 
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [lcomplete/smart-toc](https://github.com/lcomplete/smart-toc) - A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。
