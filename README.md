@@ -173,7 +173,7 @@
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 - [atom/one-dark-ui](https://github.com/atom/one-dark-ui) - Atom One dark UI theme
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
@@ -219,6 +219,7 @@
 
 ## Go 
 
+- [vivekweb2013/gitnoter](https://github.com/vivekweb2013/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR ava
 - [master-coder-ll/v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager) - v2ray-web-manager 是一个v2ray的面板，也是一个集群的解决方案；同时增加了流量控制/账号管理/限速等功能。key: admin , panel ,web,cluster,集群,proxy
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -346,6 +347,8 @@
 
 ## JavaScript 
 
+- [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers
 - [MuggleWei/learning_compass](https://github.com/MuggleWei/learning_compass) - 各种学科自学指南 https://mugglewei.github.io/learning_compass/
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -589,6 +592,7 @@
 
 ## Others 
 
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - 
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
@@ -775,6 +779,8 @@
 
 ## Python 
 
+- [praneetk2704/JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) - Simple Python script to create a PDF file from a set of images within seconds.
+- [Polaris119/Epidemic-visualization](https://github.com/Polaris119/Epidemic-visualization) - 中国新冠疫情数据可视化
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
@@ -856,7 +862,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 226 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 229 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -975,6 +981,7 @@
 
 ## Rust 
 
+- [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
@@ -1241,6 +1248,7 @@
 
 ## Vue 
 
+- [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [lzdyes/douyin-downloader](https://github.com/lzdyes/douyin-downloader) - A cross-platform download douyin video tool built with tauri
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
