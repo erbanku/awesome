@@ -299,6 +299,7 @@
 
 ## HTML 
 
+- [mommytalkltd/LaTeXLive](https://github.com/mommytalkltd/LaTeXLive) - LateX公式编辑器-妈叔出品
 - [LuckyHookin/edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
 - [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) - 文章生成器
 - [tmplink/tmpUI](https://github.com/tmplink/tmpUI) - JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.
