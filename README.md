@@ -602,6 +602,7 @@
 
 ## Others 
 
+- [scottclowe/matlab-schemes](https://github.com/scottclowe/matlab-schemes) - A collection of color schemes for MATLAB
 - [skyiea/rememberry-i10n](https://github.com/skyiea/rememberry-i10n) - Localization for Rememberry
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - 
@@ -1120,8 +1121,9 @@
 
 ## TypeScript 
 
+- [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [vivekweb2013/gitnoter](https://github.com/vivekweb2013/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
+- [git-noter/gitnoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
