@@ -1134,6 +1134,7 @@
 
 ## TypeScript 
 
+- [alist-org/alist-web](https://github.com/alist-org/alist-web) - The front end of Alist
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [git-noter/gitnoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
