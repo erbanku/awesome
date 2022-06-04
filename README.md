@@ -804,6 +804,7 @@
 
 ## Python 
 
+- [CMiksche/gitea-auto-update](https://github.com/CMiksche/gitea-auto-update) - A script which can update gitea via crontab automatically to a new version.
 - [praneetk2704/JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) - Simple Python script to create a PDF file from a set of images within seconds.
 - [Polaris119/Epidemic-visualization](https://github.com/Polaris119/Epidemic-visualization) - 中国新冠疫情数据可视化
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
@@ -1045,6 +1046,7 @@
 
 ## Shell 
 
+- [lanbugs/gitea_installer](https://github.com/lanbugs/gitea_installer) - Install script for GITEA
 - [alist-org/alist-replit](https://github.com/alist-org/alist-replit) - alist on replit
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
@@ -1137,7 +1139,7 @@
 
 ## TypeScript 
 
-- [alist-org/alist-web](https://github.com/alist-org/alist-web) - The front end of Alist
+- [alist-org/alist-web](https://github.com/alist-org/alist-web) - 🗂️ The front end of Alist
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [git-noter/gitnoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
