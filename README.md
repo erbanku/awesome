@@ -366,7 +366,7 @@
 
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [Zenquan/learnCode](https://github.com/Zenquan/learnCode) - 方便学习的代码仓库
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Chrome Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
