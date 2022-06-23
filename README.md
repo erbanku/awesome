@@ -228,6 +228,7 @@
 
 ## Dart 
 
+- [nfcim/nfsee](https://github.com/nfcim/nfsee) - Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client. Lyrics & Playlists.
 
@@ -323,6 +324,7 @@
 
 ## HTML 
 
+- [SAST-skill-docers/sast-skill-docs](https://github.com/SAST-skill-docers/sast-skill-docs) - SAST Skill Docs. We are paving the way for your CS studying.
 - [mommytalkltd/LaTeXLive](https://github.com/mommytalkltd/LaTeXLive) - LateX公式编辑器-妈叔出品
 - [LuckyHookin/edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
 - [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) - 文章生成器
@@ -375,6 +377,9 @@
 
 ## JavaScript 
 
+- [ShevonKuan/yuektang_ppt2pdf](https://github.com/ShevonKuan/yuektang_ppt2pdf) - 将雨课堂中的课件导出为pdf
+- [Co1lin/Tsinghua-Yukuotang-Autoplay](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) - A script for JS practice purpose.
+- [Konano/thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) - 🤖 A telegram bot to monitor Tsinghua web learning and push new updates to user in Telegram.
 - [jmcgover/unblock-all](https://github.com/jmcgover/unblock-all) - A javascript script that unblocks all of a Twitter user's blocked Twitter accounts
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [soumyajit4419/Chatify](https://github.com/soumyajit4419/Chatify) - Personal Chat Room or Workspace to share resources and hangout with friends build with React.js, Material-UI, and Firebase.
@@ -636,6 +641,9 @@
 
 ## Others 
 
+- [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis) - 清华大学本科学位论文Word模板。An undergraduate thesis Word template for Tsinghua University.
+- [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
+- [jiegec/dcst-facts](https://github.com/jiegec/dcst-facts) - Facts of DCST of Tsinghua University
 - [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
 - [mangecoeur/AcademicMarkdown](https://github.com/mangecoeur/AcademicMarkdown) - Extensions to MarkdownEditing for writing academic papers
 - [linuxkerneltravel/linux_kernel_wiki](https://github.com/linuxkerneltravel/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
@@ -829,6 +837,7 @@
 
 ## Python 
 
+- [Konano/thu-info-forwarder](https://github.com/Konano/thu-info-forwarder) - 
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram auto forward / channel mirror via Telegram Client API (telethon)
 - [CMiksche/gitea-auto-update](https://github.com/CMiksche/gitea-auto-update) - A script which can update gitea via crontab automatically to a new version.
@@ -1165,6 +1174,8 @@
 
 ## TeX 
 
+- [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
 - [zhaofeng-shu33/THU-coursework-template](https://github.com/zhaofeng-shu33/THU-coursework-template) - THU coursework template, intended user: Mathematics, Physics, Electronic Engineering, Mechanics and Computer Science
 - [zinccat/PKU-beamer-theme](https://github.com/zinccat/PKU-beamer-theme) - 从某清华模版魔改的beamer主题x
 - [erbanku/learn-git-the-not-so-super-hard-way](https://github.com/erbanku/learn-git-the-not-so-super-hard-way) - 
