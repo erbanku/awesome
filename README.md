@@ -382,6 +382,7 @@
 
 ## JavaScript 
 
+- [SplitGemini/Clash_configuration](https://github.com/SplitGemini/Clash_configuration) - Clash For Windows配置
 - [ShevonKuan/yuektang_ppt2pdf](https://github.com/ShevonKuan/yuektang_ppt2pdf) - 将雨课堂中的课件导出为pdf
 - [Co1lin/Tsinghua-Yukuotang-Autoplay](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) - A script for JS practice purpose.
 - [Konano/thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) - 🤖 A telegram bot to monitor Tsinghua web learning and push new updates to user in Telegram.
@@ -1219,7 +1220,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
