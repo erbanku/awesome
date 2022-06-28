@@ -234,6 +234,7 @@
 
 ## Dockerfile 
 
+- [gitpod-io/openvscode-releases](https://github.com/gitpod-io/openvscode-releases) - This repo is only to produce releases for OpenVSCode Server.
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 - [xiantang/xiantang-blog](https://github.com/xiantang/xiantang-blog) - blog
 
@@ -1192,6 +1193,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | A Selfhosted Comment System
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
