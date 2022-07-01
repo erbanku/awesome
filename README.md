@@ -396,7 +396,7 @@
 - [ZxfBugProgrammer/Electron-SIMGUI](https://github.com/ZxfBugProgrammer/Electron-SIMGUI) - 本项目是基于Electron和element UI开发的一款代码查重软件，其内核使用了SIM（SIM是Dick Grune开发的一款代码查重软件）
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器管理面板(基础探针+webssh终端)
+- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器管理面板【需求与bug请提交issue】
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [Zenquan/learnCode](https://github.com/Zenquan/learnCode) - 方便学习的代码仓库
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
@@ -844,6 +844,7 @@
 
 ## Python 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
 - [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug 
 - [zhanghefan123/Starperf-Satellite-Simulator](https://github.com/zhanghefan123/Starperf-Satellite-Simulator) - 清华卫星网络仿真平台
@@ -1210,7 +1211,7 @@
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [alist-org/alist-web](https://github.com/alist-org/alist-web) - 🗂️ The front end of Alist
+- [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -1364,7 +1365,7 @@
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My digital garden, powered by @vuejs
 - [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
-- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 - [5ime/vue-page](https://github.com/5ime/vue-page) - vue短视频/图集去水印解析页面
 - [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files at the same time, with certain condition. Available for windows and linux
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
