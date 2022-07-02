@@ -36,6 +36,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1039,6 +1040,10 @@
 
 - [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) - 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.
 
+## R 
+
+- [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
+
 ## Rich Text Format 
 
 - [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
@@ -1055,7 +1060,7 @@
 ## Rust 
 
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，移动平台见 TsinghuaNet
+- [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
@@ -1200,6 +1205,7 @@
 
 ## TypeScript 
 
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
@@ -1211,7 +1217,7 @@
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist
+- [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist V2
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
