@@ -277,7 +277,7 @@
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
 - [pkuhollow/nameless](https://github.com/pkuhollow/nameless) - 未名树洞 的Golang后端
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [holic/redirect.name](https://github.com/holic/redirect.name) - Simple DNS-based redirection service
@@ -648,6 +648,7 @@
 
 ## Others 
 
+- [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis) - 清华大学本科学位论文Word模板。An undergraduate thesis Word template for Tsinghua University.
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
@@ -1050,6 +1051,8 @@
 
 ## Ruby 
 
+- [mrtazz/katana](https://github.com/mrtazz/katana) - ready to go heroku hosted URL shortener based on guillotine
+- [technoweenie/guillotine](https://github.com/technoweenie/guillotine) - URL shortening hobby kit
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [apsheronets/reader](https://github.com/apsheronets/reader) - 
