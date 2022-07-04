@@ -574,7 +574,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [JacksonBates/tweet-delete-bot](https://github.com/JacksonBates/tweet-delete-bot) - A bot that deletes and un-favourites tweets that are more than 10 days old. Schedule this to run once a day to become an ephemeral tweep, just like http://twitter.com/JacksonBates
-- [misitebao/standard-repository](https://github.com/misitebao/standard-repository) - 🚀 A command-line tool that makes managing repositories easier for developers.
+- [misitebao/yakia](https://github.com/misitebao/yakia) - Tools for developers to manage projects.
 - [erbanku/YesPlayMusic](https://github.com/erbanku/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
