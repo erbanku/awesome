@@ -673,7 +673,7 @@
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) - Binaries for the CodeQL CLI
-- [bugfan/i996](https://github.com/bugfan/i996) - 免费、内网穿透、远程办公、居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
+- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 内网穿透 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1144,6 +1144,8 @@
 
 ## Shell 
 
+- [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
 - [chevereto/vps](https://github.com/chevereto/vps) - Universal bash script to install Chevereto in any VPS
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
