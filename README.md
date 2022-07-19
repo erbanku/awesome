@@ -259,6 +259,7 @@
 
 ## Go 
 
+- [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [rameshvarun/ipfs-share](https://github.com/rameshvarun/ipfs-share) - An example self-hosted IPFS backed Pastebin / Image Host / File Sharing application.
@@ -347,6 +348,7 @@
 
 ## HTML 
 
+- [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [closed-social/safeShare](https://github.com/closed-social/safeShare) - 更安全地分享清华云盘链接
@@ -406,6 +408,8 @@
 
 ## JavaScript 
 
+- [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
+- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。
 - [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
@@ -890,6 +894,7 @@
 
 ## Python 
 
+- [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [athphane/userbot](https://github.com/athphane/userbot) - Telegram Userbot built with Pyrogram
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -1113,6 +1118,7 @@
 
 ## Rust 
 
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [sathwikmatsa/tcad](https://github.com/sathwikmatsa/tcad) - tcloud automatic downloader
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
@@ -1164,6 +1170,8 @@
 
 ## Shell 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
+- [rocky-linux/rocky-tools](https://github.com/rocky-linux/rocky-tools) - 
 - [Smalls1652/wsl2-rockylinux](https://github.com/Smalls1652/wsl2-rockylinux) - Create an image of RockyLinux for use in Windows Subsystem for Linux.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
