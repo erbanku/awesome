@@ -142,7 +142,7 @@
 
 ## C++ 
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon language specification and documentation.
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [diegomacario/Animation-Magic](https://github.com/diegomacario/Animation-Magic) - A cool visualization of all the math that powers 3D character animations.
 - [ros-drivers/usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L USB Cameras
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
@@ -411,6 +411,7 @@
 
 ## JavaScript 
 
+- [buffge/fkZhuanghu](https://github.com/buffge/fkZhuanghu) - 自动过滤装乎体文章 chrome 插件
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。
@@ -1175,6 +1176,7 @@
 
 ## Shell 
 
+- [qinghuas/socks5-install](https://github.com/qinghuas/socks5-install) - socks5 一键脚本
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [rocky-linux/rocky-tools](https://github.com/rocky-linux/rocky-tools) - 
 - [Smalls1652/wsl2-rockylinux](https://github.com/Smalls1652/wsl2-rockylinux) - Create an image of RockyLinux for use in Windows Subsystem for Linux.
