@@ -60,6 +60,7 @@
 
 ## AutoHotkey 
 
+- [kazhafeizhale/supper_command](https://github.com/kazhafeizhale/supper_command) - Snippet management tools, if ahK code, can be executed directly
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
 
@@ -189,6 +190,7 @@
 
 ## CSS 
 
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [tmplink/tmplink_webapp](https://github.com/tmplink/tmplink_webapp) - Made for storage.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme) - Blubook, a flat typora theme.
@@ -262,6 +264,7 @@
 
 ## Go 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -352,6 +355,7 @@
 
 ## HTML 
 
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
@@ -412,6 +416,8 @@
 
 ## JavaScript 
 
+- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [buffge/fkZhuanghu](https://github.com/buffge/fkZhuanghu) - 自动过滤装乎体文章 chrome 插件
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
@@ -691,6 +697,7 @@
 
 ## Others 
 
+- [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nicejade/nice-front-end-tutorial](https://github.com/nicejade/nice-front-end-tutorial) - 🌍  Constantly updated front-end resources, tutorials, opinions（与时俱进版前端资源，教程和意见。）
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。走过路过，如觉不错，麻烦点个赞👆🌟
@@ -872,6 +879,7 @@
 
 ## PHP 
 
+- [osuuu/LightPicture](https://github.com/osuuu/LightPicture) - 企业/团队/个人图片资源管理系统、图床系统
 - [IO-Technologies/bashupload](https://github.com/IO-Technologies/bashupload) - Opensource for bashupload.com - PHP based files uploader for CLI, servers, desktops and mobiles
 - [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
 - [renbaoshuo/Shortlink](https://github.com/renbaoshuo/Shortlink) - 短链接生成网站源码
@@ -902,6 +910,7 @@
 
 ## Python 
 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a webapp
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
@@ -1130,6 +1139,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [sathwikmatsa/tcad](https://github.com/sathwikmatsa/tcad) - tcloud automatic downloader
@@ -1295,6 +1305,8 @@
 
 ## TypeScript 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
+- [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
