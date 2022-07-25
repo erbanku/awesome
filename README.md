@@ -60,7 +60,6 @@
 
 ## AutoHotkey 
 
-- [kazhafeizhale/supper_command](https://github.com/kazhafeizhale/supper_command) - Snippet management tools, if ahK code, can be executed directly
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
 
@@ -264,6 +263,7 @@
 
 ## Go 
 
+- [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
@@ -400,6 +400,7 @@
 
 ## Java 
 
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [google/private-compute-services](https://github.com/google/private-compute-services) - 
 - [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube 是开源的远程服务器管理工具箱，提供大量定制功能。（定位是甲方安全自检工具箱）插件机制设计开发中......
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -477,7 +478,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [AleksiKnuutila/nlp-highlight](https://github.com/AleksiKnuutila/nlp-highlight) - Semantic highlighting of natural language for readability
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
@@ -697,6 +698,8 @@
 
 ## Others 
 
+- [Randy8080/reference](https://github.com/Randy8080/reference) - Share quick reference cheat sheet for developers.
+- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布）
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nicejade/nice-front-end-tutorial](https://github.com/nicejade/nice-front-end-tutorial) - 🌍  Constantly updated front-end resources, tutorials, opinions（与时俱进版前端资源，教程和意见。）
@@ -1139,7 +1142,6 @@
 
 ## Rust 
 
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [sathwikmatsa/tcad](https://github.com/sathwikmatsa/tcad) - tcloud automatic downloader
@@ -1305,6 +1307,8 @@
 
 ## TypeScript 
 
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
