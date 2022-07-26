@@ -189,6 +189,7 @@
 
 ## CSS 
 
+- [ChenYFan-Tester/IPFS_PHOTO_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE) - 💰用甚嚒服务器，ServerLess搭建一个图片分享站点！| 基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [tmplink/tmplink_webapp](https://github.com/tmplink/tmplink_webapp) - Made for storage.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -285,7 +286,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
-- [go-olive/olive](https://github.com/go-olive/olive) - An autonomous live streaming recorder   直播录制引擎 | 全平台录播姬
+- [go-olive/olive](https://github.com/go-olive/olive) - An autonomous live streaming recorder   直播录制引擎 | 录播工具
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -417,6 +418,9 @@
 
 ## JavaScript 
 
+- [Dandelionss/CloudFlare-Workers](https://github.com/Dandelionss/CloudFlare-Workers) - 储存一些CloudFlare Workers脚本
+- [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
+- [cagataycali/url-shortener](https://github.com/cagataycali/url-shortener) - Shitty url shortener, emoji powered. 🌍✌🏼
 - [7Wate/wiki](https://github.com/7Wate/wiki) - 个人知识库
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -698,6 +702,8 @@
 
 ## Others 
 
+- [lesuixin/v2ray-cf](https://github.com/lesuixin/v2ray-cf) - v2ray套CF无域名加速的小白教程
+- [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [Randy8080/reference](https://github.com/Randy8080/reference) - Share quick reference cheat sheet for developers.
 - [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布）
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
@@ -1019,7 +1025,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 242 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 243 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1307,6 +1313,7 @@
 
 ## TypeScript 
 
+- [GitbookIO/proxies-on-cloudflare](https://github.com/GitbookIO/proxies-on-cloudflare) - Proxies in Cloudflare Workers
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
