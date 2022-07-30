@@ -76,6 +76,7 @@
 
 ## C 
 
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [seclab-ucr/INTANG](https://github.com/seclab-ucr/INTANG) - 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
