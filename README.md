@@ -371,6 +371,7 @@
 
 ## HTML 
 
+- [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
@@ -427,7 +428,7 @@
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [git-commit-id/git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) - Maven plugin which includes build-time git repository information into an POJO / *.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deplo
 - [ciscolxh/aliyunshare](https://github.com/ciscolxh/aliyunshare) - 让阿里云盘可以分享所有的文件
-- [zhaojun1998/zfile](https://github.com/zhaojun1998/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+- [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -1101,7 +1102,7 @@
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [BadagalaAdarsh/Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario) - 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Forward message automatically from channel/group with telegram bot @/heroku
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/gorup
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [YuvrajSingh-16/Text-To-Handwritten-Notes](https://github.com/YuvrajSingh-16/Text-To-Handwritten-Notes) - Converts text into a PDF of handwritten notes
 - [steventango/notability2pdf](https://github.com/steventango/notability2pdf) - Extract PDF files from notability (*.note).
@@ -1228,6 +1229,7 @@
 
 ## Shell 
 
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
@@ -1509,6 +1511,7 @@
 
 ## Vim script 
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
