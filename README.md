@@ -199,6 +199,7 @@
 
 ## CSS 
 
+- [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) - A beautiful minimal theme for Obsidian.
 - [BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron) - SSPanel-Metron主题，目前由@Bobs9维护开发中。
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, flexible Hugo theme
 - [ChenYFan-Tester/IPFS_PHOTO_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE) - 💰用甚嚒服务器，ServerLess搭建一个图片分享站点！| 基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站
@@ -256,10 +257,11 @@
 
 ## Dart 
 
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [nfcim/nfsee](https://github.com/nfcim/nfsee) - Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Synced lyrics, playlists & visuals. Built-in YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift & more.
 
 ## Dockerfile 
 
@@ -943,7 +945,7 @@
 - [gluons/powershell-git-aliases](https://github.com/gluons/powershell-git-aliases) - :octocat: Oh My Zsh's Git aliases for PowerShell.
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [luzea9903/winactivate](https://github.com/luzea9903/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
@@ -1187,6 +1189,7 @@
 
 ## Rust 
 
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [maxgallup/gitea-migrate](https://github.com/maxgallup/gitea-migrate) - 
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
@@ -1357,6 +1360,7 @@
 
 ## TypeScript 
 
+- [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
