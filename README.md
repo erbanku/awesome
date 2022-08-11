@@ -1364,6 +1364,7 @@
 
 ## TypeScript 
 
+- [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
@@ -1387,7 +1388,6 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [wabarc/cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving webpages
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode) - massCode assistant for VS Code
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
@@ -1555,6 +1555,7 @@
 - [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [lpssss/THUeat--Frontend](https://github.com/lpssss/THUeat--Frontend) - 清华大学食堂App
 - [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [lzdyes/douyin-downloader](https://github.com/lzdyes/douyin-downloader) - A cross-platform download douyin video tool built with tauri
