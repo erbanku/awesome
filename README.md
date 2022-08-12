@@ -1531,7 +1531,7 @@
 
 ## VBScript 
 
-- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 内网穿透 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
+- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 
 ## Vala 
 
