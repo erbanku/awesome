@@ -36,6 +36,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
@@ -443,6 +444,7 @@
 
 ## JavaScript 
 
+- [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [drew-royster/canvasFileSync](https://github.com/drew-royster/canvasFileSync) - Syncs Canvas course files to your local computer
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [goooooouwa/goplan-web](https://github.com/goooooouwa/goplan-web) - GoPlan Web client
@@ -948,8 +950,13 @@
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
 
+## Pascal 
+
+- [sashaoli/GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray. Управління локальним сервером Gitea з трею.
+
 ## PowerShell 
 
+- [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [kiedtl/winfetch](https://github.com/kiedtl/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [gluons/powershell-git-aliases](https://github.com/gluons/powershell-git-aliases) - :octocat: Oh My Zsh's Git aliases for PowerShell.
@@ -1075,7 +1082,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 246 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 247 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
