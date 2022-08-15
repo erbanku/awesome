@@ -858,7 +858,7 @@
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，兼容 Surge for iOS 和 Surge for Mac 客户端。
-- [oslook/clash-freenode](https://github.com/oslook/clash-freenode) - Clash Config & Free Node Subscribe: 订阅地址，免费节点，定期更新，一键订阅，科学上网
+- [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - Clash Config & Free Node Subscribe: 订阅地址，免费节点，定期更新，一键订阅，科学上网
 - [Sxela/ArcaneGAN](https://github.com/Sxela/ArcaneGAN) - ArcaneGAN
 - [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles) - 🌐Dial-up Internet access
 - [60ss/Npp-1-Dark](https://github.com/60ss/Npp-1-Dark) - One Dark Syntax Theme for Notepad++
@@ -1260,6 +1260,7 @@
 
 ## Shell 
 
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [York618/alist-flyio](https://github.com/York618/alist-flyio) - 
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
@@ -1470,7 +1471,7 @@
 - [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 - [luyuhuang/vscode-rss](https://github.com/luyuhuang/vscode-rss) - An RSS reader embedded in Visual Studio Code
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
-- [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。主要目的是为了构建一个 React Native 快速开发脚手架。
+- [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。主要目的是为了构建一个 React Native 快速开发脚手架。基于RN 0.69.4。
 - [trzsz/trzsz.js](https://github.com/trzsz/trzsz.js) - Making webshell and terminal supports trzsz ( trz / tsz ), which similar to rz / sz, and compatible with tmux.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
