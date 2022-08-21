@@ -1266,6 +1266,7 @@
 
 ## Shell 
 
+- [chenjie/v2ray-tls-websocket-nginx](https://github.com/chenjie/v2ray-tls-websocket-nginx) - 🌎The ULTIMATE V2Ray proxy configuration powered by Project V.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [York618/alist-flyio](https://github.com/York618/alist-flyio) - 
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
