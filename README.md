@@ -181,7 +181,7 @@
 - [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) - C++ Primer 5 answers
 - [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
 - [xaxfan/Cpp_Primer_5th](https://github.com/xaxfan/Cpp_Primer_5th) - 📔  C++ Primer 第五版
-- [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - 下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发
+- [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
 - [TcNobo/TcNo-WSA-SimpleSideload](https://github.com/TcNobo/TcNo-WSA-SimpleSideload) - Open .apk files with one-click on Windows 11
 - [ksinkar/ticpp2](https://github.com/ksinkar/ticpp2) - Thinking in C++ (Volume 2)
 - [ksinkar/ticpp1](https://github.com/ksinkar/ticpp1) - Thinking in C++ (Volume 1)
@@ -387,6 +387,7 @@
 
 ## HTML 
 
+- [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get Unlimited amount of Data in Cloudflare's WARP+ VPN🔥
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [233boy/tools](https://github.com/233boy/tools) - 
 - [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
@@ -1389,6 +1390,7 @@
 
 ## TeX 
 
+- [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
@@ -1413,7 +1415,7 @@
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [hmu332233/q-link](https://github.com/hmu332233/q-link) - Q.Link | Hide your link behind a simple quiz.
-- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [redhat-actions/try-in-web-ide](https://github.com/redhat-actions/try-in-web-ide) - Clone your pull request into the Web IDE  hosted on the Developer Sandbox for Red Hat OpenShift, to easily test changes.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
