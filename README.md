@@ -982,7 +982,6 @@
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
-- [luzea9904/winactivate](https://github.com/luzea9904/winactivate) - Easy-to-use Windows HWID/KMS38 Activation Script.
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
 
 ## Pug 
