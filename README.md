@@ -459,6 +459,7 @@
 
 ## JavaScript 
 
+- [OverflowCat/zhihu-watermark-remover](https://github.com/OverflowCat/zhihu-watermark-remover) - Userscript that removes or fakes blind watermarks on Zhihu's webpages
 - [erbanku/fireworks](https://github.com/erbanku/fireworks) - HTML5+Canvas漂亮的3D烟花动画生日特效，节日特效，烟花
 - [ghostdevv/linode-object-upload](https://github.com/ghostdevv/linode-object-upload) - A simple cli tool to upload a file to Linode Object Storage
 - [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
