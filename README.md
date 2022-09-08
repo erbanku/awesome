@@ -1001,6 +1001,7 @@
 
 ## Python 
 
+- [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
@@ -1362,7 +1363,7 @@
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 - [wyx176/Socks5](https://github.com/wyx176/Socks5) - Socks5代理服务器搭建脚本/Socks5 shortcut creation script
 - [JACKUSR2089/v2ray-subscribed](https://github.com/JACKUSR2089/v2ray-subscribed) - v2ray666
-- [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
+- [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [rey/tweet-delete](https://github.com/rey/tweet-delete) - 
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
@@ -1418,6 +1419,7 @@
 
 ## TypeScript 
 
+- [tycrek/ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
 - [layerhub-io/react-design-editor](https://github.com/layerhub-io/react-design-editor) - Image, Presentation and Video editor. React design editor using fabric.js. Canva clone
