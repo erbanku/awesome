@@ -66,6 +66,7 @@
 
 ## Adblock Filter List 
 
+- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List of ad filters based on Chinese locale. 基于中文区的广告规则
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## AutoHotkey 
@@ -302,7 +303,7 @@
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
-- [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
+- [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -1329,7 +1330,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nginxinc/nginx-for-azure-deploy-action](https://github.com/nginxinc/nginx-for-azure-deploy-action) - Github Actions to sync NGINX configs into the NGINX for Azure service.
 - [eRaid6/gitea-install](https://github.com/eRaid6/gitea-install) - Install and Upgrade Gitea on CentOS 7/RHEL7 and Fedora 30
-- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -1360,7 +1361,6 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
-- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List of ad filters based on Chinese locale. 基于中文区的广告规则
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
