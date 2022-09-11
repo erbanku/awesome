@@ -400,6 +400,7 @@
 
 ## HTML 
 
+- [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokDownload 网页版
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get Unlimited amount of Data in Cloudflare's WARP+ VPN🔥
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [233boy/tools](https://github.com/233boy/tools) - 
@@ -1006,6 +1007,7 @@
 
 ## Python 
 
+- [pixray/pixray](https://github.com/pixray/pixray) - 
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
