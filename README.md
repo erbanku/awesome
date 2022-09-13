@@ -1320,7 +1320,7 @@
 - [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
-- [chevereto/vps](https://github.com/chevereto/vps) - Universal bash script to install Chevereto in any VPS
+- [chevereto/vps](https://github.com/chevereto/vps) - Collection of universal bash scripts to install Chevereto in any VPS
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 - [erbanku/seafile-server-installer](https://github.com/erbanku/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
