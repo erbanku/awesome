@@ -1469,7 +1469,7 @@
 - [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode) - massCode assistant for VS Code
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
-- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit forum.standardnotes.org or email help@standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit https://forum.standardnotes.org or email help@standardnotes.com
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | A Selfhosted Comment System
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
