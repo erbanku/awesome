@@ -400,6 +400,7 @@
 
 ## HTML 
 
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
 - [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokDownload 网页版
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get Unlimited amount of Data in Cloudflare's WARP VPN🔥
@@ -468,11 +469,13 @@
 
 ## JavaScript 
 
+- [zjyl1994/lazydogocr](https://github.com/zjyl1994/lazydogocr) - OCR in browser use Tesseract.js
+- [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [OverflowCat/zhihu-watermark-remover](https://github.com/OverflowCat/zhihu-watermark-remover) - Userscript that removes or fakes blind watermarks on Zhihu's webpages
 - [erbanku/fireworks](https://github.com/erbanku/fireworks) - HTML5+Canvas漂亮的3D烟花动画生日特效，节日特效，烟花
 - [ghostdevv/linode-object-upload](https://github.com/ghostdevv/linode-object-upload) - A simple cli tool to upload a file to Linode Object Storage
-- [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [drew-royster/canvasFileSync](https://github.com/drew-royster/canvasFileSync) - Syncs Canvas course files to your local computer
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
@@ -516,7 +519,7 @@
 - [ZxfBugProgrammer/Electron-SIMGUI](https://github.com/ZxfBugProgrammer/Electron-SIMGUI) - 本项目是基于Electron和element UI开发的一款代码查重软件，其内核使用了SIM（SIM是Dick Grune开发的一款代码查重软件）
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器管理面板(webSSH&webSFTP)【需求与bug请提交issue】
+- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器管理面板(webSSH&webSFTP)
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [Zenquan/learnCode](https://github.com/Zenquan/learnCode) - 方便学习的代码仓库
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -714,7 +717,7 @@
 
 ## Jupyter Notebook 
 
-- [openai/whisper](https://github.com/openai/whisper) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pengc02/THUDA-CRACKER](https://github.com/pengc02/THUDA-CRACKER) - Guidence for life in DA
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [megvii-research/CoNR](https://github.com/megvii-research/CoNR) - Official implementation of CoNR: Collaborative Neural Rendering using Anime Character Sheets
@@ -1017,6 +1020,7 @@
 
 ## Python 
 
+- [UISSH/backend](https://github.com/UISSH/backend) - 
 - [magicse/GFPGANv1.3-to-ncnn](https://github.com/magicse/GFPGANv1.3-to-ncnn) - The GFPGAN network consists of two networks. Actually GFPGAN and StyleGAN2
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
@@ -1436,6 +1440,9 @@
 
 ## TypeScript 
 
+- [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
+- [jackluson/vscode-pomodoro-clock](https://github.com/jackluson/vscode-pomodoro-clock) - Pomodoro clock for VS Code
+- [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
 - [b4rtaz/voice-assistant](https://github.com/b4rtaz/voice-assistant) - Voice assistant for Visual Studio Code.
 - [tycrek/ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
