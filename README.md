@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
+- [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
@@ -266,6 +267,10 @@
 
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
+## Common Lisp 
+
+- [susam/mathb](https://github.com/susam/mathb) - MathB.in - Mathematics Pastebin Written in Common Lisp
+
 ## Crystal 
 
 - [phil294/AHK_X11](https://github.com/phil294/AHK_X11) - AutoHotkey for Linux (X11-based systems)
@@ -470,6 +475,7 @@
 
 ## JavaScript 
 
+- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [SurviveSJTU/SJTU-Application](https://github.com/SurviveSJTU/SJTU-Application) - https://survivesjtu.github.io/SJTU-Application/#/
 - [zjyl1994/lazydogocr](https://github.com/zjyl1994/lazydogocr) - OCR in browser use Tesseract.js
 - [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
@@ -730,6 +736,7 @@
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [hgorr/matlab-with-python](https://github.com/hgorr/matlab-with-python) - Examples using MATLAB and Python together
 - [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization
+- [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) - 🚀 Curated collection of Awesome Python Scripts which will make you go wow. Dive into this world of 360+ scripts. Feel free to contribute. Show your support by ✨this repository.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Spidy20/Python_To_APK](https://github.com/Spidy20/Python_To_APK) - You can convert your Python Code to Android APK.
 - [Dsantra92/Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab
@@ -1023,6 +1030,7 @@
 
 ## Python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [mxrch/GitFive](https://github.com/mxrch/GitFive) - Track down GitHub users.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [UISSH/backend](https://github.com/UISSH/backend) - 
@@ -1157,7 +1165,6 @@
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [bmjcode/pywebarchive](https://github.com/bmjcode/pywebarchive) - Software for reading Apple's webarchive format
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) - 🚀 Curated collection of Awesome Python Scripts which will make you go wow. Dive into this world of 360+ scripts. Feel free to contribute. Show your support by ✨this repository.
 - [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
 - [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [waykom/weibo_top](https://github.com/waykom/weibo_top) - 每十分钟爬取一次微博热搜
@@ -1218,7 +1225,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [urbanij/google_keep_takeout](https://github.com/urbanij/google_keep_takeout) - Export your Google Keep notes to a markdown or txt file
 - [lonnyzhang423/v2ex-hot-hub](https://github.com/lonnyzhang423/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。
-- [codePerfectPlus/awesomeScripts](https://github.com/codePerfectPlus/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
+- [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [0xHJK/music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1446,6 +1453,8 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
