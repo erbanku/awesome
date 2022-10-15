@@ -41,6 +41,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
@@ -1016,6 +1017,10 @@
 
 - [linode/longview](https://github.com/linode/longview) - Linode Longview Agent
 
+## PostScript 
+
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 ## PowerShell 
 
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
@@ -1446,7 +1451,6 @@
 ## TeX 
 
 - [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
-- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
 - [zhaofeng-shu33/THU-coursework-template](https://github.com/zhaofeng-shu33/THU-coursework-template) - THU coursework template, intended user: Mathematics, Physics, Electronic Engineering, Mechanics and Computer Science
@@ -1566,7 +1570,7 @@
 - [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 - [luyuhuang/vscode-rss](https://github.com/luyuhuang/vscode-rss) - An RSS reader embedded in Visual Studio Code
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
-- [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。主要目的是为了构建一个 React Native 快速开发脚手架。基于RN 0.70.1。
+- [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。目的是为了构建一个 React Native 快速开发脚手架。客户端数据完全基于 V2EX 开放 API。基于 RN 0.70.3。
 - [trzsz/trzsz.js](https://github.com/trzsz/trzsz.js) - Making webshell and terminal supports trzsz ( trz / tsz ), which similar to rz / sz, and compatible with tmux.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
