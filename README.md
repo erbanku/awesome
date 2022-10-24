@@ -1343,6 +1343,7 @@
 
 ## Shell 
 
+- [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [chenjie/v2ray-tls-websocket-nginx](https://github.com/chenjie/v2ray-tls-websocket-nginx) - 🌎The ULTIMATE V2Ray proxy configuration powered by Project V.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [York618/alist-flyio](https://github.com/York618/alist-flyio) - 
