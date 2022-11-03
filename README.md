@@ -413,6 +413,8 @@
 
 ## HTML 
 
+- [praveenjuge/copybook](https://github.com/praveenjuge/copybook) - Copy book is a collection of texts that are commonly used around the web.
+- [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [lvwzhen/foodie-ex](https://github.com/lvwzhen/foodie-ex) - 🍜「吃货制霸生成器」
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
@@ -805,6 +807,7 @@
 
 ## Others 
 
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
@@ -1149,7 +1152,7 @@
 - [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) - v2ray/xray多用户管理部署程序
 - [kalanakt/Url-Uploader-TG](https://github.com/kalanakt/Url-Uploader-TG) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [jagrit007/gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) - Permanent Direct Link generator for Google Drive with multiple link support. P.S. This is a noob code that I wrote while learning Python :D
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [surajjjjjj/Telegram-automatic-message](https://github.com/surajjjjjj/Telegram-automatic-message) - A python script using the telethon library to simply send messages to a bot every 30 seconds
 - [pirobot/rbx1](https://github.com/pirobot/rbx1) - ROS By Example Volume 1
