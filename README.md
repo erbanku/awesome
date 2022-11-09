@@ -531,7 +531,6 @@
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。
-- [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
@@ -817,7 +816,7 @@
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books) - :books: 恋爱指南
 - [dy-sh/one-dark-potplayer-theme](https://github.com/dy-sh/one-dark-potplayer-theme) - Atom One Dark inspired skin for PotPlayer
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V26.7.0）、TikTok TestFlight 26.8.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V26.8.0）、TikTok TestFlight 26.9.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [wikihouseproject/Skylark](https://github.com/wikihouseproject/Skylark) - The latest WikiHouse structural system, using standardised insulated blocks, for 1-3 storey buildings
 - [vscode-ext-studio/OneDark-Modern](https://github.com/vscode-ext-studio/OneDark-Modern) - 
 - [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
@@ -1061,6 +1060,7 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
 - [kerm-me/docdown](https://github.com/kerm-me/docdown) - 使用playwright强力驱动的原创力文档book118和豆丁网docin下载工具
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
@@ -1540,6 +1540,7 @@
 - [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
+- [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
