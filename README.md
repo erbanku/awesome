@@ -809,6 +809,7 @@
 
 ## Others 
 
+- [DerDanilo/seafile-community-manual](https://github.com/DerDanilo/seafile-community-manual) - Seafile community manual for Seafile CE
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
@@ -1059,6 +1060,7 @@
 
 ## Python 
 
+- [mli/autocut](https://github.com/mli/autocut) - 
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
 - [kerm-me/docdown](https://github.com/kerm-me/docdown) - 使用playwright强力驱动的原创力文档book118和豆丁网docin下载工具
@@ -1186,7 +1188,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 267 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 268 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
