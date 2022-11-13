@@ -1316,7 +1316,7 @@
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [develon2015/dnsd](https://github.com/develon2015/dnsd) - DNS 代理服务器
-- [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - 
+- [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A trusted and real TLS proxy
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [maxgallup/gitea-migrate](https://github.com/maxgallup/gitea-migrate) - 
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
