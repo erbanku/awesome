@@ -472,6 +472,7 @@
 
 ## Java 
 
+- [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
@@ -1501,7 +1502,7 @@
 
 ## TypeScript 
 
-- [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi is an API development tool. Eoapi integrates basic API management functions, and by better scaling your API development work, you can better extend your API.
+- [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi is an API development tool. Eoapi integrates basic API management feature, and by better scaling your API development work, you can better extend your API.
 - [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
