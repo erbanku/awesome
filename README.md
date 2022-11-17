@@ -1305,6 +1305,7 @@
 
 ## Ruby 
 
+- [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [lewagon/setup](https://github.com/lewagon/setup) - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
 - [mrtazz/katana](https://github.com/mrtazz/katana) - ready to go heroku hosted URL shortener based on guillotine
 - [technoweenie/guillotine](https://github.com/technoweenie/guillotine) - URL shortening hobby kit
@@ -1630,7 +1631,7 @@
 - [luvsic3/remind](https://github.com/luvsic3/remind) - Bring mindmap to browser
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - An open source third-party browser extension for Microsoft To Do
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [ddiu8081/bus-vis](https://github.com/ddiu8081/bus-vis) - 🚌 City bus visualizations of China.
