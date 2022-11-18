@@ -129,7 +129,7 @@
 - [thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier) - 2022 年春季学期清华大学《软件分析与验证》课程实验平台
 - [emrecancubukcu/Terrain-Decorator](https://github.com/emrecancubukcu/Terrain-Decorator) - lightweight terrain tool for unity3d
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
-- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client. (Not active for a while, sorry! but come back soon!)
+- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client - not active right now but check often for updates!
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [AxDSan/KeyPose](https://github.com/AxDSan/KeyPose) - An Alternative to 'Mouseposé' for Windows,
 - [RaoHammas/Social-Space](https://github.com/RaoHammas/Social-Space) - Social Space is an app that let you open your apps side-by-side & save workspaces.
@@ -861,7 +861,6 @@
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - 
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
-- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
 - [aishalih/sfwin](https://github.com/aishalih/sfwin) - SFWin — San Francisco Fonts for Windows 10 and non-Apple Platform.
@@ -1140,7 +1139,6 @@
 - [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
 - [No-OnE-Kn0wS-Me/FileRenameBot](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot) - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video!!
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
-- [QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining) - 🥤 Collect, clean, classify, and store exposed SSPanel-Uim sites on the Internet.
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -1190,10 +1188,9 @@
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
 - [Opticos/GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 270 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 269 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1317,6 +1314,7 @@
 
 ## Rust 
 
+- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [ClassmateLin/cfdns](https://github.com/ClassmateLin/cfdns) - 测试Cloudflare CDN 延迟，获取最快的IPV4。
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -1371,6 +1369,7 @@
 
 ## SVG 
 
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
 ## Sass 
