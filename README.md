@@ -314,6 +314,7 @@
 
 ## Go 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [huo-ju/dfserver](https://github.com/huo-ju/dfserver) - A distributed backend AI pipeline server
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -496,6 +497,7 @@
 
 ## JavaScript 
 
+- [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TSL Websocket 整合镜像
 - [erbanku/docs](https://github.com/erbanku/docs) - thu.wiki
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [anerg2046/docker-v2ray](https://github.com/anerg2046/docker-v2ray) - V2Ray Caddy+Vmess+ws+tls 一键Docker脚本
@@ -815,6 +817,10 @@
 
 ## Others 
 
+- [fredliu168/TheEconomist2022](https://github.com/fredliu168/TheEconomist2022) - 经济学人2022年期刊 在线阅读,包含音频，如果域名无法访问，请访问http://128.199.142.161:8888
+- [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper) - 收集Bing必应每日壁纸
+- [Ethkuil/awesome-thu-student-software](https://github.com/Ethkuil/awesome-thu-student-software) - 收录主要由清华大学在校学生开发/维护的实用开源软件。
+- [HelinXu/THUDA-9](https://github.com/HelinXu/THUDA-9) - 清华大学自动化系课程 Notes
 - [DerDanilo/seafile-community-manual](https://github.com/DerDanilo/seafile-community-manual) - Seafile community manual for Seafile CE
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3
@@ -1064,6 +1070,8 @@
 
 ## Python 
 
+- [shiwk20/TsinghuaCloudDownload](https://github.com/shiwk20/TsinghuaCloudDownload) - This is a script to download files from Tsinghua Cloud.
+- [sczhengyabin/Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
@@ -1191,7 +1199,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 269 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 270 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1494,6 +1502,7 @@
 
 ## TeX 
 
+- [zhengkd95/thu_poster_template](https://github.com/zhengkd95/thu_poster_template) - A LaTeX template for academic posters with Tsinghua University logo
 - [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
@@ -1507,6 +1516,9 @@
 
 ## TypeScript 
 
+- [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
+- [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
+- [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
 - [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi is an API development tool. Eoapi integrates basic API management feature, and by better scaling your API development work, you can better extend your API.
 - [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
