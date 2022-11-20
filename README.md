@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -314,6 +315,7 @@
 
 ## Go 
 
+- [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [huo-ju/dfserver](https://github.com/huo-ju/dfserver) - A distributed backend AI pipeline server
@@ -1070,6 +1072,7 @@
 
 ## Python 
 
+- [erbanku/zhihu-archiver](https://github.com/erbanku/zhihu-archiver) - 每日自动抓取知乎热榜，之后转换成 Markdown 文件并构造静态网站
 - [shiwk20/TsinghuaCloudDownload](https://github.com/shiwk20/TsinghuaCloudDownload) - This is a script to download files from Tsinghua Cloud.
 - [sczhengyabin/Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
@@ -1516,6 +1519,7 @@
 
 ## TypeScript 
 
+- [pacexy/flow](https://github.com/pacexy/flow) - Redefine ePub reader
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
