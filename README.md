@@ -1519,7 +1519,7 @@
 
 ## TypeScript 
 
-- [pacexy/flow](https://github.com/pacexy/flow) - Redefine ePub reader
+- [pacexy/flow](https://github.com/pacexy/flow) - EPUB reader. Redefined.
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
