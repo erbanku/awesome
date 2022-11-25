@@ -235,7 +235,6 @@
 - [HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme) - Blubook, a flat typora theme.
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 12 style Typora themes - Material Google JetBrains Vue Juejin Purple Ayu Dark
-- [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a free minimalist weekly planner app focused on privacy. Schedule your tasks and projects with to do lists and a calendar. Available for Windows, Mac, Linux or online.
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
@@ -822,6 +821,7 @@
 
 ## Others 
 
+- [golden777/indulge-in-douyin](https://github.com/golden777/indulge-in-douyin) - 抖音直播视频下载
 - [fredliu168/TheEconomist2022](https://github.com/fredliu168/TheEconomist2022) - 经济学人2022年期刊 在线阅读,包含音频，如果域名无法访问，请访问http://128.199.142.161:8888
 - [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper) - 收集Bing必应每日壁纸
 - [Ethkuil/awesome-thu-student-software](https://github.com/Ethkuil/awesome-thu-student-software) - 收录主要由清华大学在校学生开发/维护的实用开源软件。
@@ -1706,7 +1706,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden 构建你永恒的数字花园
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
@@ -1752,6 +1752,7 @@
 - [lzdyes/douyin-downloader](https://github.com/lzdyes/douyin-downloader) - A cross-platform download douyin video tool built with tauri
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+- [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
