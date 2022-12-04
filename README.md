@@ -300,7 +300,6 @@
 
 ## Dockerfile 
 
-- [gitpod-io/openvscode-releases](https://github.com/gitpod-io/openvscode-releases) - This repo is only to produce releases for OpenVSCode Server.
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
@@ -553,6 +552,7 @@
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
+- [gitpod-io/openvscode-releases](https://github.com/gitpod-io/openvscode-releases) - This repo is only to produce releases for OpenVSCode Server.
 - [SplitGemini/Clash_configuration](https://github.com/SplitGemini/Clash_configuration) - Clash For Windows配置
 - [ShevonKuan/yuektang_ppt2pdf](https://github.com/ShevonKuan/yuektang_ppt2pdf) - 将雨课堂中的课件导出为pdf
 - [Co1lin/Tsinghua-Yukuotang-Autoplay](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) - A script for JS practice purpose.
@@ -1087,6 +1087,8 @@
 
 ## Python 
 
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [erbanku/zhihu-archiver](https://github.com/erbanku/zhihu-archiver) - 每日自动抓取知乎热榜，之后转换成 Markdown 文件并构造静态网站
 - [shiwk20/TsinghuaCloudDownload](https://github.com/shiwk20/TsinghuaCloudDownload) - This is a script to download files from Tsinghua Cloud.
 - [sczhengyabin/Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
