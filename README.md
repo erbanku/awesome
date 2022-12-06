@@ -127,6 +127,7 @@
 
 ## C# # 
 
+- [mili-tan/ArashiDNS.Dekunua](https://github.com/mili-tan/ArashiDNS.Dekunua) - The well-known DoH Servers Manager for Windows 11 / 适用于 Windows 11 的内置著名 DoH 服务器管理工具
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
 - [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
 - [thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier) - 2022 年春季学期清华大学《软件分析与验证》课程实验平台
@@ -719,7 +720,6 @@
 - [richardkrikler/Notability-Viewer](https://github.com/richardkrikler/Notability-Viewer) - Notability Note Viewer for the Backup PDFs inside of a file system (e.g. with OneDrive integration in Windows).
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [littlegolden/syntax-highlight-word](https://github.com/littlegolden/syntax-highlight-word) - A revived project of Syntax Highlight Code for planetB.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [lekoOwO/short-link-bot](https://github.com/lekoOwO/short-link-bot) - A telegram short link bot hosting onCloudflare Workers powered by short.io
