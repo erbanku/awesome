@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [zhaochenyang20/IAI_2022](https://github.com/zhaochenyang20/IAI_2022) - 贵系 2022 年人智导全部资料，from homework to course review
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) - 
 - [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
@@ -1091,6 +1092,7 @@
 
 ## Python 
 
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io
 - [bestmatteo/Telegram-Bot](https://github.com/bestmatteo/Telegram-Bot) - Telegram auto forwarder messages with Selenium
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
