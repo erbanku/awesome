@@ -261,7 +261,6 @@
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [jesperkallunki/youtube](https://github.com/jesperkallunki/youtube) - 
@@ -711,6 +710,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [twoabd/compressioweb](https://github.com/twoabd/compressioweb) - CompressioWeb is a Open Source Production Grade Image Compression API and Web Application. It compresses JPG, PNG, GIF & SVG images in both Lossy and Lossless formats.
@@ -1525,6 +1525,7 @@
 
 ## TeX 
 
+- [Didnelpsun/Math](https://github.com/Didnelpsun/Math) - 考研数学，数学一，包括高等数学、线性代数、概率统计
 - [zhengkd95/thu_poster_template](https://github.com/zhengkd95/thu_poster_template) - A LaTeX template for academic posters with Tsinghua University logo
 - [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
 - [alick/thulib-latex-talk](https://github.com/alick/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿。后续更新：https://github.com/tuna/thulib-latex-talk
@@ -1539,6 +1540,7 @@
 
 ## TypeScript 
 
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
 - [zenorocha/react-email](https://github.com/zenorocha/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
@@ -1606,7 +1608,7 @@
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist V2
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
