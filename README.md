@@ -70,7 +70,6 @@
 ## Adblock Filter List 
 
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
-- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List of ad filters based on Chinese locale.
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## AutoHotkey 
@@ -700,7 +699,7 @@
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
@@ -849,7 +848,7 @@
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books) - :books: 恋爱指南
 - [dy-sh/one-dark-potplayer-theme](https://github.com/dy-sh/one-dark-potplayer-theme) - Atom One Dark inspired skin for PotPlayer
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.3.0）、TikTok TestFlight 27.4.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.4.0）、TikTok TestFlight 27.5.1，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [wikihouseproject/Skylark](https://github.com/wikihouseproject/Skylark) - The latest WikiHouse structural system, using standardised insulated blocks, for 1-3 storey buildings
 - [vscode-ext-studio/OneDark-Modern](https://github.com/vscode-ext-studio/OneDark-Modern) - 
 - [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
@@ -1480,6 +1479,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
+- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List of ad filters based on Chinese locale.
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
