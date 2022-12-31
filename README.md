@@ -38,7 +38,6 @@
 - [Markdown](#markdown)
 - [Mermaid](#mermaid)
 - [Meson](#meson)
-- [NSIS](#nsis)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -517,6 +516,7 @@
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TLS Websocket 整合Docker镜像
+- [eolinker/postcat](https://github.com/eolinker/postcat) - Postcat 是一个可扩展的 API 工具平台。 Postcat 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
 - [erbanku/docs](https://github.com/erbanku/docs) - thu.wiki
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [anerg2046/docker-v2ray](https://github.com/anerg2046/docker-v2ray) - V2Ray Caddy+Vmess+ws+tls 一键Docker脚本
@@ -831,10 +831,6 @@
 ## Meson 
 
 - [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
-
-## NSIS 
-
-- [eolinker/postcat](https://github.com/eolinker/postcat) - Postcat 是一个可扩展的 API 工具平台。 Postcat 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
 
 ## Objective-C 
 
