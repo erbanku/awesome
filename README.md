@@ -50,6 +50,7 @@
 - [QML](#qml)
 - [R](#r)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -229,6 +230,7 @@
 
 ## CSS 
 
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
 - [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) - A beautiful minimalism theme for Obsidian.
@@ -512,6 +514,7 @@
 
 ## JavaScript 
 
+- [renzhezhilu/gifsicle-wasm-browser](https://github.com/renzhezhilu/gifsicle-wasm-browser) - Run Gifsicle in the browser ,to GIFs compress, crop, manipulate frames, resize, Etc .
 - [waylybaye/servercat.app](https://github.com/waylybaye/servercat.app) - source code of https://servercat.app/
 - [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - 开源项目usememos/memos的微信小程序版
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
@@ -1098,6 +1101,8 @@
 
 ## Python 
 
+- [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
+- [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [kael-k/telegram-webdav-integration-bot](https://github.com/kael-k/telegram-webdav-integration-bot) - Telegram bot consumer to send photo, videos and documents to webdav directory
 - [qazxcdswe123/telegramMemoBot](https://github.com/qazxcdswe123/telegramMemoBot) - A telegram bot for https://github.com/usememos/memos
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
@@ -1354,6 +1359,10 @@
 - [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 
+## Roff 
+
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或V2Ray（v4版）、Trojan-Go或Trojan、NaiveProxy、Hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的Caddy（Caddy2）程序，分享给大家食用及自己备份。
+
 ## Ruby 
 
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
@@ -1564,7 +1573,7 @@
 - [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
 - [dtysky/Awaken](https://github.com/dtysky/Awaken) - 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
-- [resend-inc/react-email](https://github.com/resend-inc/react-email) - 💌 Build and send emails using React
+- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
