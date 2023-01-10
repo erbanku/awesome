@@ -126,6 +126,7 @@
 
 ## C# # 
 
+- [Berrysoft/TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) - 清华大学校园网客户端与联网库，适用于 UWP、iOS、Android，其余平台见 tunet-rust
 - [mili-tan/ArashiDNS.Dekunua](https://github.com/mili-tan/ArashiDNS.Dekunua) - The well-known DoH Servers Manager for Windows 11 / 适用于 Windows 11 的内置著名 DoH 服务器管理工具
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
 - [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
@@ -462,6 +463,7 @@
 - [DhanushNehru/Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
 - [sspanel-uim/Wiki](https://github.com/sspanel-uim/Wiki) - 我们安装，我们更新，我们开发
@@ -482,7 +484,7 @@
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [Sobranier/github-chart](https://github.com/Sobranier/github-chart) - 
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2023中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
 - [renzhezhilu/img2color-online](https://github.com/renzhezhilu/img2color-online) - 在线图片配色提取 测试中...
 - [UmeLabs/node.umelabs.dev](https://github.com/UmeLabs/node.umelabs.dev) - 每天24:00点前更新免费SS/SSR节点
 
@@ -860,7 +862,7 @@
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books) - :books: 恋爱指南
 - [dy-sh/one-dark-potplayer-theme](https://github.com/dy-sh/one-dark-potplayer-theme) - Atom One Dark inspired skin for PotPlayer
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.4.0）、TikTok TestFlight 27.5.1，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.6.0）、TikTok TestFlight 27.7.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [wikihouseproject/Skylark](https://github.com/wikihouseproject/Skylark) - The latest WikiHouse structural system, using standardised insulated blocks, for 1-3 storey buildings
 - [vscode-ext-studio/OneDark-Modern](https://github.com/vscode-ext-studio/OneDark-Modern) - 
 - [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
@@ -899,7 +901,6 @@
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - 
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
 - [aishalih/sfwin](https://github.com/aishalih/sfwin) - SFWin — San Francisco Fonts for Windows 10 and non-Apple Platform.
@@ -1050,6 +1051,7 @@
 
 ## PHP 
 
+- [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 新版简单强大无数据库的图床2.0版  演示地址：
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [osuuu/LightPicture](https://github.com/osuuu/LightPicture) - 企业/团队/个人图片资源管理系统、图床系统
@@ -1102,12 +1104,14 @@
 
 ## Python 
 
+- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Auto download files from thu-learn
+- [WhymustIhaveaname/TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) - Tsinghua Tunet auto-connect script. 清华校园网自动连接脚本.
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [kael-k/telegram-webdav-integration-bot](https://github.com/kael-k/telegram-webdav-integration-bot) - Telegram bot consumer to send photo, videos and documents to webdav directory
 - [qazxcdswe123/telegramMemoBot](https://github.com/qazxcdswe123/telegramMemoBot) - A telegram bot for https://github.com/usememos/memos
-- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [openai/openai-python](https://github.com/openai/openai-python) - 
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点
@@ -1478,6 +1482,7 @@
 - [alist-org/alist-replit](https://github.com/alist-org/alist-replit) - alist on replit
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装
 - [aitlp/docker-v2ray](https://github.com/aitlp/docker-v2ray) - 使用docker-compose以ws+tls方式一键部署v2ray。
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nginxinc/nginx-for-azure-deploy-action](https://github.com/nginxinc/nginx-for-azure-deploy-action) - Github Actions to sync NGINX configs into the NGINX for Azure service.
@@ -1498,7 +1503,6 @@
 - [disbalancer-project/main](https://github.com/disbalancer-project/main) - 
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [xiantang/xiantang-blog](https://github.com/xiantang/xiantang-blog) - blog
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [wabarc/on-heroku](https://github.com/wabarc/on-heroku) - Deploy and maintaining wayback service as a Heroku app easily and quickly.
@@ -1558,6 +1562,7 @@
 
 ## TeX 
 
+- [liblaf/ilatex](https://github.com/liblaf/ilatex) - Simple LaTeX Templates
 - [Didnelpsun/Math](https://github.com/Didnelpsun/Math) - 考研数学，数学一，包括高等数学、线性代数、概率统计
 - [zhengkd95/thu_poster_template](https://github.com/zhengkd95/thu_poster_template) - A LaTeX template for academic posters with Tsinghua University logo
 - [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
@@ -1573,6 +1578,8 @@
 
 ## TypeScript 
 
+- [thu-info-community/thu-info-lib](https://github.com/thu-info-community/thu-info-lib) - The JavaScript library that provides a program-friendly interface to Tsinghua web portal
+- [Harry-Chen/Learn-Helper](https://github.com/Harry-Chen/Learn-Helper) - 清华大学网络学堂助手
 - [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
 - [dtysky/Awaken](https://github.com/dtysky/Awaken) - 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
