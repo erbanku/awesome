@@ -1108,6 +1108,9 @@
 
 ## Python 
 
+- [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
+- [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
+- [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Auto download files from thu-learn
 - [WhymustIhaveaname/TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) - Tsinghua Tunet auto-connect script. 清华校园网自动连接脚本.
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
@@ -1390,7 +1393,7 @@
 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [ClassmateLin/douyin-downloader](https://github.com/ClassmateLin/douyin-downloader) - Cross-platform douyin video downloader built with tauri. 跨平台抖音视频下载器, 使用tauri构建。
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
