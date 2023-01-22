@@ -231,6 +231,7 @@
 
 ## CSS 
 
+- [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
@@ -1783,7 +1784,7 @@
 
 ## VBScript 
 
-- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
+- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 签发证书 通配证书 泛域名证书 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 
 ## Vala 
 
