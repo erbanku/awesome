@@ -323,6 +323,7 @@
 
 ## Go 
 
+- [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
@@ -520,6 +521,7 @@
 
 ## JavaScript 
 
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [free-gx/cf-agent](https://github.com/free-gx/cf-agent) - Cloudflare Worker 代理联网
 - [M3chD09/Cloudflare-Workers-E5Renew](https://github.com/M3chD09/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 - [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
@@ -763,7 +765,6 @@
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [renzhezhilu/webp2jpg-online-demo](https://github.com/renzhezhilu/webp2jpg-online-demo) - Here are some libraries about using the browser to do image processing (format conversion), and make the corresponding demo pages.这里收集了一些关于使用浏览器做图片处理（格式转换）的库，并制作了相应的演示页面。
 - [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [magic-akari/ncmc-web](https://github.com/magic-akari/ncmc-web) - convert files in browsers
@@ -834,6 +835,7 @@
 
 - [Ewenwan/Ros](https://github.com/Ewenwan/Ros) - 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1113,6 +1115,7 @@
 
 ## Python 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [zhelper-org/tgbot](https://github.com/zhelper-org/tgbot) - zhelper tgbot
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -1449,6 +1452,7 @@
 
 ## SCSS 
 
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
@@ -1797,7 +1801,7 @@
 
 ## VBScript 
 
-- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 签发证书 通配证书 泛域名证书 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
+- [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 ssl证书签发 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 
 ## Vala 
 
