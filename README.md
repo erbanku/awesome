@@ -1233,7 +1233,7 @@
 - [fuqiuai/wordCloud](https://github.com/fuqiuai/wordCloud) - 用python进行文本分词并生成词云
 - [Mahesh0253/Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups
 - [Mahesh0253/GPlink-bot](https://github.com/Mahesh0253/GPlink-bot) - 
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
+- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
