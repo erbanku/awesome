@@ -1630,7 +1630,7 @@
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
