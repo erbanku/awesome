@@ -1127,6 +1127,7 @@
 
 ## Python 
 
+- [ahui2016/R2-Gallery](https://github.com/ahui2016/R2-Gallery) - 个人独立相册，其中图片储存采用 Cloudflare R2 实现。
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
@@ -1145,7 +1146,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点
+- [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持更多站点
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。
 - [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、图文、音频
 - [Ziazan/douyin_web](https://github.com/Ziazan/douyin_web) - 抖音用户分享页数据爬虫
@@ -1613,10 +1614,15 @@
 
 ## TypeScript 
 
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
+- [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
+- [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
+- [MNThomson/containerflare](https://github.com/MNThomson/containerflare) - Cloudflare (Workers + R2) edge container image repository
+- [cmj2002/CF-R2-ImageBed](https://github.com/cmj2002/CF-R2-ImageBed) - Image hosting based on Cloudflare R2. Supports PicGo.
 - [robertying/learnX-companion](https://github.com/robertying/learnX-companion) - 清华大学网络学堂 App 助手，为 learnX 提供个性化的推送通知支持。
 - [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items into Notion
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [SunYufei/workers-dav](https://github.com/SunYufei/workers-dav) - 使用 Cloudflare Workers 为 Google Drive 提供 WebDAV 服务 / WebDAV supports for Google Drive using Cloudflare Workers
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [ghedamat/obsidian-save-as-gist](https://github.com/ghedamat/obsidian-save-as-gist) - 
@@ -1845,6 +1851,7 @@
 
 ## Vue 
 
+- [Paul-Gy/SessionShare](https://github.com/Paul-Gy/SessionShare) - Easily share files in multiple times with a single link! Built using Vue.js on Cloudflare Workers, with Durable Objects, R2 and Cloudflare Pages.
 - [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS
 - [slidevjs/docs](https://github.com/slidevjs/docs) - Documentation for Slidev
