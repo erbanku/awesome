@@ -24,6 +24,7 @@
 - [Elm](#elm)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -327,6 +328,7 @@
 
 ## Go 
 
+- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -438,6 +440,10 @@
 - [misitebao/yakia](https://github.com/misitebao/yakia) - Tools for developers to manage projects.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+
+## HCL 
+
+- [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
 
 ## HTML 
 
@@ -1418,6 +1424,7 @@
 
 ## Rust 
 
+- [sigoden/opscan](https://github.com/sigoden/opscan) - A open port scanner.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
