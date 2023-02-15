@@ -1219,7 +1219,7 @@
 - [CMiksche/gitea-auto-update](https://github.com/CMiksche/gitea-auto-update) - A script which can update gitea via crontab automatically to a new version.
 - [praneetk2704/JPG-to-PDF](https://github.com/praneetk2704/JPG-to-PDF) - Simple Python script to create a PDF file from a set of images within seconds.
 - [Polaris119/Epidemic-visualization](https://github.com/Polaris119/Epidemic-visualization) - 中国新冠疫情数据可视化
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Make big AI models cheaper, easier, and scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
 - [kxxt/aspeak](https://github.com/kxxt/aspeak) - Try speech synthesis service(Provided by Azure Cognitive Services) in your terminal!
@@ -1297,7 +1297,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 292 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 294 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1424,6 +1424,9 @@
 
 ## Rust 
 
+- [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
+- [EAimTY/socks5-server](https://github.com/EAimTY/socks5-server) - Asynchronized SOCKS5 server library based on tokio
+- [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed 0-RTT proxy protocol
 - [sigoden/opscan](https://github.com/sigoden/opscan) - A open port scanner.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [klausi/mastodon-twitter-sync](https://github.com/klausi/mastodon-twitter-sync) - Synchronizes posts from Mastodon to Twitter and back
