@@ -1298,7 +1298,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 295 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 296 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1659,6 +1659,7 @@
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
+- [slidevjs/docs](https://github.com/slidevjs/docs) - Documentation for Slidev
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -1871,7 +1872,6 @@
 - [Paul-Gy/SessionShare](https://github.com/Paul-Gy/SessionShare) - Easily share files in multiple times with a single link! Built using Vue.js on Cloudflare Workers, with Durable Objects, R2 and Cloudflare Pages.
 - [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS
-- [slidevjs/docs](https://github.com/slidevjs/docs) - Documentation for Slidev
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 简单好用的在线文本工具；支持将 Markdown、rich text、word 等格式内容，快速转化为 png、pdf、html 等文件，并支持一键下载、自定义设置等功能。
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
