@@ -1167,7 +1167,7 @@
 - [Ziazan/douyin_web](https://github.com/Ziazan/douyin_web) - 抖音用户分享页数据爬虫
 - [opendreamnet/dreampower](https://github.com/opendreamnet/dreampower) - DeepNude algorithm fork with improvements.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io or Replit with python
 - [bestmatteo/Telegram-Bot](https://github.com/bestmatteo/Telegram-Bot) - Telegram auto forwarder messages with Selenium
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
