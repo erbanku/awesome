@@ -446,6 +446,7 @@
 ## HCL 
 
 - [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 
 ## HTML 
 
@@ -888,7 +889,6 @@
 - [Ethkuil/awesome-thu-student-software](https://github.com/Ethkuil/awesome-thu-student-software) - 收录主要由清华大学在校学生开发/维护的实用开源软件。
 - [HelinXu/THUDA-9](https://github.com/HelinXu/THUDA-9) - 清华大学自动化系课程 Notes
 - [DerDanilo/seafile-community-manual](https://github.com/DerDanilo/seafile-community-manual) - Seafile community manual for Seafile CE
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3
 - [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
