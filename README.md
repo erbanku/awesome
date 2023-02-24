@@ -1151,7 +1151,7 @@
 - [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Auto download files from thu-learn
+- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Download everything from Web Learning of Tsinghua University
 - [WhymustIhaveaname/TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) - Tsinghua Tunet auto-connect script. 清华校园网自动连接脚本.
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
@@ -1167,7 +1167,7 @@
 - [Ziazan/douyin_web](https://github.com/Ziazan/douyin_web) - 抖音用户分享页数据爬虫
 - [opendreamnet/dreampower](https://github.com/opendreamnet/dreampower) - DeepNude algorithm fork with improvements.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io or Replit with python
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - an AI chat Telegram bot with ChatGPT using Python on either fly.io or Replit.
 - [bestmatteo/Telegram-Bot](https://github.com/bestmatteo/Telegram-Bot) - Telegram auto forwarder messages with Selenium
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
@@ -1303,7 +1303,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 299 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 300 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
