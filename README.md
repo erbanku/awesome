@@ -715,7 +715,6 @@
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [pxeger/url-shortener](https://github.com/pxeger/url-shortener) - World's simplest URL shortener using Cloudflare Workers
 - [mrmartineau/snippet-generator](https://github.com/mrmartineau/snippet-generator) - ⚡ Sublime Text, Atom & VS Code snippet generator
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [b3by/atom-clock](https://github.com/b3by/atom-clock) - Place a clock or calendar in your status bar
 - [microsoft/vscode-atom-keybindings](https://github.com/microsoft/vscode-atom-keybindings) - Port of Atom Keybindings for VS Code.
 - [binaryoung/convert-atom-snippets-to-vscode](https://github.com/binaryoung/convert-atom-snippets-to-vscode) - A tiny package that help you convert atom snippets to vscode format.
@@ -1801,6 +1800,7 @@
 - [Actions-R-Us/actions-tagger](https://github.com/Actions-R-Us/actions-tagger) - A meta-action to keep your action versions up-to-date :rocket:
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nglviewer/ngl](https://github.com/nglviewer/ngl) - WebGL protein viewer
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder) - A small vscode extension that help you to create files & folder in Atom Style.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
