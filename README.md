@@ -313,6 +313,7 @@
 
 ## Dockerfile 
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
@@ -451,6 +452,7 @@
 
 ## HTML 
 
+- [niturobert/gmailkit](https://github.com/niturobert/gmailkit) - A reddit client if reddit was made by the gmail team.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
@@ -876,6 +878,7 @@
 
 ## Others 
 
+- [BaoBaoDualang/EURunRoad](https://github.com/BaoBaoDualang/EURunRoad) - Teach you how to Run to Europe
 - [Alice-space/PKU-OpenWrt](https://github.com/Alice-space/PKU-OpenWrt) - How to config OpenWrt in PKU
 - [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
