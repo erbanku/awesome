@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
@@ -453,6 +454,7 @@
 
 ## HTML 
 
+- [xx025/chatgptapi_server](https://github.com/xx025/chatgptapi_server) - 协调多个chatgpt账户收发消息，构建ChatGPT3.5 API服务；一个账号没办法同时请求两个问题，但一百个可以啊！
 - [niturobert/gmailkit](https://github.com/niturobert/gmailkit) - A reddit client if reddit was made by the gmail team.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
@@ -879,6 +881,7 @@
 
 ## Others 
 
+- [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [BaoBaoDualang/EURunRoad](https://github.com/BaoBaoDualang/EURunRoad) - Teach you how to Run to Europe
 - [Alice-space/PKU-OpenWrt](https://github.com/Alice-space/PKU-OpenWrt) - How to config OpenWrt in PKU
