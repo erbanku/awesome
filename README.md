@@ -131,6 +131,7 @@
 
 ## C# # 
 
+- [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 - [Berrysoft/TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) - 清华大学校园网客户端与联网库，适用于 UWP、iOS、Android，其余平台见 tunet-rust
 - [mili-tan/ArashiDNS.Dekunua](https://github.com/mili-tan/ArashiDNS.Dekunua) - The well-known DoH Servers Manager for Windows 11 / 适用于 Windows 11 的内置著名 DoH 服务器管理工具
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
@@ -1147,6 +1148,9 @@
 
 ## Python 
 
+- [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper
+- [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
+- [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - play chatgpt with xiaomi ai speaker
 - [PR0FESS0R-99/Midukki-RoBoT](https://github.com/PR0FESS0R-99/Midukki-RoBoT) - Midukki-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -1238,7 +1242,6 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
-- [kxxt/aspeak](https://github.com/kxxt/aspeak) - Try speech synthesis service(Provided by Azure Cognitive Services) in your terminal!
 - [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
@@ -1477,6 +1480,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A bLazIngLy FAsT URL shortener that uses emojis, only emojis.
+- [kxxt/aspeak](https://github.com/kxxt/aspeak) - Try speech synthesis service(Provided by Azure Cognitive Services) in your terminal!
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
