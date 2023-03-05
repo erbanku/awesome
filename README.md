@@ -1480,7 +1480,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A bLazIngLy FAsT URL shortener that uses emojis, only emojis.
-- [kxxt/aspeak](https://github.com/kxxt/aspeak) - Try speech synthesis service(Provided by Azure Cognitive Services) in your terminal!
+- [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1669,7 +1669,7 @@
 - [forecho/cherries](https://github.com/forecho/cherries) - 
 - [thu-info-community/thu-info-lib](https://github.com/thu-info-community/thu-info-lib) - The JavaScript library that provides a program-friendly interface to Tsinghua web portal
 - [Harry-Chen/Learn-Helper](https://github.com/Harry-Chen/Learn-Helper) - 清华大学网络学堂助手
-- [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
+- [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
 - [dtysky/Awaken](https://github.com/dtysky/Awaken) - 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
