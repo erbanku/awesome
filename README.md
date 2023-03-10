@@ -187,7 +187,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [zhaochenyang20/IAI_2022](https://github.com/zhaochenyang20/IAI_2022) - 贵系 2022 年人智导全部资料，from homework to course review
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) - 
-- [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++
+- [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++, supported txt2img and img2img
 - [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) - A privacy-friendly Document Scanner app
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -458,7 +458,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [xx025/chatgptapi_server](https://github.com/xx025/chatgptapi_server) - 协调多个chatgpt账户收发消息，构建ChatGPT3.5 API服务；一个账号没办法同时请求两个问题，但一百个可以啊！
 - [niturobert/gmailkit](https://github.com/niturobert/gmailkit) - A reddit client if reddit was made by the gmail team.
-- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+- [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [52ludama/linode_panel](https://github.com/52ludama/linode_panel) - 一个简单的linode api 开机面板
@@ -566,7 +566,7 @@
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TLS Websocket 整合Docker镜像
-- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
+- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [erbanku/docs](https://github.com/erbanku/docs) - thu.wiki
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [anerg2046/docker-v2ray](https://github.com/anerg2046/docker-v2ray) - V2Ray Caddy+Vmess+ws+tls 一键Docker脚本
@@ -1153,6 +1153,7 @@
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [evilpan/gptcli](https://github.com/evilpan/gptcli) - ChatGPT in command line with gpt-3.5-turbo api
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper
@@ -1322,7 +1323,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 300 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 301 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1452,7 +1453,7 @@
 ## Rust 
 
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [EAimTY/socks5-server](https://github.com/EAimTY/socks5-server) - Asynchronized SOCKS5 server library based on tokio
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed 0-RTT proxy protocol
