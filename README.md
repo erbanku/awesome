@@ -432,7 +432,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [zu1k/proxypool](https://github.com/zu1k/proxypool) - 
+- [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [erbanku/treehollow-backend](https://github.com/erbanku/treehollow-backend) - T大树洞 的Golang后端
 - [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
@@ -529,7 +529,7 @@
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [google/private-compute-services](https://github.com/google/private-compute-services) - 
-- [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate connect cube
+- [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate connect cube. 开源的远程服务器管理工具箱，目标是为渗透测试工程师、程序员、网站管理员、IT 管理员以及几乎所有需要以更简单的方式处理远程工作的用户提供大量定制功能。
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -668,6 +668,7 @@
 - [danielpigott/cloudflare-cli](https://github.com/danielpigott/cloudflare-cli) - CLI for interacting with Cloudflare
 - [shajidhasan/rknotes-landing](https://github.com/shajidhasan/rknotes-landing) - 
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [py7hon/Meowdrive](https://github.com/py7hon/Meowdrive) - Meowdrive/Google drive directlink
@@ -818,7 +819,6 @@
 - [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API
 - [LinXueyuanStdio/LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO) - :art: 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）Math Formula OCR Pro, supports handwrite, Chinese-mixed formulas and simple symbol reasoning (based on LaTeX AST).
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pengc02/THUDA-CRACKER](https://github.com/pengc02/THUDA-CRACKER) - Guidence for life in DA
 - [megvii-research/CoNR](https://github.com/megvii-research/CoNR) - Official implementation of CoNR: Collaborative Neural Rendering using Anime Character Sheets
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
@@ -944,7 +944,7 @@
 - [skyiea/rememberry-i10n](https://github.com/skyiea/rememberry-i10n) - Localization for Rememberry
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) - 
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
@@ -1212,6 +1212,7 @@
 - [mxrch/GitFive](https://github.com/mxrch/GitFive) - 🐙 Track down GitHub users.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [UISSH/backend](https://github.com/UISSH/backend) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [magicse/GFPGANv1.3-to-ncnn](https://github.com/magicse/GFPGANv1.3-to-ncnn) - The GFPGAN network consists of two networks. Actually GFPGAN and StyleGAN2
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
@@ -1325,7 +1326,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 302 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 304 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1470,7 +1471,7 @@
 - [ClassmateLin/douyin-downloader](https://github.com/ClassmateLin/douyin-downloader) - Cross-platform douyin video downloader built with tauri. 跨平台抖音视频下载器, 使用tauri构建。
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [ClassmateLin/cfdns](https://github.com/ClassmateLin/cfdns) - 测试Cloudflare CDN 延迟，获取最快的IPV4。
+- [ClassmateLin/cfdns](https://github.com/ClassmateLin/cfdns) - A local DNS server, used to test Cloudflare CDN latency and speed, get the fastest IP (IPv4).一个本地DNS服务器, 用于测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 )。
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [develon2015/dnsd](https://github.com/develon2015/dnsd) - DNS 代理服务器
@@ -1573,7 +1574,6 @@
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
-- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [aprescott/gist-backup](https://github.com/aprescott/gist-backup) - Back up all your public and private gist repositories.
 - [Jrohy/nodejs-install](https://github.com/Jrohy/nodejs-install) - 一键安装最新版nodejs
 - [rickellis/ConkyMatic](https://github.com/rickellis/ConkyMatic) - Automatic Conky color scheme changer based on the current wallpaper colors. Written in Bash.
