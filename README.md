@@ -886,7 +886,7 @@
 
 ## Others 
 
-- [yonggekkk/CFwarp-yg](https://github.com/yonggekkk/CFwarp-yg) - CFwarp多功能一键脚本，让CF的IP来接管VPS的出站IP吧！实时查看当前VPS的IP对Chatgpt与奈飞Netflix的解锁情况
+- [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，实时查看当前VPS的IP对Chatgpt与奈飞Netflix的解锁情况
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [BaoBaoDualang/Run_EU](https://github.com/BaoBaoDualang/Run_EU) - 润欧小指北
