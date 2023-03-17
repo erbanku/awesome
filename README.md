@@ -887,6 +887,7 @@
 
 ## Others 
 
+- [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持endpoint对端自选IP功能，实时查看当前VPS的IP对Chatgpt与奈飞Netflix的解锁情况
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
@@ -1309,7 +1310,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [absop/ST-ChineseTokenizer](https://github.com/absop/ST-ChineseTokenizer) - Sublime Text 3 的 jieba 分词库绑定，支持对中文更精确地选词、删词和按词移动光标
-- [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put blind watermark into a text(invisible watermark for text).
+- [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [IntelligenceX/SDK](https://github.com/IntelligenceX/SDK) - Public SDK for Intelligence X
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
