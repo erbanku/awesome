@@ -910,7 +910,7 @@
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [ixinzhi/loving-books-part1](https://github.com/ixinzhi/loving-books-part1) - :books: 恋爱指南
 - [dy-sh/one-dark-potplayer-theme](https://github.com/dy-sh/one-dark-potplayer-theme) - Atom One Dark inspired skin for PotPlayer
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.4） 、TikTok（V28.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.4） 、TikTok（V28.4.1）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [vscode-ext-studio/OneDark-Modern](https://github.com/vscode-ext-studio/OneDark-Modern) - 
 - [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
@@ -1165,7 +1165,7 @@
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper
 - [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
-- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT with xiaomi ai speaker
+- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT with xiaomi AI speaker
 - [PR0FESS0R-99/Midukki-RoBoT](https://github.com/PR0FESS0R-99/Midukki-RoBoT) - Midukki-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -1681,7 +1681,7 @@
 - [robertying/learnX-companion](https://github.com/robertying/learnX-companion) - 清华大学网络学堂 App 助手，为 learnX 提供个性化的推送通知支持。
 - [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items into Notion
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [SunYufei/workers-dav](https://github.com/SunYufei/workers-dav) - 使用 Cloudflare Workers 为 Google Drive 提供 WebDAV 服务 / WebDAV supports for Google Drive using Cloudflare Workers
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [ghedamat/obsidian-save-as-gist](https://github.com/ghedamat/obsidian-save-as-gist) - 
@@ -1765,7 +1765,7 @@
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers
-- [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Privacy Companion is a Firefox extension helping you improve your online privacy.
+- [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Browser Extension improves your browsing experience while using Mullvad VPN.
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [lcomplete/smart-toc](https://github.com/lcomplete/smart-toc) - A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。
