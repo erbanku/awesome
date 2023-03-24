@@ -688,7 +688,7 @@
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
 - [noxue/bingdundun](https://github.com/noxue/bingdundun) - 冰墩墩3d源码
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
+- [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [moshang-xc/lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
@@ -1143,7 +1143,7 @@
 ## PowerShell 
 
 - [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - PowerShell AI module for OpenAI GPT-3 and DALL-E
-- [diddledani/one-script-wsl2-systemd](https://github.com/diddledani/one-script-wsl2-systemd) - The one-script variant of the systemd hack for WSL2
+- [lucyllewy/one-script-wsl2-systemd](https://github.com/lucyllewy/one-script-wsl2-systemd) - The one-script variant of the systemd hack for WSL2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
