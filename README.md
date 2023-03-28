@@ -1160,6 +1160,7 @@
 
 ## Python 
 
+- [visual-openllm/visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, 文心一言的开源版
 - [kale5195/chilloutai](https://github.com/kale5195/chilloutai) - AI 图片生成
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [wuguokai/gpt-api-wrapper](https://github.com/wuguokai/gpt-api-wrapper) - 封装openai，gpt3，gpt3.5，gpt4的api调用及支持上下文的对话接口
@@ -1673,6 +1674,7 @@
 
 ## TypeScript 
 
+- [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Powered by OpenAI API GPT-4/3.5 and Vercel, support muti text conversations/prompts preset/image generation -- 支持多组文本对话/预设提示/图像生成，由 OpenAI API GPT-4/3.5 和 Vercel 提供支持
 - [hyoban/blog-next-notion](https://github.com/hyoban/blog-next-notion) - A blog template based on notion official api and next js 13
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
