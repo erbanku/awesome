@@ -828,7 +828,7 @@
 - [LinXueyuanStdio/LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO) - :art: 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）Math Formula OCR Pro, supports handwrite, Chinese-mixed formulas and simple symbol reasoning (based on LaTeX AST).
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [pengc02/THUDA-CRACKER](https://github.com/pengc02/THUDA-CRACKER) - Guidence for life in DA
-- [megvii-research/CoNR](https://github.com/megvii-research/CoNR) - Official implementation of CoNR: Collaborative Neural Rendering using Anime Character Sheets
+- [megvii-research/IJCAI2023-CoNR](https://github.com/megvii-research/IJCAI2023-CoNR) - [IJCAI2023] Collaborative Neural Rendering using Anime Character Sheets
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
@@ -1167,6 +1167,7 @@
 
 ## Python 
 
+- [Greymattersbot/public-forward-bot](https://github.com/Greymattersbot/public-forward-bot) - 
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1349,7 +1350,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 311 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 312 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1878,7 +1879,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder) - A small vscode extension that help you to create files & folder in Atom Style.
-- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [erbanku/github-notion-star](https://github.com/erbanku/github-notion-star) - Sync GitHub Starred Repositories to Notion Database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
