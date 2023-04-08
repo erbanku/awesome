@@ -459,7 +459,6 @@
 
 ## HTML 
 
-- [jiacai2050/pageview-worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 - [3Alan/chat-markdown](https://github.com/3Alan/chat-markdown) - chat with your markdown files
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -551,6 +550,7 @@
 ## JavaScript 
 
 - [plantree/ruanyf-weekly](https://github.com/plantree/ruanyf-weekly) - VitePress构建阮一峰的技术周刊
+- [jiacai2050/pageview-worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [leon-fong/chatgpt-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - ⚡️ 一键拥有你自己的 ChatGPT 微信小程序
