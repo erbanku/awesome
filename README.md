@@ -95,7 +95,7 @@
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
-- [Excitablecell/GEARdrones](https://github.com/Excitablecell/GEARdrones) - GEARdrones是一个专为低成本无人机编队控制所开发的，集飞行控制器、UWB相对定位算法、软件上位机于一体的四旋翼无人机系统。
+- [Excitablecell/GEARdrones](https://github.com/Excitablecell/GEARdrones) - GEARdrones is a lightweight UAV formation control system that combines a flight controller, UWB relative positioning algorithms, and a software monitor.
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -1274,7 +1274,7 @@
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [athphane/userbot](https://github.com/athphane/userbot) - Telegram Userbot built with Pyrogram
