@@ -1486,7 +1486,6 @@
 
 ## Roff 
 
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或V2Ray（v4版）、Trojan-Go或Trojan、NaiveProxy、Hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的Caddy（v2版）程序，分享给大家食用及自己备份。
 - [wikihouseproject/Skylark](https://github.com/wikihouseproject/Skylark) - The latest WikiHouse structural system, using standardised insulated blocks, for 1-3 storey buildings
 
 ## Ruby 
@@ -1583,6 +1582,7 @@
 ## Shell 
 
 - [guzhaoyuan/net.tsinghua](https://github.com/guzhaoyuan/net.tsinghua) - Command Line Interface for Tsinghua Network Login
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或V2Ray（v4版）、NaiveProxy、Hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的Caddy（v2版）程序，分享给大家食用及自己备份。
 - [haiwen/seafile-admin-docs](https://github.com/haiwen/seafile-admin-docs) - 
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) - WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
