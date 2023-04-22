@@ -374,7 +374,7 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
@@ -920,7 +920,6 @@
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持warp在线监测守护、endpoint对端自选IP等功能，查看ChatGPT与Netflix的解锁情况
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
-- [BaoBaoDualang/Run_EU](https://github.com/BaoBaoDualang/Run_EU) - 润欧小指北
 - [Alice-space/PKU-OpenWrt](https://github.com/Alice-space/PKU-OpenWrt) - How to config OpenWrt in PKU
 - [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
@@ -1036,7 +1035,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
-- [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书籍整理分享，持续更新...
+- [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
 - [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
@@ -1126,6 +1125,7 @@
 
 ## PHP 
 
+- [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
@@ -1184,6 +1184,7 @@
 
 ## Python 
 
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -1376,7 +1377,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 317 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 319 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1714,7 +1715,7 @@
 
 ## TypeScript 
 
-- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - 中国法律AI助手
+- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
@@ -1854,7 +1855,7 @@
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
@@ -1988,6 +1989,7 @@
 
 ## Vue 
 
+- [hackun666/chat-easy](https://github.com/hackun666/chat-easy) - ChatGPT vue.js demo
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
 - [weekend-project-space/chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension) - chatgpt-chrome-extension
 - [Paul-Gy/SessionShare](https://github.com/Paul-Gy/SessionShare) - Easily share files in multiple times with a single link! Built using Vue.js on Cloudflare Workers, with Durable Objects, R2 and Cloudflare Pages.
