@@ -1206,7 +1206,7 @@
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks
-- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb可以爬取网页，读取pdf，docx，txt并提取正文，然后根据正文内容回答你的问题，也可以总结概要。
+- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [evilpan/gptcli](https://github.com/evilpan/gptcli) - ChatGPT in command line with open api (gpt-3.5/gpt-4)
@@ -1377,7 +1377,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 319 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 320 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1615,7 +1615,7 @@
 - [alist-org/alist-replit](https://github.com/alist-org/alist-replit) - alist on replit
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS_Vision/VLESS+Reality/VLESS+Reality+gRPC/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Hysteria）+伪装站点、八合一共存脚本，支持多内核安装
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
 - [aitlp/docker-v2ray](https://github.com/aitlp/docker-v2ray) - 使用docker-compose以ws+tls方式一键部署v2ray。
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nginxinc/nginx-for-azure-deploy-action](https://github.com/nginxinc/nginx-for-azure-deploy-action) - Github Actions to sync NGINX configs into the NGINX for Azure service.
