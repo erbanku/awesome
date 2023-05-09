@@ -896,6 +896,7 @@
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mermaid 
@@ -1179,7 +1180,6 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [gluons/powershell-git-aliases](https://github.com/gluons/powershell-git-aliases) - :octocat: Oh My Zsh's Git aliases for PowerShell.
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
