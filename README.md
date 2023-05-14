@@ -1241,7 +1241,7 @@
 - [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Download everything from Web Learning of Tsinghua University
+- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Download everything from Web Learning of Tsinghua University.
 - [WhymustIhaveaname/TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) - Tsinghua Tunet auto-connect script. 清华校园网自动连接脚本.
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
@@ -1711,7 +1711,7 @@
 
 - [LittleNewton/Replace_MathType](https://github.com/LittleNewton/Replace_MathType) - 提供一个基于Microsoft Office 365的数学公式替代方案
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
-- [liblaf/ilatex](https://github.com/liblaf/ilatex) - Simple LaTeX Templates
+- [liblaf/ilatex](https://github.com/liblaf/ilatex) - Simple LaTeX Templates.
 - [Didnelpsun/Math](https://github.com/Didnelpsun/Math) - 考研数学，数学一，包括高等数学、线性代数、概率统计
 - [zhengkd95/thu_poster_template](https://github.com/zhengkd95/thu_poster_template) - A LaTeX template for academic posters with Tsinghua University logo
 - [VicaYang/THU-Exam-LaTeX-Template](https://github.com/VicaYang/THU-Exam-LaTeX-Template) - A LaTex Template for THU Examination
