@@ -374,7 +374,7 @@
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
@@ -562,7 +562,7 @@
 
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [evildevill/Article-Summarizer](https://github.com/evildevill/Article-Summarizer) - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，可用于二次分发 key，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -572,7 +572,7 @@
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
-- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持 Stream 流式输出
+- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [fraserxu/fraserxu.dev](https://github.com/fraserxu/fraserxu.dev) - My new personal sites
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -1214,7 +1214,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
 - [Greymattersbot/public-forward-bot](https://github.com/Greymattersbot/public-forward-bot) - 
@@ -1562,7 +1562,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
+- [sekunho/emojied](https://github.com/sekunho/emojied) - ✂️ A URL shortener that uses emojis, only emojis.
 - [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
