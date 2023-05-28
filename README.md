@@ -409,7 +409,7 @@
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
 - [pkuhollow/nameless](https://github.com/pkuhollow/nameless) - 未名树洞 的Golang后端
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [holic/redirect.name](https://github.com/holic/redirect.name) - Simple DNS-based redirection service
@@ -463,6 +463,7 @@
 
 - [mundane799699/Downloads](https://github.com/mundane799699/Downloads) - 一款可以下载抖音无水印视频/图片的安卓app
 - [focustxt/focustxt.github.io](https://github.com/focustxt/focustxt.github.io) - 
+- [wooveep/chatserver-web](https://github.com/wooveep/chatserver-web) - 基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手
 - [ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI 
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -2023,7 +2024,6 @@
 
 ## Vue 
 
-- [wooveep/chatserver-web](https://github.com/wooveep/chatserver-web) - 基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手
 - [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
 - [hackun666/chat-easy](https://github.com/hackun666/chat-easy) - ChatGPT vue.js demo
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
