@@ -482,7 +482,7 @@
 - [233boy/tools](https://github.com/233boy/tools) - 
 - [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布）
+- [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
