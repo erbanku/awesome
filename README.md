@@ -313,6 +313,7 @@
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [nfcim/nfsee](https://github.com/nfcim/nfsee) - Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 
@@ -429,7 +430,7 @@
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
@@ -517,7 +518,7 @@
 - [belaviyo/save-images](https://github.com/belaviyo/save-images) - Save loaded images in nested iframe pages
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-- [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网
+- [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
 - [HuyNguyenAu/notability-to-svg](https://github.com/HuyNguyenAu/notability-to-svg) - A short and simple Python script that converts a Notability note strokes into an SVG wrapped HTML file.
 - [guillaC/JSBatchobfuscator](https://github.com/guillaC/JSBatchobfuscator) - JSBatchobfuscator is a simple obfuscator for batch script
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -1571,7 +1572,6 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端，UWP 与移动平台见 TsinghuaNet
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [sekunho/emojied](https://github.com/sekunho/emojied) - ✂️ A URL shortener that uses emojis, only emojis.
 - [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
