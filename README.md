@@ -1131,7 +1131,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
-- [wantToDoSomeThing/ssSSRV2rayClashTrojan](https://github.com/wantToDoSomeThing/ssSSRV2rayClashTrojan) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -1618,7 +1617,7 @@
 
 - [panyanyany/muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 - [guzhaoyuan/net.tsinghua](https://github.com/guzhaoyuan/net.tsinghua) - Command Line Interface for Tsinghua Network Login
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或V2Ray（v4版）、NaiveProxy、Hysteria等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的Caddy（v2版）程序，分享给大家食用及自己备份。
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以V2Ray（v4版）或Xray、NaiveProxy、Hysteria等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的Caddy（v2版）程序，分享给大家食用及自己备份。
 - [haiwen/seafile-admin-docs](https://github.com/haiwen/seafile-admin-docs) - 
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) - WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
