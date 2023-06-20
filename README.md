@@ -138,7 +138,7 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
-- [Berrysoft/TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) - 清华大学校园网客户端与联网库，适用于 UWP、iOS、Android，其余平台见 tunet-rust
+- [Berrysoft/TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) - 已停止维护，见 tunet-rust 项目。清华大学校园网客户端，适用于 UWP、iOS、Android。
 - [mili-tan/ArashiDNS.Dekunua](https://github.com/mili-tan/ArashiDNS.Dekunua) - The well-known DoH Servers Manager for Windows 11 / 适用于 Windows 11 的内置著名 DoH 服务器管理工具
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
 - [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
