@@ -573,7 +573,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [evildevill/Article-Summarizer](https://github.com/evildevill/Article-Summarizer) - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
 - [eideehi/sd-webui-better-prompt](https://github.com/eideehi/sd-webui-better-prompt) - Stable Diffusion web UI extension that provides a better UI for prompt editing.
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [onury5506/Discord-ChatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord ChatGPT bot
@@ -1212,6 +1212,7 @@
 
 ## Python 
 
+- [malinkang/weread_to_notion](https://github.com/malinkang/weread_to_notion) - 将微信读书划线同步到Notion
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [duaibeom/chemOCR](https://github.com/duaibeom/chemOCR) - DB-based Optical Chemical Structure Recognition
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
