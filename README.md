@@ -1158,6 +1158,7 @@
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [osuuu/LightPicture](https://github.com/osuuu/LightPicture) - 企业/团队/个人图片资源管理系统、图床系统
@@ -1212,6 +1213,7 @@
 
 ## Python 
 
+- [zhaoolee/wxread](https://github.com/zhaoolee/wxread) - 微信读书刷时长
 - [malinkang/weread_to_notion](https://github.com/malinkang/weread_to_notion) - 将微信读书划线同步到Notion
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [duaibeom/chemOCR](https://github.com/duaibeom/chemOCR) - DB-based Optical Chemical Structure Recognition
@@ -1713,7 +1715,6 @@
 
 ## Svelte 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [K-Sato1995/focus-sounds](https://github.com/K-Sato1995/focus-sounds) - Productivity site built with svelte-kit.  You can listen to ambient sounds to help u focus👨‍💻👨‍💻
 - [shajidhasan/rknotes-app](https://github.com/shajidhasan/rknotes-app) - 
 - [shajidhasan/batname](https://github.com/shajidhasan/batname) - Generate texts like "The Batman (2022)" film logo
