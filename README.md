@@ -1500,7 +1500,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Anankke/ASM-Bot](https://github.com/Anankke/ASM-Bot) - 自动删除 Telegram 群组中的服务消息，如加群退群信息等。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account
+- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 4 GiB using your account
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) - A Telegram bot that forwards Tweets
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [dev-jonghoonpark/pdf-password-locker](https://github.com/dev-jonghoonpark/pdf-password-locker) - Utility to password protect a PDF file
@@ -1627,7 +1627,7 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [panyanyany/muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 - [guzhaoyuan/net.tsinghua](https://github.com/guzhaoyuan/net.tsinghua) - Command Line Interface for Tsinghua Network Login
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以V2Ray（v4版）或Xray、NaiveProxy、Hysteria等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的Caddy（v2版）程序，分享给大家食用及自己备份。
