@@ -1272,7 +1272,7 @@
 - [ehulinsky/AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Download everything from Web Learning of Tsinghua University.
+- [liblaf/thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) - Download everything from Web Learning of Tsinghua University
 - [WhymustIhaveaname/TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) - Tsinghua Tunet auto-connect script. 清华校园网自动连接脚本.
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
