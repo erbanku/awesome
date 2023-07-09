@@ -966,7 +966,7 @@
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [ixinzhi/loving-books-part1](https://github.com/ixinzhi/loving-books-part1) - :books: 恋爱指南
 - [dy-sh/one-dark-potplayer-theme](https://github.com/dy-sh/one-dark-potplayer-theme) - Atom One Dark inspired skin for PotPlayer
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.1.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.3.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [vscode-ext-studio/OneDark-Modern](https://github.com/vscode-ext-studio/OneDark-Modern) - 
 - [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) - :hammer:AI 方向好用的科研工具
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
