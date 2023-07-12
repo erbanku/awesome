@@ -643,7 +643,6 @@
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
-- [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
@@ -1730,7 +1729,7 @@
 
 ## Swift 
 
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run CLIP on iPhone to Search Photos.
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [LyricZhao/THU-Bell](https://github.com/LyricZhao/THU-Bell) - THU Bell on macOS
@@ -1878,6 +1877,7 @@
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [wabarc/cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving web page as single HTML file
 - [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode) - massCode assistant for VS Code
@@ -1926,7 +1926,7 @@
 - [harrisoff/onedrive-image-hosting](https://github.com/harrisoff/onedrive-image-hosting) - OneDrive Image Hosting | OneDrive 图床
 - [ms-iot/vscode-ros](https://github.com/ms-iot/vscode-ros) - Visual Studio Code extension for Robot Operating System (ROS) development
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [charleswan/vscode-extensions](https://github.com/charleswan/vscode-extensions) - A collection of delicious Visual Studio Code extensions recipes https://marketplace.visualstudio.com/publishers/CharlesWan
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
