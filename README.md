@@ -640,7 +640,7 @@
 - [tmplink/tmplink_webapp](https://github.com/tmplink/tmplink_webapp) - Made for storage.
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
-- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。
+- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSBud 可以帮助你快速发现和订阅适用于网站或 App 内分享的 RSS 源和 RSSHub 源。已在 App Store 上架。
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
@@ -1173,7 +1173,7 @@
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [SkyEmie/batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator) - Easy way to obfuscuate batch files (Windows)
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
 
