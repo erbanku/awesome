@@ -1626,6 +1626,7 @@
 
 ## Shell 
 
+- [wanhebin/clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [panyanyany/muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 - [guzhaoyuan/net.tsinghua](https://github.com/guzhaoyuan/net.tsinghua) - Command Line Interface for Tsinghua Network Login
