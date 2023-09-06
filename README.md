@@ -341,6 +341,7 @@
 
 ## Go 
 
+- [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [stillOnTheWay/openbilibili-go-common](https://github.com/stillOnTheWay/openbilibili-go-common) - 哔哩哔哩 bilibili 网站后台工程 源码 来自 https://github.com/openbilibili
@@ -931,7 +932,7 @@
 
 ## Others 
 
-- [huaweiii/GaussDB](https://github.com/huaweiii/GaussDB) - 滑伪 GaussDB 数据库 - 完全自主研发，打破国外垄断，比 PostgreSQL 快 600%。
+- [huaweiii/HWGaussDB](https://github.com/huaweiii/HWGaussDB) - 滑伪 GaussDB 数据库 - 完全自主研发，打破国外垄断，比 PostgreSQL 快 600%。
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -1219,7 +1220,6 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [duaibeom/chemOCR](https://github.com/duaibeom/chemOCR) - DB-based Optical Chemical Structure Recognition
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - 
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -1420,7 +1420,7 @@
 - [QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) - ​:rocket: 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 358 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 359 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
@@ -1766,6 +1766,7 @@
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
