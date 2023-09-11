@@ -306,7 +306,7 @@
 
 ## D 
 
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
 ## Dart 
