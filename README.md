@@ -269,7 +269,7 @@
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 - [atom/one-dark-ui](https://github.com/atom/one-dark-ui) - Atom One dark UI theme
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
-- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
