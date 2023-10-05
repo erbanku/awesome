@@ -615,7 +615,6 @@
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [anerg2046/docker-v2ray](https://github.com/anerg2046/docker-v2ray) - V2Ray Caddy+Vmess+ws+tls 一键Docker脚本
 - [SocketDev/wormhole-crypto](https://github.com/SocketDev/wormhole-crypto) - Streaming encryption for Wormhole.app, based on Encrypted Content-Encoding for HTTP (RFC 8188)
-- [thusns/thu-wiki](https://github.com/thusns/thu-wiki) - https://wiki.thusns.org
 - [primer/contribute](https://github.com/primer/contribute) - Contribution guidelines for the Primer Design System
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [SurviveSJTU/SJTU-Application](https://github.com/SurviveSJTU/SJTU-Application) - https://survivesjtu.github.io/SJTU-Application/#/
@@ -1844,6 +1843,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
+- [thusns/thu-wiki](https://github.com/thusns/thu-wiki) - https://wiki.thusns.org
 - [crashmax-dev/twallpaper](https://github.com/crashmax-dev/twallpaper) - 🌈 Multicolor gradient wallpaper created algorithmically and shimmers smoothly.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
