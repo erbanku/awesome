@@ -513,7 +513,7 @@
 - [LuckyHookin/edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
 - [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) - 文章生成器
 - [tmplink/tmpUI](https://github.com/tmplink/tmpUI) - JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.
-- [DhanushNehru/Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources
+- [DhanushNehru/Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
