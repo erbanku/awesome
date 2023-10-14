@@ -275,7 +275,7 @@
 - [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) - 一个轻量级的图床程序
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
-- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images.
 - [sweatran/typora-onedark-theme](https://github.com/sweatran/typora-onedark-theme) - A dark theme for Typora inspired by VScode's One Dark Pro theme.
 - [ljosberinn/github-one-dark-vivid](https://github.com/ljosberinn/github-one-dark-vivid) - [Browser Extension] changes GitHubs code appearance to resemble One Dark Vivid with Fira Code of VS Code as closely as possible, built upon https://github.com/vovanmix/github-dark-theme
 - [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
