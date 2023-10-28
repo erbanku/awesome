@@ -992,7 +992,6 @@
 - [steam3d/MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows) - Add little magic to your Airpods
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) - Binaries for the CodeQL CLI
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
@@ -1086,7 +1085,7 @@
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，兼容 Surge for iOS 和 Surge for Mac 客户端。
-- [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪
+- [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [Sxela/ArcaneGAN](https://github.com/Sxela/ArcaneGAN) - ArcaneGAN
 - [DivineEngine/Profiles](https://github.com/DivineEngine/Profiles) - 🌐Dial-up Internet access
 - [60ss/Npp-1-Dark](https://github.com/60ss/Npp-1-Dark) - One Dark Syntax Theme for Notepad++
@@ -1658,6 +1657,7 @@
 - [Smalls1652/wsl2-rockylinux](https://github.com/Smalls1652/wsl2-rockylinux) - Create an image of RockyLinux for use in Windows Subsystem for Linux.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
 - [chevereto/vps](https://github.com/chevereto/vps) - Collection of universal bash scripts to install Chevereto in any VPS
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
