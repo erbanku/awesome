@@ -1217,7 +1217,7 @@
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [zhaoolee/wxread](https://github.com/zhaoolee/wxread) - 微信读书刷时长
-- [malinkang/weread_to_notion](https://github.com/malinkang/weread_to_notion) - 将微信读书划线同步到Notion
+- [malinkang/weread2notion](https://github.com/malinkang/weread2notion) - 将微信读书划线同步到Notion
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [duaibeom/chemOCR](https://github.com/duaibeom/chemOCR) - DB-based Optical Chemical Structure Recognition
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
