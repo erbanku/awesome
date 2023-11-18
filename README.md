@@ -1721,7 +1721,7 @@
 - [shajidhasan/batname](https://github.com/shajidhasan/batname) - Generate texts like "The Batman (2022)" film logo
 - [shajidhasan/cowsay-svelte](https://github.com/shajidhasan/cowsay-svelte) - A cowsay GUI built with Svelte, TailwindCSS and HTML Canvas
 - [pabueco/hue.tools](https://github.com/pabueco/hue.tools) - Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.
-- [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - cloud-synced multi-user bookmark app on serverless platform, easy and customizable for everyone
+- [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - Liightweight multi-user cloud bookmark app running on serverless platform, made for speed and easy-to-use
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
 ## Swift 
