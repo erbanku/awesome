@@ -948,7 +948,7 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [erbanku/erbanku](https://github.com/erbanku/erbanku) - 
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
-- [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持warp在线监测守护、endpoint对端优选IP等功能，replit平台无限生成warp+密钥与warp配置文件
+- [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持在线实时查看VPS运营商、本地IP、netflix、chatgpt是否解锁等情况、endpoint对端优选IP等功能，replit平台无限生成warp+密钥与warp配置文件
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
