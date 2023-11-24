@@ -22,6 +22,7 @@
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Elm](#elm)
+- [Erlang](#erlang)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HCL](#hcl)
@@ -323,7 +324,6 @@
 
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
 ## EJS 
@@ -333,6 +333,10 @@
 ## Elm 
 
 - [hilverd/glossary-page-template](https://github.com/hilverd/glossary-page-template) - A single HTML page with a built-in editor for creating a glossary that can be hosted anywhere.
+
+## Erlang 
+
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
 
 ## GDScript 
 
@@ -1658,6 +1662,7 @@
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
 - [chevereto/vps](https://github.com/chevereto/vps) - Collection of universal bash scripts to install Chevereto in any VPS
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [lanbugs/gitea_installer](https://github.com/lanbugs/gitea_installer) - Install script for GITEA
 - [alist-org/alist-replit](https://github.com/alist-org/alist-replit) - alist on replit
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -1758,6 +1763,7 @@
 
 ## TypeScript 
 
+- [wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev) - 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Confluence/WordPress等)
@@ -1781,7 +1787,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 - [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - The content of my profile, blog, and homepage (https://www.nooc.ink) .
@@ -1877,7 +1883,7 @@
 - [GitbookIO/proxies-on-cloudflare](https://github.com/GitbookIO/proxies-on-cloudflare) - Proxies in Cloudflare Workers
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - [STATUS: UNMAINTAINED] 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
