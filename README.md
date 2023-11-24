@@ -249,7 +249,6 @@
 - [h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme) - This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.
 - [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokDownload 网页版
 - [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) - A beautiful minimalism theme for Obsidian.
 - [BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron) - SSPanel-Metron主题，目前由@Bobs9维护开发中。
@@ -483,6 +482,7 @@
 - [niturobert/gmailkit](https://github.com/niturobert/gmailkit) - A reddit client if reddit was made by the gmail team.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [52ludama/linode_panel](https://github.com/52ludama/linode_panel) - 一个简单的linode api 开机面板
 - [praveenjuge/copybook](https://github.com/praveenjuge/copybook) - Copy book is a collection of texts that are commonly used around the web.
