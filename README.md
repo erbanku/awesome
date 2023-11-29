@@ -1737,7 +1737,7 @@
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [LyricZhao/THU-Bell](https://github.com/LyricZhao/THU-Bell) - THU Bell on macOS
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
