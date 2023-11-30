@@ -1766,7 +1766,7 @@
 - [wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev) - 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
-- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Confluence/WordPress等)
+- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [memgraph/odin](https://github.com/memgraph/odin) - 
 - [Harry-Chen/thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) - A JavaScript library to provide a program-friendly interface to Web Learning of Tsinghua University
 - [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测、防沉迷等功能，这下自主创新了！
