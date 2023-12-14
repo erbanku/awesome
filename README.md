@@ -1001,7 +1001,6 @@
 - [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis) - 清华大学学位论文Word模板。A Word thesis template for Tsinghua University.
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [jiegec/dcst-facts](https://github.com/jiegec/dcst-facts) - Facts of DCST of Tsinghua University
-- [gridaco/x](https://github.com/gridaco/x) - We will be ready soon
 - [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
 - [mangecoeur/AcademicMarkdown](https://github.com/mangecoeur/AcademicMarkdown) - Extensions to MarkdownEditing for writing academic papers
 - [linuxkerneltravel/linux_kernel_wiki](https://github.com/linuxkerneltravel/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
@@ -1901,6 +1900,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+- [gridaco/grida](https://github.com/gridaco/grida) - 🎥 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
