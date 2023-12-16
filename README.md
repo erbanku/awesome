@@ -204,7 +204,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [diegomacario/Animation-Magic](https://github.com/diegomacario/Animation-Magic) - A cool visualization of all the math that powers 3D character animations.
-- [ros-drivers/usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L USB Cameras
+- [ros-drivers/usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [lzh12139/cpp-big-homework](https://github.com/lzh12139/cpp-big-homework) - c++大作业
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -871,6 +871,7 @@
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [Harvard-IACS/2019-CS109A](https://github.com/Harvard-IACS/2019-CS109A) - https://harvard-iacs.github.io/2019-CS109A/
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [hgorr/matlab-with-python](https://github.com/hgorr/matlab-with-python) - Examples using MATLAB and Python together
 - [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization
@@ -1364,7 +1365,6 @@
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
-- [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [Dragon-Born/warpy](https://github.com/Dragon-Born/warpy) - A command-line program to get WARP+ as WireGuard written in python
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
