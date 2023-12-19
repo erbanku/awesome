@@ -1792,7 +1792,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - The content of my profile, blog, and homepage (https://www.nooc.ink) .
+- [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - The content of my profile, blog, and homepage (https://www.nooc.me) .
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
 - [riwigefi/light-gpt](https://github.com/riwigefi/light-gpt) - Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
