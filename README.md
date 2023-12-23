@@ -474,6 +474,7 @@
 
 ## HTML 
 
+- [GitHubyangjunyi/XMind](https://github.com/GitHubyangjunyi/XMind) - 计算机科学与技术知识图谱
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [mundane799699/Downloads](https://github.com/mundane799699/Downloads) - 一款可以下载抖音无水印视频/图片的安卓app
 - [focustxt/focustxt.github.io](https://github.com/focustxt/focustxt.github.io) - 
@@ -1800,7 +1801,7 @@
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [rerender2021/heard](https://github.com/rerender2021/heard) - A simple subtitle generator powered by whisper & avernakis react.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [hyoban/burogu](https://github.com/hyoban/burogu) - A minimal blog template based on Next.js 13
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
