@@ -948,7 +948,7 @@
 - [Wsky51/THU-CS912-kaoyan](https://github.com/Wsky51/THU-CS912-kaoyan) - 清华大学计算机类912考研的历年真题，清华本科生试卷以及清华相关课程ppt
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
-- [THU-feiyue/THU-feiyue](https://github.com/THU-feiyue/THU-feiyue) - 清华大学飞跃手册
+- [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
 - [huaweiii/HWGaussDB](https://github.com/huaweiii/HWGaussDB) - 滑伪 GaussDB 数据库 - 完全自主研发，打破国外垄断，比 PostgreSQL 快 600%。
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
