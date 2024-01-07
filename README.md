@@ -354,7 +354,6 @@
 - [changwh/go-common](https://github.com/changwh/go-common) - 
 - [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [xnth97/magic-conch](https://github.com/xnth97/magic-conch) - A Telegram bot powered by Azure Cognitive Services
@@ -524,7 +523,7 @@
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
 - [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
@@ -580,13 +579,13 @@
 
 ## JavaScript 
 
-- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具
 - [tans/voicegpt](https://github.com/tans/voicegpt) - voice talk with gpt
 - [LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon) - Open source application for creating free invoices and receipts
 - [scomper/cf-openai-azure-proxy](https://github.com/scomper/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [evildevill/Article-Summarizer](https://github.com/evildevill/Article-Summarizer) - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
 - [eideehi/sd-webui-better-prompt](https://github.com/eideehi/sd-webui-better-prompt) - Stable Diffusion web UI extension that provides a better UI for prompt editing.
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1226,6 +1225,7 @@
 
 - [ASKCOS/ASKCOS](https://github.com/ASKCOS/ASKCOS) - Software package for computer aided synthesis planning
 - [CaoYunzhou/cocopilot-gpt](https://github.com/CaoYunzhou/cocopilot-gpt) - cocopilot-gpt
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a smooth AI experience.
@@ -1441,7 +1441,7 @@
 - [QIN2DIM/V2RSS](https://github.com/QIN2DIM/V2RSS) - ​:rocket: 采集|免费|优质|的-订?阅&lt;；
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 400 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 399 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
