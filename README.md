@@ -1797,7 +1797,7 @@
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 - [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 - [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 - [erictik/midjourney-ui](https://github.com/erictik/midjourney-ui) - Midjourney UI is an open source AI painting UI based on Midjourney
@@ -1849,7 +1849,7 @@
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [ghedamat/obsidian-save-as-gist](https://github.com/ghedamat/obsidian-save-as-gist) - 
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) - CLI tool to perform cost analysis on your AWS account with Slack integration
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
 - [forecho/cherries](https://github.com/forecho/cherries) - 
 - [thu-info-community/thu-info-lib](https://github.com/thu-info-community/thu-info-lib) - The JavaScript library that provides a program-friendly interface to Tsinghua web portal
