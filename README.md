@@ -568,7 +568,7 @@
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [google/private-compute-services](https://github.com/google/private-compute-services) - 
 - [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube，重构优化中......
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -1091,7 +1091,7 @@
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) - Easy-to-use APK installer and more for Windows Subsystem for Android
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [methylcloud/learn-gcp](https://github.com/methylcloud/learn-gcp) - Study resources to learn Google Cloud Platform (GCP)
