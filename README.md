@@ -822,6 +822,7 @@
 - [richardkrikler/Notability-Viewer](https://github.com/richardkrikler/Notability-Viewer) - Notability Note Viewer for the Backup PDFs inside of a file system (e.g. with OneDrive integration in Windows).
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
+- [littlegolden/syntax-highlight-word](https://github.com/littlegolden/syntax-highlight-word) - A revived project of Syntax Highlight Code for planetB.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [lekoOwO/short-link-bot](https://github.com/lekoOwO/short-link-bot) - A telegram short link bot hosting onCloudflare Workers powered by short.io
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
@@ -1577,6 +1578,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
