@@ -956,7 +956,7 @@
 - [maxujie/awesome-tsinghua](https://github.com/maxujie/awesome-tsinghua) - 与清华大学 (Tsinghua University) 相关的有趣 repo 整合
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [Wsky51/THU-CS912-kaoyan](https://github.com/Wsky51/THU-CS912-kaoyan) - 清华大学计算机类912考研的历年真题，清华本科生试卷以及清华相关课程ppt
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
