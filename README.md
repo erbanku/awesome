@@ -128,7 +128,6 @@
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -233,6 +232,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource) - C++ 匠心之作 从0到1入门资料
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
@@ -1812,7 +1813,7 @@
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 - [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 - [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 - [erictik/midjourney-ui](https://github.com/erictik/midjourney-ui) - Midjourney UI is an open source AI painting UI based on Midjourney
