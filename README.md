@@ -1459,7 +1459,7 @@
 - [QIN2DIM/V2RSS](https://github.com/QIN2DIM/V2RSS) - ​:rocket: 采集|免费|优质|的-订?阅&lt;；
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 405 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 406 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1672,7 +1672,7 @@
 - [panyanyany/muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 - [guzhaoyuan/net.tsinghua](https://github.com/guzhaoyuan/net.tsinghua) - Command Line Interface for Tsinghua Network Login
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（V2 版）、TUIC 或 Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（V2 版）、TUIC 或 Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
 - [haiwen/seafile-admin-docs](https://github.com/haiwen/seafile-admin-docs) - 
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [colinwjd/aria2-ariang](https://github.com/colinwjd/aria2-ariang) - Aria2 with Aira-Ng web UI
