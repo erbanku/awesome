@@ -349,7 +349,7 @@
 ## Go 
 
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
@@ -1875,7 +1875,7 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
 - [dtysky/Awaken](https://github.com/dtysky/Awaken) - 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
@@ -1922,7 +1922,7 @@
 - [GitbookIO/proxies-on-cloudflare](https://github.com/GitbookIO/proxies-on-cloudflare) - Proxies in Cloudflare Workers
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - [STATUS: UNMAINTAINED] 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
