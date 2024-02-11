@@ -193,7 +193,7 @@
 
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [sainnhe/caj2pdf-qt](https://github.com/sainnhe/caj2pdf-qt) - CAJ 转 PDF 转换器（GUI 版本）
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
@@ -1063,7 +1063,6 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Infatuation-Fei/rule](https://github.com/Infatuation-Fei/rule) - 自用规则
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [Serendipity-Theme/windows-terminal](https://github.com/Serendipity-Theme/windows-terminal) - Serendipity theme ported to windows terminal.
 - [Serendipity-Theme/vs-code](https://github.com/Serendipity-Theme/vs-code) - Relaxed, gentle and modern.
 - [Serendipity-Theme/template-for-repositories](https://github.com/Serendipity-Theme/template-for-repositories) - template for ported themes
@@ -1978,6 +1977,7 @@
 - [harrisoff/onedrive-image-hosting](https://github.com/harrisoff/onedrive-image-hosting) - OneDrive Image Hosting | OneDrive 图床
 - [ms-iot/vscode-ros](https://github.com/ms-iot/vscode-ros) - Visual Studio Code extension for Robot Operating System (ROS) development
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [charleswan/vscode-extensions](https://github.com/charleswan/vscode-extensions) - A collection of delicious Visual Studio Code extensions recipes https://marketplace.visualstudio.com/publishers/CharlesWan
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
