@@ -586,10 +586,11 @@
 
 ## JavaScript 
 
+- [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
 - [liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts) - I know what your pet is thinking - gemini
-- [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html) App, Support for macOS and Windows.
+- [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html) App, it can convert different format pictures, support for macOS and Windows.
 - [tans/voicegpt](https://github.com/tans/voicegpt) - voice talk with gpt
 - [LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon) - Open source application for creating free invoices and receipts
 - [scomper/cf-openai-azure-proxy](https://github.com/scomper/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
@@ -1798,6 +1799,7 @@
 
 ## TypeScript 
 
+- [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - telegram bot（图片老妈）
 - [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 - [chaselen/v2ex-playground](https://github.com/chaselen/v2ex-playground) - VSCode 上逛 V2EX 网站的插件
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
