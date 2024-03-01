@@ -129,7 +129,6 @@
 - [apache/httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
-- [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core) - Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
@@ -776,7 +775,7 @@
 - [pureink/inkrss](https://github.com/pureink/inkrss) - Notify when rss feeds are updated | RSS 更新通知
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录。请勿将本项目用于非法用途，否则后果自负。
+- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录。
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
@@ -1194,7 +1193,7 @@
 - [osuuu/LightPicture](https://github.com/osuuu/LightPicture) - 企业/团队/个人图片资源管理系统、图床系统
 - [IO-Technologies/bashupload](https://github.com/IO-Technologies/bashupload) - Opensource for bashupload.com - PHP based files uploader for CLI, servers, desktops and mobiles
 - [renbaoshuo/Shortlink](https://github.com/renbaoshuo/Shortlink) - 短链接生成网站源码
-- [chenxuuu/shit-url](https://github.com/chenxuuu/shit-url) - 屑链生成，网站源码
+- [chenxuuu/shit-url](https://github.com/chenxuuu/shit-url) - 屑链生成，最屑的短链接生成站
 - [bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL) - 清华大学计算机学科推荐学术会议和期刊列表
 - [youranreus/Subscription-Manager](https://github.com/youranreus/Subscription-Manager) - 订阅管理
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
