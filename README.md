@@ -587,6 +587,7 @@
 
 ## JavaScript 
 
+- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
@@ -665,7 +666,6 @@
 - [tmplink/tmplink_webapp](https://github.com/tmplink/tmplink_webapp) - Made for storage.
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
-- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
@@ -1236,6 +1236,7 @@
 
 ## Python 
 
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [euxcet/thulearn2018](https://github.com/euxcet/thulearn2018) - Tools for Web Learning of Tsinghua University.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1290,7 +1291,7 @@
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
-- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
+- [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [evilpan/gptcli](https://github.com/evilpan/gptcli) - ChatGPT in command line with OpenAI API (gpt-3.5-turbo/gpt-4/gpt-4-32k)
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
@@ -1772,6 +1773,7 @@
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [LyricZhao/THU-Bell](https://github.com/LyricZhao/THU-Bell) - THU Bell on macOS
+- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
