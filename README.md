@@ -353,7 +353,7 @@
 ## Go 
 
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
-- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
+- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
@@ -779,7 +779,7 @@
 - [pureink/inkrss](https://github.com/pureink/inkrss) - Notify when rss feeds are updated | RSS 更新通知
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理登录)。
+- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
@@ -876,7 +876,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [JinChengZ18/Learning-Materials-of-SMSE](https://github.com/JinChengZ18/Learning-Materials-of-SMSE) - 清华大学材料学院本科学习资料 - PPT、图书、作业、实验报告等
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -1468,7 +1468,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 416 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 417 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1612,10 +1612,8 @@
 - [dracarys18/TweetBot](https://github.com/dracarys18/TweetBot) - A simple Telegram Bot to Stream the tweets from any twitter accounts to Telegram Channel
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [ClassmateLin/douyin-downloader](https://github.com/ClassmateLin/douyin-downloader) - Cross-platform douyin video downloader built with tauri. 跨平台抖音视频下载器, 使用tauri构建。
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [ClassmateLin/cfdns](https://github.com/ClassmateLin/cfdns) - A local DNS server, used to test Cloudflare CDN latency and speed, get the fastest IP (IPv4).一个本地DNS服务器, 用于测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 )。支持docker一键部署。
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [rust-net/dnsd](https://github.com/rust-net/dnsd) - DNS 代理服务器
@@ -1807,6 +1805,7 @@
 
 ## TypeScript 
 
+- [yesmore/vmail](https://github.com/yesmore/vmail) - Virtual temporary Email Generator. 👉 vmail.dev
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [mk965/mengke.me](https://github.com/mk965/mengke.me) - My 🏠 on the ☁️. Portfolio, showcases, snippets, and development logs
 - [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - telegram bot（图片老妈）
@@ -1940,7 +1939,7 @@
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
+- [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a framework agnostic mind map core.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [wabarc/cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving web page as single HTML file
 - [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode) - massCode assistant for VS Code
