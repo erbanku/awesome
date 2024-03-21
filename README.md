@@ -962,6 +962,7 @@
 
 ## Others 
 
+- [tuna/issues](https://github.com/tuna/issues) - Code Unrelated Issues
 - [francis-zhao/secure-dns](https://github.com/francis-zhao/secure-dns) - 适用于苹果设备的安全 DNS 配置描述文件。DNS over HTTPS (DoH) & DNS over TLS (DoT) config profiles for iOS, iPadOS & macOS.
 - [TsinghuaMemes/TsinghuaMemes](https://github.com/TsinghuaMemes/TsinghuaMemes) - 以免在群聊吹水时读不懂群友在说什么
 - [maxujie/awesome-tsinghua](https://github.com/maxujie/awesome-tsinghua) - 与清华大学 (Tsinghua University) 相关的有趣 repo 整合
@@ -1806,7 +1807,8 @@
 
 ## TypeScript 
 
-- [yesmore/vmail](https://github.com/yesmore/vmail) - Virtual temporary email generator. 👉 vmail.dev
+- [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在Cloudflare Worker上的在线剪贴板/文件共享
+- [yesmore/vmail](https://github.com/yesmore/vmail) - Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [mk965/mengke.me](https://github.com/mk965/mengke.me) - My 🏠 on the ☁️. Portfolio, showcases, snippets, and development logs
 - [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - telegram bot（图片老妈）
@@ -1906,7 +1908,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [jackluson/vscode-pomodoro-clock](https://github.com/jackluson/vscode-pomodoro-clock) - Pomodoro clock for VS Code
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
