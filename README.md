@@ -1030,7 +1030,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis) - 清华大学学位论文Word模板。A Word thesis template for Tsinghua University.
+- [fatalerror-i/ThuWordThesis](https://github.com/fatalerror-i/ThuWordThesis) - 清华大学学位论文Word模板。A Word thesis template for Tsinghua University.
 - [pb0316/thuhole_memories](https://github.com/pb0316/thuhole_memories) - 
 - [jiegec/dcst-facts](https://github.com/jiegec/dcst-facts) - Facts of DCST of Tsinghua University
 - [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
