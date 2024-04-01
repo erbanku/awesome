@@ -478,7 +478,7 @@
 ## HCL 
 
 - [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
 ## HTML 
 
