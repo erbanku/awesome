@@ -485,7 +485,7 @@
 
 - [summivox/thucal2](https://github.com/summivox/thucal2) - Tsinghua University curriculum -&gt; iCalendar format (.ics) -&gt; Google Calendar, etc.
 - [GitHubyangjunyi/XMind](https://github.com/GitHubyangjunyi/XMind) - 计算机科学与技术知识图谱
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [focustxt/focustxt.github.io](https://github.com/focustxt/focustxt.github.io) - 
 - [wooveep/chatserver-web](https://github.com/wooveep/chatserver-web) - 基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手
