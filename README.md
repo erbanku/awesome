@@ -1253,7 +1253,6 @@
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [MuggleWei/bdchecker](https://github.com/MuggleWei/bdchecker) - backup data checker
 - [ASKCOS/ASKCOS](https://github.com/ASKCOS/ASKCOS) - Software package for computer aided synthesis planning
-- [CaoYunzhou/cocopilot-gpt](https://github.com/CaoYunzhou/cocopilot-gpt) - cocopilot-gpt
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
@@ -1919,7 +1918,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
 - [egoist/follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
 - [buhe/vscode-mail](https://github.com/buhe/vscode-mail) - A Mail client embedded in Visual Studio Code.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
@@ -1953,7 +1952,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [gridaco/grida](https://github.com/gridaco/grida) - 🎨 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
+- [gridaco/grida](https://github.com/gridaco/grida) - Free and Open Canvas for Humans and Machines
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
