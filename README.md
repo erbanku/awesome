@@ -98,6 +98,7 @@
 
 ## C 
 
+- [stefansundin/superf4](https://github.com/stefansundin/superf4) - :file_folder: Kill programs instantly with Ctrl+Alt+F4. (Windows)
 - [Yutaka-Sawada/MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Parchive tool
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
