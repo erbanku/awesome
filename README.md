@@ -332,7 +332,6 @@
 
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
 ## EJS 
@@ -527,7 +526,7 @@
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
-- [SSPanel-UIM/Wiki](https://github.com/SSPanel-UIM/Wiki) - 
+- [SSPanel-NeXT/Docs](https://github.com/SSPanel-NeXT/Docs) - 
 - [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker) - 一键v2ray ws + tls 方便就完事了
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
 - [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
@@ -1708,6 +1707,7 @@
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
 - [chevereto/vps](https://github.com/chevereto/vps) - Collection of universal bash scripts to install Chevereto in any VPS
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [lanbugs/gitea_installer](https://github.com/lanbugs/gitea_installer) - Install script for GITEA
 - [alist-org/alist-replit](https://github.com/alist-org/alist-replit) - alist on replit
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
