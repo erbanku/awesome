@@ -593,6 +593,8 @@
 
 ## JavaScript 
 
+- [copilot-is/myip](https://github.com/copilot-is/myip) - My IP and Network Information
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [A1phaN/tsinghua-ereserves-lib-downloader](https://github.com/A1phaN/tsinghua-ereserves-lib-downloader) - Download PDF from Tsinghua University Electronic Course Reserves Service Platform
 - [dockkkk/CF-WORKERS](https://github.com/dockkkk/CF-WORKERS) - 
 - [Repcz/Tool](https://github.com/Repcz/Tool) - Ownuse for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
