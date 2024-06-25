@@ -1703,6 +1703,7 @@
 
 ## Shell 
 
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [i-abc/Speedtest](https://github.com/i-abc/Speedtest) - 多功能测速脚本 | Multi-functional speedtest script
 - [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 - [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
