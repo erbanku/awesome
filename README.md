@@ -103,7 +103,6 @@
 - [stefansundin/superf4](https://github.com/stefansundin/superf4) - :file_folder: Kill programs instantly with Ctrl+Alt+F4. (Windows)
 - [Yutaka-Sawada/MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Parchive tool
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Excitablecell/GEARdrones](https://github.com/Excitablecell/GEARdrones) - GEARdrones is a lightweight drone control and multiagent localizaion system that combines flight controller, UWB relative localization algorithm, and software monitor.
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -198,6 +197,7 @@
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [wherewhere/Windows-Loopback-Exemption-Manager](https://github.com/wherewhere/Windows-Loopback-Exemption-Manager) - GUI to enable Loopback Exemptions for Universal Windows Apps and Windows 8, 8.1, 10 Modern UI Apps.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [KTStephano/StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
