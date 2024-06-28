@@ -1632,7 +1632,7 @@
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [EAimTY/socks5-server](https://github.com/EAimTY/socks5-server) - Fine-grained, relatively low-level asynchronized SOCKS5 server library based on tokio
 - [sigoden/opscan](https://github.com/sigoden/opscan) - A open port scanner.
@@ -2044,7 +2044,7 @@
 - [CryogenicPlanet/cryogenicplanet.github.io](https://github.com/CryogenicPlanet/cryogenicplanet.github.io) - Personal Space on the web
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [mallowigi/iconGenerator](https://github.com/mallowigi/iconGenerator) - Icon Collection used within the Atom Material Icons plugins (for JetBrains, Chrome and Firefox)
+- [AtomMaterialUI/iconGenerator](https://github.com/AtomMaterialUI/iconGenerator) - Icon Collection used within the Atom Material Icons plugins (for JetBrains, Chrome and Firefox)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 - [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [HAG87/vscode-maxscript-lsp](https://github.com/HAG87/vscode-maxscript-lsp) - MaxScript language for VS Code (Language Server implementation)
