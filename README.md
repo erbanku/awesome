@@ -776,7 +776,7 @@
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [suxiaogang/WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) - 新浪微博图床 Chrome扩展
-- [SSPanel-NeXT/Docs](https://github.com/SSPanel-NeXT/Docs) - 
+- [The-NeXT-Project/Docs](https://github.com/The-NeXT-Project/Docs) - 
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use al
 - [szenius/set-timezone](https://github.com/szenius/set-timezone) - GitHub action to set timezone in your locale, works with Linux, Windows, MacOS
