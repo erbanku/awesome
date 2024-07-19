@@ -264,6 +264,7 @@
 - [h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme) - This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.
 - [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokTool 网页版
 - [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) - A beautiful minimalism theme for Obsidian.
 - [BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron) - SSPanel-Metron主题，目前由@Bobs9维护开发中。
@@ -512,7 +513,6 @@
 - [niturobert/gmailkit](https://github.com/niturobert/gmailkit) - A reddit client if reddit was made by the gmail team.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [52ludama/linode_panel](https://github.com/52ludama/linode_panel) - 一个简单的linode api 开机面板
 - [praveenjuge/copybook](https://github.com/praveenjuge/copybook) - Copy book is a collection of texts that are commonly used around the web.
@@ -604,6 +604,7 @@
 
 ## JavaScript 
 
+- [joye61/pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [copilot-is/myip](https://github.com/copilot-is/myip) - My IP and Network Information
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [A1phaN/tsinghua-ereserves-lib-downloader](https://github.com/A1phaN/tsinghua-ereserves-lib-downloader) - Download PDF from Tsinghua University Electronic Course Reserves Service Platform
@@ -1499,7 +1500,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 446 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 447 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1866,7 +1867,7 @@
 - [memgraph/odin](https://github.com/memgraph/odin) - 
 - [Harry-Chen/thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) - A JavaScript library to provide a program-friendly interface to Web Learning of Tsinghua University
 - [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测、防沉迷等功能。
-- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM, Qwen 与 Llama 等）基于 Langchain 与 ChatGLM 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and 
+- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
