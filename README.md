@@ -706,7 +706,7 @@
 - [ZxfBugProgrammer/Electron-SIMGUI](https://github.com/ZxfBugProgrammer/Electron-SIMGUI) - 本项目是基于Electron和element UI开发的一款代码查重软件，其内核使用了SIM（SIM是Dick Grune开发的一款代码查重软件）
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个功能完善的Linux服务器SSH终端面板(webSSH&webSFTP)
+- [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH&webSFTP)
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [Zenquan/learnCode](https://github.com/Zenquan/learnCode) - 方便学习的代码仓库
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
