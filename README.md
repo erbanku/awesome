@@ -1280,6 +1280,7 @@
 
 ## Python 
 
+- [zhuozhiyongde/PKU-Auto-Reservation](https://github.com/zhuozhiyongde/PKU-Auto-Reservation) - 华清大学自动预约入校
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - A program for automating the post-processing of photographs in general photo studios. | 一套适用于自动化完成一般照相馆后期流程的照片自动处理的程序。
 - [chen08209/Clash.Meta](https://github.com/chen08209/Clash.Meta) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
