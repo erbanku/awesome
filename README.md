@@ -1136,7 +1136,7 @@
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
 - [czs108/Cpp-Primer-5th-Notes-CN](https://github.com/czs108/Cpp-Primer-5th-Notes-CN) - 📚 《C++ Primer中文版（第5版）》笔记
