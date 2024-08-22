@@ -667,7 +667,6 @@
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [drew-royster/canvasFileSync](https://github.com/drew-royster/canvasFileSync) - Syncs Canvas course files to your local computer
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [goooooouwa/goplan-web](https://github.com/goooooouwa/goplan-web) - GoPlan Web client
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -1280,7 +1279,7 @@
 
 ## Python 
 
-- [zhuozhiyongde/PKU-Auto-Reservation](https://github.com/zhuozhiyongde/PKU-Auto-Reservation) - 华清大学自动预约入校
+- [zhuozhiyongde/PKU-Auto-Reservation](https://github.com/zhuozhiyongde/PKU-Auto-Reservation) - 北京大学自动预约入校
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - A program for automating the post-processing of photographs in general photo studios. | 一套适用于自动化完成一般照相馆后期流程的照片自动处理的程序。
 - [chen08209/Clash.Meta](https://github.com/chen08209/Clash.Meta) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
@@ -1507,7 +1506,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 458 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 460 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1754,7 +1753,6 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-- [yomige/docker-v2ray](https://github.com/yomige/docker-v2ray) - 使用docker-compose以ws+tls方式一键部署v2ray。
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [eRaid6/gitea-install](https://github.com/eRaid6/gitea-install) - Install and Upgrade Gitea on CentOS 7/RHEL7 and Fedora 30
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
@@ -2191,6 +2189,7 @@
 - [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 简单好用的在线文本工具；支持将 Markdown、rich text、word 等格式内容，快速转化为 png、pdf、html 等文件，并支持一键下载、自定义设置等功能。
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 - [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [lpssss/THUeat--Frontend](https://github.com/lpssss/THUeat--Frontend) - 清华大学食堂App
