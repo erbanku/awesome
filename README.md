@@ -633,7 +633,6 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
 - [fraserxu/fraserxu.dev](https://github.com/fraserxu/fraserxu.dev) - My new personal sites
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
 - [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
@@ -712,7 +711,6 @@
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [MuggleWei/learning_compass](https://github.com/MuggleWei/learning_compass) - 各种学科自学指南 https://mugglewei.github.io/learning_compass/
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
@@ -1024,7 +1022,7 @@
 - [erbanku/erbanku](https://github.com/erbanku/erbanku) - 
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
+- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
 - [tldraw/tldraw-beta](https://github.com/tldraw/tldraw-beta) - A place to file issues for tldraw's beta version.
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) - 
@@ -1633,7 +1631,7 @@
 ## Rust 
 
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1846,6 +1844,7 @@
 
 ## TypeScript 
 
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [kyswtn/vscode-vercel](https://github.com/kyswtn/vscode-vercel) - Keep an eye on Vercel deployments while you code
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
@@ -2015,6 +2014,7 @@
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [Cherry/ShareX-R2-Cloudflare-Workers](https://github.com/Cherry/ShareX-R2-Cloudflare-Workers) - Custom ShareX Uploader to Cloudflare R2 via Workers
 - [mullvad/browser-extension](https://github.com/mullvad/browser-extension) - Mullvad Browser Extension improves your browsing experience while using Mullvad VPN.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [lcomplete/smart-toc](https://github.com/lcomplete/smart-toc) - A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。
