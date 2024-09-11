@@ -1502,7 +1502,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 469 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 470 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1782,7 +1782,7 @@
 - [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
-- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
+- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 - [wyx176/Socks5](https://github.com/wyx176/Socks5) - Socks5代理服务器搭建脚本/Socks5 shortcut creation script
 - [JACKUSR2089/v2ray-subscribed](https://github.com/JACKUSR2089/v2ray-subscribed) - v2ray666
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
