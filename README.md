@@ -258,7 +258,7 @@
 
 ## CSS 
 
-- [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
+- [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
 - [OrangeX4/cheatsheets](https://github.com/OrangeX4/cheatsheets) - OrangeX4's cheatsheets website.
