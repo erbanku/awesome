@@ -832,7 +832,6 @@
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [naamhaiabdullah/compressioweb](https://github.com/naamhaiabdullah/compressioweb) - CompressioWeb is a Open Source Production Grade Image Compression API and Web Application. It compresses JPG, PNG, GIF & SVG images in both Lossy and Lossless formats.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
@@ -1449,7 +1448,6 @@
 - [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
 - [No-OnE-Kn0wS-Me/FileRenameBot](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot) - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video!!
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
-- [QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining) - 🥤 Collect, clean, classify, and store exposed SSPanel-Uim sites on the Internet.
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -1499,7 +1497,6 @@
 - [Opticos/OpenInWSL-Source](https://github.com/Opticos/OpenInWSL-Source) - The actual code for OpenInWSL. And some prebuilt releases.
 - [Opticos/GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [QIN2DIM/V2RSS](https://github.com/QIN2DIM/V2RSS) - ​:rocket: 采集|免费|优质|的-订?阅&lt;；
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
@@ -1739,7 +1736,7 @@
 - [rocky-linux/rocky-tools](https://github.com/rocky-linux/rocky-tools) - 
 - [Smalls1652/wsl2-rockylinux](https://github.com/Smalls1652/wsl2-rockylinux) - Create an image of RockyLinux for use in Windows Subsystem for Linux.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
-- [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
+- [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [uvulpos/gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple bash installer for gitea! please check if you are using the latest Gitea download link before executing the script
 - [chevereto/vps](https://github.com/chevereto/vps) - Collection of universal bash scripts to install Chevereto in any VPS
@@ -1818,7 +1815,7 @@
 - [LyricZhao/THU-Bell](https://github.com/LyricZhao/THU-Bell) - THU Bell on macOS
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
@@ -1898,7 +1895,7 @@
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [rerender2021/heard](https://github.com/rerender2021/heard) - A simple subtitle generator powered by whisper & avernakis react.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
-- [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
+- [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private chatgpt website via vercel
 - [hyoban/burogu](https://github.com/hyoban/burogu) - A minimal blog template based on Next.js 13
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -2122,6 +2119,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [rid9/DateTime](https://github.com/rid9/DateTime) - Date and time status bar information for Visual Studio Code.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [microsoft/vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) - Sublime Text Keymap extension for VS Code
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
