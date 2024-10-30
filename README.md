@@ -1865,11 +1865,11 @@
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [memgraph/odin](https://github.com/memgraph/odin) - 
 - [Harry-Chen/thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) - A JavaScript library to provide a program-friendly interface to Web Learning of Tsinghua University
-- [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个VSC插件
+- [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个没什么用的VSC插件
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
-- [Licoy/ChatGPTs](https://github.com/Licoy/ChatGPTs) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
+- [Licoy/ChatAny](https://github.com/Licoy/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
