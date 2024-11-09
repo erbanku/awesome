@@ -1400,7 +1400,7 @@
 - [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold 2.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
@@ -1501,7 +1501,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 482 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 481 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1589,6 +1589,7 @@
 - [piyx/FileOrganizer](https://github.com/piyx/FileOrganizer) - Automatically organizes files in your computer
 - [sreekaransrinath/file_organizer](https://github.com/sreekaransrinath/file_organizer) - A script that looks through any folder you tell it to and moves the files to respective subfolders based on the file type.
 - [aashutoshrathi/py-scripts](https://github.com/aashutoshrathi/py-scripts) - These are daily life scripts for windows users to make their day easy.
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [Trinkle23897/learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) - 清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
@@ -1792,7 +1793,6 @@
 - [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 
 ## Stylus 
 
