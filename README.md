@@ -1275,6 +1275,7 @@
 
 ## Python 
 
+- [hiroi-sora/Umi-CUT](https://github.com/hiroi-sora/Umi-CUT) - 图片批量去黑边/裁剪/压缩工具，带界面。可排除图片边缘的色块干扰，将黑边删除干净。基于 Opencv 。
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [CaoZ/XueCheBu-Crack](https://github.com/CaoZ/XueCheBu-Crack) - 学车的同学有福啦，再也不用傻傻的守在电脑前看几十个小时的视频了，轻轻点一点，烦恼全不见~
 - [zhuozhiyongde/PKU-Auto-Reservation](https://github.com/zhuozhiyongde/PKU-Auto-Reservation) - 北京大学/北大/PKU自动预约入校
