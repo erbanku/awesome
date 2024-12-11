@@ -119,7 +119,7 @@
 - [erbanku/tpnm-thu](https://github.com/erbanku/tpnm-thu) - 2022 Technology And Practice Of Non-conventional Machining Course Raspberry Pi Workspace Files (Team Hello World)
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) - A simple, lightweight socks5 transparent proxy for Linux. (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) - A socks5 transparent proxy for Linux. (IPv4/IPv6/TCP/UDP)
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) - Cross-platform terminal tunnel tool
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -147,7 +147,7 @@
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [xhnbzdl/feishu-doc-export](https://github.com/xhnbzdl/feishu-doc-export) - 飞书文档导出服务
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 - [Berrysoft/TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) - 已停止维护，见 tunet-rust 项目。清华大学校园网客户端，适用于 UWP、iOS、Android。
 - [mili-tan/ArashiDNS.Dekunua](https://github.com/mili-tan/ArashiDNS.Dekunua) - The well-known DoH Servers Manager for Windows 11 / 适用于 Windows 11 的内置著名 DoH 服务器管理工具
@@ -278,7 +278,7 @@
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
-- [billchen2k/typora-theme-next](https://github.com/billchen2k/typora-theme-next) - A theme for Typora, inspired by hexo theme NexT.
+- [jtchen2k/typora-theme-next](https://github.com/jtchen2k/typora-theme-next) - A theme for Typora, inspired by hexo theme NexT.
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 - [atom/one-dark-ui](https://github.com/atom/one-dark-ui) - Atom One dark UI theme
 - [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
@@ -375,7 +375,7 @@
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [stillOnTheWay/openbilibili-go-common](https://github.com/stillOnTheWay/openbilibili-go-common) - 哔哩哔哩 bilibili 网站后台工程 源码 来自 https://github.com/openbilibili
 - [changwh/go-common](https://github.com/changwh/go-common) - 
 - [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t
@@ -646,7 +646,7 @@
 - [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
 - [welai/glow-sans](https://github.com/welai/glow-sans) - SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。
 - [renzhezhilu/gifsicle-wasm-browser](https://github.com/renzhezhilu/gifsicle-wasm-browser) - Run Gifsicle in the browser ,to GIFs compress, crop, manipulate frames, resize, Etc .
-- [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.         memos的微信小程序版本，可以转化为app
+- [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
@@ -756,7 +756,7 @@
 - [Robpayot/risograph-grain-shader](https://github.com/Robpayot/risograph-grain-shader) - Light grain shader codrops tutorial
 - [imlonghao/smms-bot](https://github.com/imlonghao/smms-bot) - A Telegram Bot For SM.MS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 - [pabueco/linear-vscode-theme](https://github.com/pabueco/linear-vscode-theme) - 
 - [imageslr/weapp-library](https://github.com/imageslr/weapp-library) - “在线借书平台”微信小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统。30+ 页面，多个可复用组件，微信小程序开发入门。提供本地 mock server 解决方案。
 - [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
@@ -992,6 +992,7 @@
 
 ## Others 
 
+- [VIP-Share/Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 - [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
 - [JnuSimba/MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - some learning notes about Web Application Security、 Penetration Test
@@ -1166,7 +1167,6 @@
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A database of custom user requested backgrounds for @Discord.
 - [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [algolia/awesome-algolia](https://github.com/algolia/awesome-algolia) - 🔍👋  START HERE! A curated list of Algolia libraries, resources and projects.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) - Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
 - [UyCode/uyfonts](https://github.com/UyCode/uyfonts) - there are UKIJ and Uighursoft fonts
@@ -1205,7 +1205,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ffffffff0x/Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
-- [wantToDoSomeThing/SSV2RayTrojanSSRClash](https://github.com/wantToDoSomeThing/SSV2RayTrojanSSRClash) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
+- [OverTheWallNode/SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -1296,9 +1296,9 @@
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [MuggleWei/bdchecker](https://github.com/MuggleWei/bdchecker) - backup data checker
 - [ASKCOS/ASKCOS](https://github.com/ASKCOS/ASKCOS) - Software package for computer aided synthesis planning
-- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/实况/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
@@ -1505,7 +1505,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 492 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 491 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1525,6 +1525,7 @@
 - [zisen123/TrierVosPhotos](https://github.com/zisen123/TrierVosPhotos) - 将您从iPhone导出的照片与影片以日期和时间的格式重命名并转移到以日期分类的文件夹中
 - [whitejoce/Get_Weather](https://github.com/whitejoce/Get_Weather) - 通过获取IP定位，爬取当地的天气（不需要API）
 - [up2b/pyup2b](https://github.com/up2b/pyup2b) - Image Uploader.
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1899,7 +1900,7 @@
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [rerender2021/heard](https://github.com/rerender2021/heard) - A simple subtitle generator powered by whisper & avernakis react.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private chatgpt website via vercel
 - [hyoban/burogu](https://github.com/hyoban/burogu) - A minimal blog template based on Next.js 13
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
