@@ -369,9 +369,10 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple langua
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
@@ -495,7 +496,7 @@
 ## HCL 
 
 - [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
+- [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
 ## HTML 
 
@@ -543,6 +544,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [DhanushNehru/Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
+- [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
 - [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker) - 一键v2ray ws + tls 方便就完事了
@@ -763,7 +765,7 @@
 - [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
 - [noxue/bingdundun](https://github.com/noxue/bingdundun) - 冰墩墩3d源码
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
-- [Aras-ax/lottery](https://github.com/Aras-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+- [moshang-ax/lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
@@ -1131,7 +1133,6 @@
 - [facelessuser/merge-dracula-theme](https://github.com/facelessuser/merge-dracula-theme) - Sublime Merge Dracula Theme
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
-- [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [axipo/TrafficBlackhole](https://github.com/axipo/TrafficBlackhole) - network quality & proxy service bench
 - [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
@@ -1377,7 +1378,6 @@
 - [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频
-- [Ziazan/douyin_web](https://github.com/Ziazan/douyin_web) - 抖音用户分享页数据爬虫
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit
 - [bestmatteo/Telegram-Bot](https://github.com/bestmatteo/Telegram-Bot) - Telegram auto forwarder messages with Selenium
@@ -1865,7 +1865,6 @@
 - [chaselen/v2ex-playground](https://github.com/chaselen/v2ex-playground) - VSCode 上逛 V2EX 网站的插件
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
-- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1960,7 +1959,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [jackluson/vscode-pomodoro-clock](https://github.com/jackluson/vscode-pomodoro-clock) - Pomodoro clock for VS Code
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
