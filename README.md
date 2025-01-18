@@ -393,7 +393,6 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -652,6 +651,7 @@
 - [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TLS Websocket 整合Docker镜像
@@ -1510,7 +1510,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 500 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 501 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1640,7 +1640,7 @@
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-- [KipData/FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
+- [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
@@ -1868,7 +1868,7 @@
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
@@ -2087,7 +2087,7 @@
 - [ddiu8081/bus-vis](https://github.com/ddiu8081/bus-vis) - 🚌 City bus visualizations of China.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - In-browser knowledge base on top of local plain-text files
