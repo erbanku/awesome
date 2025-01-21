@@ -722,6 +722,7 @@
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+- [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [liviuschera/noctis](https://github.com/liviuschera/noctis) - Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
@@ -781,7 +782,6 @@
 - [suxiaogang/WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) - 新浪微博图床 Chrome扩展
 - [The-NeXT-Project/Docs](https://github.com/The-NeXT-Project/Docs) - 
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
 - [szenius/set-timezone](https://github.com/szenius/set-timezone) - GitHub action to set timezone in your locale, works with Linux, Windows, MacOS
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -1281,7 +1281,7 @@
 
 ## Python 
 
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [hiroi-sora/Umi-CUT](https://github.com/hiroi-sora/Umi-CUT) - 图片批量去黑边/裁剪/压缩工具，带界面。可排除图片边缘的色块干扰，将黑边删除干净。基于 Opencv 。
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
@@ -1510,7 +1510,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 501 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 503 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -2091,6 +2091,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - In-browser knowledge base on top of local plain-text files
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
 - [GustavoASC/google-drive-vscode](https://github.com/GustavoASC/google-drive-vscode) - Extension to integrate VSCode with Google Drive™
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
@@ -2200,7 +2201,6 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-- [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [lzdyes/douyin-downloader](https://github.com/lzdyes/douyin-downloader) - A cross-platform download douyin video tool built with tauri
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
