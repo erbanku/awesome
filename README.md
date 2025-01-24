@@ -325,7 +325,7 @@
 
 ## Dart 
 
-- [honmaple/maple-file](https://github.com/honmaple/maple-file) - upload and manage multi cloud storage with serverless / 无服务端的云盘上传和管理APP
+- [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
@@ -372,7 +372,7 @@
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple langua
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
-- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
@@ -1308,6 +1308,7 @@
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 - [HA-Bots/Auto-Filter-Bot](https://github.com/HA-Bots/Auto-Filter-Bot) - This is Telegram Auto Filter Bot repository and fully customizable
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 本项目汇集5000+优质的Telegram群组、频道和机器人，为您提供高质量的学习和技术资源。内容涵盖热门群组、实用频道和各类机器人，助您快速找到感兴趣的资源，轻松提升技能。欢迎加入，一起探索丰富的Telegram资源库！
@@ -1510,7 +1511,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 503 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 504 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
