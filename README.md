@@ -838,7 +838,6 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [naamhaiabdullah/compressioweb](https://github.com/naamhaiabdullah/compressioweb) - CompressioWeb is a Open Source Production Grade Image Compression API and Web Application. It compresses JPG, PNG, GIF & SVG images in both Lossy and Lossless formats.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
@@ -925,6 +924,7 @@
 - [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [sokrypton/ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all!
 - [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) - PyTorch implementation of AnimeGANv2
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
 ## Kotlin 
@@ -1404,7 +1404,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [magicse/GFPGANv1.3-to-ncnn](https://github.com/magicse/GFPGANv1.3-to-ncnn) - The GFPGAN network consists of two networks. Actually GFPGAN and StyleGAN2
 - [pixray/pixray](https://github.com/pixray/pixray) - 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
@@ -1587,7 +1587,6 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [0xHJK/music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
 - [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [Anankke/ASM-Bot](https://github.com/Anankke/ASM-Bot) - 自动删除 Telegram 群组中的服务消息，如加群退群信息等。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 4 GiB using your account
