@@ -498,6 +498,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [seven1m/justforfunnoreally.dev](https://github.com/seven1m/justforfunnoreally.dev) - A little website to explain that sometimes we just like to have fun!
 - [summivox/thucal2](https://github.com/summivox/thucal2) - Tsinghua University curriculum -&gt; iCalendar format (.ics) -&gt; Google Calendar, etc.
@@ -1282,7 +1283,6 @@
 ## Python 
 
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [hiroi-sora/Umi-CUT](https://github.com/hiroi-sora/Umi-CUT) - 图片批量去黑边/裁剪/压缩工具，带界面。可排除图片边缘的色块干扰，将黑边删除干净。基于 Opencv 。
 - [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [CaoZ/XueCheBu-Crack](https://github.com/CaoZ/XueCheBu-Crack) - 学车的同学有福啦，再也不用傻傻的守在电脑前看几十个小时的视频了，轻轻点一点，烦恼全不见~
