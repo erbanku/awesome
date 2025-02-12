@@ -996,6 +996,7 @@
 
 ## Others 
 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 - [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.i
 - [VIP-Share/Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
