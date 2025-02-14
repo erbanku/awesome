@@ -698,7 +698,7 @@
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a lightweight, flat-file CMS designed for simple, fast, and flexible website and eBook creation using Markdown.
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [gitpod-io/openvscode-releases](https://github.com/gitpod-io/openvscode-releases) - This repo is only to produce releases for OpenVSCode Server.
-- [SplitGemini/Clash_configuration](https://github.com/SplitGemini/Clash_configuration) - Clash For Windows配置
+- [SplitGemini/Clash_configuration](https://github.com/SplitGemini/Clash_configuration) - 
 - [ShevonKuan/yuektang_ppt2pdf](https://github.com/ShevonKuan/yuektang_ppt2pdf) - 将雨课堂中的课件导出为pdf
 - [Co1lin/Tsinghua-Yukuotang-Autoplay](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) - A script for JS practice purpose.
 - [Konano/thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) - 🤖 A telegram bot to monitor Tsinghua web learning and push new updates to user in Telegram.
