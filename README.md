@@ -609,7 +609,8 @@
 
 ## JavaScript 
 
-- [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - ✨ 轻盈优雅的全能数据存储服务 | 以在线 Code 和 Markdown 编辑器为主体，一键存储文字、代码、图片、视频等任何数据 | 分布式架构+多级缓存让存取速度飞快 | 像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！
+- [wshanks/Zutilo](https://github.com/wshanks/Zutilo) - Zotero plugin providing some additional editing features
+- [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - ✨ 专业的在线编辑分享平台 | Monaco 代码编辑 + Markdown 实时预览 | 支持密码保护和自定义链接 | PWA 离线支持 | 多级缓存加速
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [jason5ng32/Github-Models-Telegram-Bot](https://github.com/jason5ng32/Github-Models-Telegram-Bot) - Use Github LLM in Telegram
 - [Llaves/ClaudeExport](https://github.com/Llaves/ClaudeExport) - Export Claude conversation as HTML
