@@ -7,6 +7,7 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [AutoHotkey](#autohotkey)
+- [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -84,6 +85,10 @@
 - [raeleus/AHK-Macro-Recorder](https://github.com/raeleus/AHK-Macro-Recorder) - An AutoHotkey script that allows you to record macros
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
+
+## AutoIt 
+
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 ## Batchfile 
 
@@ -522,7 +527,6 @@
 - [lvwzhen/foodie-ex](https://github.com/lvwzhen/foodie-ex) - 🍜「吃货制霸生成器」
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [233boy/tools](https://github.com/233boy/tools) - 
 - [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
@@ -682,6 +686,7 @@
 - [ghostdevv/linode-object-upload](https://github.com/ghostdevv/linode-object-upload) - A simple cli tool to upload a file to Linode Object Storage
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [drew-royster/canvasFileSync](https://github.com/drew-royster/canvasFileSync) - Syncs Canvas course files to your local computer
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [goooooouwa/goplan-web](https://github.com/goooooouwa/goplan-web) - GoPlan Web client
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -694,7 +699,6 @@
 - [alcor/emoji-supply](https://github.com/alcor/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
 - [Tyrone2333/giteeDeleteAccount](https://github.com/Tyrone2333/giteeDeleteAccount) - gitee 帐号删除指南
 - [Dandelionss/CloudFlare-Workers](https://github.com/Dandelionss/CloudFlare-Workers) - 储存一些CloudFlare Workers脚本
-- [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [cagataycali/url-shortener](https://github.com/cagataycali/url-shortener) - Shitty url shortener, emoji powered. 🌍✌🏼
 - [SevenWate/wiki](https://github.com/SevenWate/wiki) - 7Wate 个人维基知识库
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1524,7 +1528,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 527 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 528 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -2003,6 +2007,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [yusukebe/r2-image-worker](https://github.com/yusukebe/r2-image-worker) - Store and Deliver images with R2 backend Cloudflare Workers.
 - [GitbookIO/proxies-on-cloudflare](https://github.com/GitbookIO/proxies-on-cloudflare) - Proxies in Cloudflare Workers
+- [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
