@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -332,6 +333,7 @@
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -544,7 +546,6 @@
 - [LuckyHookin/edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
 - [suulnnka/BullshitGenerator](https://github.com/suulnnka/BullshitGenerator) - 文章生成器
 - [tmplink/tmpUI](https://github.com/tmplink/tmpUI) - JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [DhanushNehru/Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 - [Snickdx/pwadocs](https://github.com/Snickdx/pwadocs) - Turn your mkdocs site into a PWA
@@ -621,7 +622,6 @@
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [jason5ng32/Github-Models-Telegram-Bot](https://github.com/jason5ng32/Github-Models-Telegram-Bot) - Use Github LLM in Telegram
 - [Llaves/ClaudeExport](https://github.com/Llaves/ClaudeExport) - Export Claude conversation as HTML
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [nfe-w/xhs_pic_download](https://github.com/nfe-w/xhs_pic_download) - 结合iOS的“快捷指令”, 一键从小红书下载无水印图片/视频
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -1305,6 +1305,7 @@
 
 ## Python 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1315,12 +1316,12 @@
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - A program for automating the post-processing of photographs in general photo studios. | 一套适用于自动化完成一般照相馆后期流程的照片自动处理的程序。
 - [chen08209/Clash.Meta](https://github.com/chen08209/Clash.Meta) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [matheusfillipe/notes-todo_bot](https://github.com/matheusfillipe/notes-todo_bot) - A telegram bots for taking notes, editing and saving them on a github gist
 - [xrl12/auto_back](https://github.com/xrl12/auto_back) - 自动备份
 - [LorenEteval/Furious](https://github.com/LorenEteval/Furious) - A GUI proxy client based on PySide6. Support Xray-core & hysteria
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [euxcet/thulearn2018](https://github.com/euxcet/thulearn2018) - Tools for Web Learning of Tsinghua University.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
@@ -1484,6 +1485,7 @@
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用 diango 开发的 shadowsocks 面板
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
@@ -1870,6 +1872,7 @@
 
 ## TypeScript 
 
+- [logscore/Nimbus](https://github.com/logscore/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc.
 - [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer) - 锐评一下你都在 GitHub 写了什么
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [HiveNexus/A2A-Chat](https://github.com/HiveNexus/A2A-Chat) - A chatbot based on the Agent 2 Agent protocol, which can assign tasks to external Agents through dialogue and obtain results.   一个基于 Agent 2 Agent 协议的聊天应用，可以通过对话方式给外部 Agent 下发任务，并获取结果
@@ -1879,7 +1882,6 @@
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [kyswtn/vscode-vercel](https://github.com/kyswtn/vscode-vercel) - Keep an eye on your Vercel deployments while you code
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
@@ -1979,7 +1981,7 @@
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
 - [AlistGo/docs](https://github.com/AlistGo/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist
 - [slidevjs/docs](https://github.com/slidevjs/docs) - [Mirrored] Documentation for Slidev
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [thusns/thu-wiki](https://github.com/thusns/thu-wiki) - https://thu.wiki OR https://wiki.thusns.org
