@@ -552,7 +552,6 @@
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) - Linux工具快速教程
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
 - [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker) - 一键v2ray ws + tls 方便就完事了
-- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
 - [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -760,7 +759,6 @@
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [wjclub/telegram-bot-getids](https://github.com/wjclub/telegram-bot-getids) - Telegram Bot that prints out detailed informations about users, chats and media.
 - [Robpayot/glowing-tree](https://github.com/Robpayot/glowing-tree) - Three.js tree experiment
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [OBKoro1/web-basics](https://github.com/OBKoro1/web-basics) - 大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -1818,6 +1816,7 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [ToutyRater/v2ray-guide](https://github.com/ToutyRater/v2ray-guide) - 
 - [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
+- [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
 - [Kr328/clash-premium-installer](https://github.com/Kr328/clash-premium-installer) - Simple clash premium core installer for Linux.
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
@@ -2094,6 +2093,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [charleswan/vscode-extensions](https://github.com/charleswan/vscode-extensions) - A collection of delicious Visual Studio Code extensions recipes https://marketplace.visualstudio.com/publishers/CharlesWan
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
