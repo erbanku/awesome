@@ -1665,6 +1665,7 @@
 
 ## Rust 
 
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
