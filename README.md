@@ -1,34 +1,3 @@
-
-<div align="right">
-  <details>
-    <summary >🌐 Language</summary>
-    <div>
-      <div align="right">
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=en">English</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=zh-CN">简体中文</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=zh-TW">繁體中文</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=ja">日本語</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=ko">한국어</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=hi">हिन्दी</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=th">ไทย</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=fr">Français</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=de">Deutsch</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=es">Español</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=it">Itapano</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=ru">Русский</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=pt">Português</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=nl">Nederlands</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=pl">Polski</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=ar">العربية</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=fa">فارسی</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=tr">Türkçe</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=vi">Tiếng Việt</a></p>
-        <p><a href="https://openaitx.github.io/view.html?user=erbanku&project=awesome&lang=id">Bahasa Indonesia</a></p>
-      </div>
-    </div>
-  </details>
-</div>
-
 <!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation no-repeat-punctuation no-undefined-references awesome-spell-check-->
 # Awesome Stars [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -177,6 +146,7 @@
 
 ## C# # 
 
+- [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme & wiki.
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [IT-HaoGe/Windows-Update-Delayer](https://github.com/IT-HaoGe/Windows-Update-Delayer) - ITHaoGe Windows Update Delayer for Win11/10，IT豪哥电脑更新暂停器，快速暂停 Windows11/10 系统更新
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -1047,6 +1017,7 @@
 
 ## Others 
 
+- [krishnr/MATLAB-cheat-sheet](https://github.com/krishnr/MATLAB-cheat-sheet) - Quick reference sheet for MATLAB
 - [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -1910,6 +1881,7 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [JuanJLH/vscode-warp-terminal](https://github.com/JuanJLH/vscode-warp-terminal) - 
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.
@@ -1967,7 +1939,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
 - [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
