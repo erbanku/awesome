@@ -106,6 +106,7 @@
 
 ## C 
 
+- [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [stefansundin/superf4](https://github.com/stefansundin/superf4) - :file_folder: Kill programs instantly with Ctrl+Alt+F4. (Windows)
 - [wherewhere/Windows-Loopback-Exemption-Manager](https://github.com/wherewhere/Windows-Loopback-Exemption-Manager) - GUI to enable Loopback Exemptions for Universal Windows Apps and Windows 8, 8.1, 10 Modern UI Apps.
@@ -1019,6 +1020,7 @@
 
 ## Others 
 
+- [majinqiawa/xxn](https://github.com/majinqiawa/xxn) - 非正常人类研究中心 存储中国大陆各类非正常女性所为的非正常案件，欢迎补充
 - [krishnr/MATLAB-cheat-sheet](https://github.com/krishnr/MATLAB-cheat-sheet) - Quick reference sheet for MATLAB
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -1364,8 +1366,8 @@
 - [dylanjcastillo/shell-genie](https://github.com/dylanjcastillo/shell-genie) - Your wishes are my commands
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [zai-org/GLM-130B](https://github.com/zai-org/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
+- [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
@@ -1422,7 +1424,7 @@
 - [shiwk20/TsinghuaCloudDownload](https://github.com/shiwk20/TsinghuaCloudDownload) - This is a script to download files from Tsinghua Cloud.
 - [QianyanTech/Image-Downloader](https://github.com/QianyanTech/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+- [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
 - [kerm-me/docdown](https://github.com/kerm-me/docdown) - 使用playwright强力驱动的原创力文档book118和豆丁网docin下载工具
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
@@ -1558,7 +1560,7 @@
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [bmjcode/pywebarchive](https://github.com/bmjcode/pywebarchive) - Software for reading Apple's webarchive format
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
+- [zai-org/CogView](https://github.com/zai-org/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
 - [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [waykom/weibo_top](https://github.com/waykom/weibo_top) - 爬取微博热搜
 - [vmp65l3/weibo-hotrank](https://github.com/vmp65l3/weibo-hotrank) - 微博热搜记录并生成每日词云图
