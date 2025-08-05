@@ -745,7 +745,6 @@
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-- [liviuschera/noctis](https://github.com/liviuschera/noctis) - Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) - VS Code built-in markdown extension's Textmate grammar
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -819,6 +818,7 @@
 - [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [pxeger/url-shortener](https://github.com/pxeger/url-shortener) - World's simplest URL shortener using Cloudflare Workers
@@ -899,7 +899,6 @@
 ## Jinja 
 
 - [yunionio/ocboot](https://github.com/yunionio/ocboot) - Installation and setup tool of Cloudpods
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Julia 
 
@@ -1021,6 +1020,7 @@
 
 ## Others 
 
+- [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放、直播下载
 - [majinqiawa/xxn](https://github.com/majinqiawa/xxn) - 非正常人类研究中心 存储中国大陆各类非正常女性所为的非正常案件，欢迎补充
 - [krishnr/MATLAB-cheat-sheet](https://github.com/krishnr/MATLAB-cheat-sheet) - Quick reference sheet for MATLAB
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
@@ -1065,7 +1065,7 @@
 - [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - My profile
 - [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-- [erbanku/erbanku](https://github.com/erbanku/erbanku) - 
+- [erbanku/erbanku](https://github.com/erbanku/erbanku) - Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) - :book: 华章经管丛书高清扫描
@@ -1206,7 +1206,6 @@
 - [githubtraining/introduction-to-github](https://github.com/githubtraining/introduction-to-github) - Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
 - [UyCode/uyfonts](https://github.com/UyCode/uyfonts) - there are UKIJ and Uighursoft fonts
 - [kkozee/vscode-theme-one-dark-vivid](https://github.com/kkozee/vscode-theme-one-dark-vivid) - Atom's One Dark Vivid Theme for VS Code
-- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - Listing of papers about machine learning for proteins.
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
@@ -1622,6 +1621,7 @@
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [urbanij/google_keep_takeout](https://github.com/urbanij/google_keep_takeout) - Export your Google Keep notes to a markdown or txt file
 - [lonnyzhang423/v2ex-hot-hub](https://github.com/lonnyzhang423/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
@@ -2094,6 +2094,7 @@
 - [lcomplete/smart-toc](https://github.com/lcomplete/smart-toc) - A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。
 - [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser) - Time Tracker for Browser/网费很贵
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
+- [liviuschera/noctis](https://github.com/liviuschera/noctis) - Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
