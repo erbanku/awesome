@@ -21,3 +21,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: starred --username erbanku --repository awesome --sort --token ${GITHUB_TOKEN} --message 'Stars update by GitHub actions'
+    - name: Run Gemini CLI
+      uses: google-github-actions/run-gemini-cli@v0.1.3
