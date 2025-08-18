@@ -686,6 +686,7 @@
 - [itorr/china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 - [anerg2046/docker-v2ray](https://github.com/anerg2046/docker-v2ray) - V2Ray Caddy+Vmess+ws+tls 一键Docker脚本
 - [webtorrent/wormhole-crypto](https://github.com/webtorrent/wormhole-crypto) - Streaming encryption for Wormhole.app, based on Encrypted Content-Encoding for HTTP (RFC 8188)
+- [thusns/thu-wiki](https://github.com/thusns/thu-wiki) - https://thu.wiki OR https://wiki.thusns.org
 - [primer/contribute](https://github.com/primer/contribute) - Contribution guidelines for the Primer Design System
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [SurviveSJTU/SJTU-Application](https://github.com/SurviveSJTU/SJTU-Application) - https://survivesjtu.github.io/SJTU-Application/#/
@@ -1259,7 +1260,7 @@
 
 ## PHP 
 
-- [dtyq/magic](https://github.com/dtyq/magic) - Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+- [dtyq/magic](https://github.com/dtyq/magic) - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [juzeon/fast-mail-bomber](https://github.com/juzeon/fast-mail-bomber) - Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers.
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
@@ -1904,6 +1905,8 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
@@ -1920,7 +1923,6 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Claude, Perplexity, Phind, ChatGPT and MaxAI-Google threads and pages into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [kyswtn/vscode-vercel](https://github.com/kyswtn/vscode-vercel) - Keep an eye on your Vercel deployments while you code
@@ -2028,7 +2030,6 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
-- [thusns/thu-wiki](https://github.com/thusns/thu-wiki) - https://thu.wiki OR https://wiki.thusns.org
 - [crashmax-dev/twallpaper](https://github.com/crashmax-dev/twallpaper) - 🌈 Multicolor gradient wallpaper created algorithmically and shimmers smoothly.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
