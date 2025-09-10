@@ -1336,6 +1336,7 @@
 
 ## Python 
 
+- [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench) - [ACL 2025] AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark
 - [Lingyuzhou111/dow-ipad-859](https://github.com/Lingyuzhou111/dow-ipad-859) - 本项目是一个基于859版iPad协议的微信机器人，集成了dify-on-wechat聊天机器人框架，实现智能对话功能。项目支持在Windows系统本地部署和Linux系统云服务器部署，提供完整的微信消息收发、AI对话、图片识别等功能。
