@@ -1340,6 +1340,7 @@
 
 ## Python 
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
 - [yt-koike/dify-cron](https://github.com/yt-koike/dify-cron) - Regular self-call plugin for Dify on self-hosted servers and cloud.dify.ai
 - [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
@@ -1949,7 +1950,7 @@
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [Hakanbaban53/rclone-manager](https://github.com/Hakanbaban53/rclone-manager) - Rclone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
+- [RClone-Manager/rclone-manager](https://github.com/RClone-Manager/rclone-manager) - Rclone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [JuanJLH/vscode-warp-terminal](https://github.com/JuanJLH/vscode-warp-terminal) - 
