@@ -1895,6 +1895,7 @@
 
 ## Svelte 
 
+- [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 - [K-Sato1995/focus-sounds](https://github.com/K-Sato1995/focus-sounds) - Productivity site built with svelte-kit.  You can listen to ambient sounds to help u focus👨‍💻👨‍💻
 - [shajidhasan/rknotes-app](https://github.com/shajidhasan/rknotes-app) - 
 - [shajidhasan/batname](https://github.com/shajidhasan/batname) - Generate texts like "The Batman (2022)" film logo
@@ -1935,6 +1936,8 @@
 
 ## TypeScript 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+- [djyde/PandocX](https://github.com/djyde/PandocX) - File convertor
 - [vsme/chinese-days](https://github.com/vsme/chinese-days) - 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，支持 TS、CommonJS、UMD 模块化使用，对非开发者，提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [jeanlyn/mpfm](https://github.com/jeanlyn/mpfm) - A multi-protocol file storage manager client (S3/FTP/...) that support MacOS/Windows/Linux
