@@ -1944,6 +1944,7 @@
 
 ## TypeScript 
 
+- [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp) - 飞书/Lark官方 OpenAPI MCP
 - [aws-samples/dify-self-hosted-on-aws](https://github.com/aws-samples/dify-self-hosted-on-aws) - Self-host Dify on AWS
 - [qifi-dev/qrs](https://github.com/qifi-dev/qrs) - Stream data through multiple series of QR codes
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
