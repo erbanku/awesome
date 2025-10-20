@@ -1038,6 +1038,7 @@
 
 ## Others 
 
+- [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
 - [thu-pacman/Tree-KG](https://github.com/thu-pacman/Tree-KG) - knowledge graph, llm, knowledge-intensive domains
 - [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - [PKU EPIC Lab] 面向小白的具身智能入门指南
 - [langgptai/awesome-doubao-prompts](https://github.com/langgptai/awesome-doubao-prompts) - 🚀 最全面的豆包AI提示词库 | DoubaoAI Prompts Collection | 字节跳动豆包提示词 | AI Prompt Engineering
@@ -1944,6 +1945,7 @@
 
 ## TypeScript 
 
+- [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp) - 飞书/Lark官方 OpenAPI MCP
 - [aws-samples/dify-self-hosted-on-aws](https://github.com/aws-samples/dify-self-hosted-on-aws) - Self-host Dify on AWS
