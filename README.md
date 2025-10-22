@@ -1038,6 +1038,8 @@
 
 ## Others 
 
+- [WoodGoose/awesome-cow-plugins](https://github.com/WoodGoose/awesome-cow-plugins) - 这个仓库主要是收集CoW(chatgpt-on-wechat)与DoW(dify-on-wechat)的插件，欢迎补充加入看到、用过或新开发的插件。
+- [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
 - [thu-pacman/Tree-KG](https://github.com/thu-pacman/Tree-KG) - knowledge graph, llm, knowledge-intensive domains
 - [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - [PKU EPIC Lab] 面向小白的具身智能入门指南
@@ -1659,7 +1661,7 @@
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide) - PyCharm 中文指南：安装 | 破解 | 效率 | 技巧
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [devourbots/word_cloud_bot](https://github.com/devourbots/word_cloud_bot) - 一个可以统计群组用户发言，并且能将聊天内容生成词云的机器人
 - [Mrvishal2k2/TG-ShortLinkBot](https://github.com/Mrvishal2k2/TG-ShortLinkBot) - An simple url shortener bot which uses api of bit.ly
@@ -2241,7 +2243,7 @@
 - [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder) - A small vscode extension that help you to create files & folder in Atom Style.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
-- [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files at the same time, with certain condition. Available for windows and linux
+- [dhanyn10/multiple-file-manager](https://github.com/dhanyn10/multiple-file-manager) - File management application. You can bulk rename or deleting your files at the same time, with certain condition. Available for windows, linux, and macos
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
