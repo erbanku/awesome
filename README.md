@@ -415,7 +415,7 @@
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
@@ -1349,6 +1349,7 @@
 
 ## Python 
 
+- [brealinxx/LarkTaskExport](https://github.com/brealinxx/LarkTaskExport) - 一个简单的可以导出飞书「任务」栏中的「清单任务」下面的任务为 Excel 的工具
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [KoljaB/TurnVoice](https://github.com/KoljaB/TurnVoice) - Voice Transformation for Videos. 🎤👄🎬
@@ -1949,6 +1950,7 @@
 
 ## TypeScript 
 
+- [ytcheng/feishu_docs_export](https://github.com/ytcheng/feishu_docs_export) - 基于 Tauri + React + TypeScript 开发的跨平台桌面应用，用于批量导出飞书文档和文件。支持云盘文件浏览、知识库导航、多格式转换、断点续传、任务管理等功能。自动构建 Windows/macOS/Linux 安装包。
 - [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp) - 飞书/Lark官方 OpenAPI MCP
