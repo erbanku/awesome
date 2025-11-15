@@ -438,7 +438,6 @@
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks) - A cross-platform proxy client/server for Linux/Windows/macOS
 - [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered.
-- [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
@@ -557,6 +556,7 @@
 - [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
+- [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
@@ -1370,7 +1370,7 @@
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT(GPT), De
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) - The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.
-- [jwangkun/baymax-agent](https://github.com/jwangkun/baymax-agent) - 
+- [jwangkun/baymax-agent](https://github.com/jwangkun/baymax-agent) - 智能AI驱动的金融研究助手，专为股票分析和投资研究而设计
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
