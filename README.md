@@ -1052,6 +1052,7 @@
 
 ## Others 
 
+- [jwangkun/ai-coding-prompt-java](https://github.com/jwangkun/ai-coding-prompt-java) - java+vue3+uniapp全栈开发Prompt
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
 - [divyesh008/eBooks](https://github.com/divyesh008/eBooks) - 
 - [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) - [TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based tex
@@ -1374,7 +1375,7 @@
 
 - [limix-ldm/LimiX](https://github.com/limix-ldm/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
 - [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - A Dify tool plugin to export Markdown to DOCX, PPTX, XLSX, PNG, PDF, HTML, MD, CSV, JSON, XML files
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots / 生产级即时通信机器人开发平台. Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
