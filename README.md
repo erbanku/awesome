@@ -361,6 +361,7 @@
 
 ## Dockerfile 
 
+- [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
