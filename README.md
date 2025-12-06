@@ -649,7 +649,7 @@
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台
 - [erbanku/weather-extension-for-code](https://github.com/erbanku/weather-extension-for-code) - vscode weather extension
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐无处不在的AI桌面女友！可接入QQ、飞书、telegram、discord、b站、YouTube、twitch、Dify、 Home Assistant、MCP、A2A、Comfyui、酒馆角色卡、浏览器等生态！⭐ AI Desktop Girlfriend Everywhere! Compatible with QQ, Feishu, Telegram, Discord, Bilibili, 
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐无处不在的AI桌面女友！可接入QQ、飞书、telegram、discord、b站、YouTube、twitch、Dify、 Home Assistant、MCP、A2A、Comfyui、酒馆角色卡、Cluade code等生态！⭐ AI Desktop Girlfriend Everywhere! Compatible with QQ, Feishu, Telegram, Discord, Bi
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [jpawlowski/openvpn-als-applications](https://github.com/jpawlowski/openvpn-als-applications) - svn clone from openvpn-als.svn.sourceforge.net
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1089,7 +1089,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-- [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 - [IQAQI233/611Study.ICU](https://github.com/IQAQI233/611Study.ICU) - Nowadays, most of Chinese high school students are forced to study 611, from 6AM to 11PM 6 days a week. Sadly, lots of students suicided or got serious mental health problem. Inspired by project 996.i
 - [VIP-Share/Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) - 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。
@@ -1429,6 +1428,7 @@
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [CheshireCC/faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) - faster_whisper GUI with PySide6
 - [qianye216/OpenList-Desktop](https://github.com/qianye216/OpenList-Desktop) - OpenList Desktop 是一个为 OpenList (Alist) 和 Rclone 设计的跨平台桌面客户端。它提供了一个现代化且用户友好的图形界面，帮助您轻松管理 Alist 服务和 Rclone 云盘挂载，无需记忆和输入繁琐的命令行指令。
+- [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1786,6 +1786,7 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [George-Miao/clashctl](https://github.com/George-Miao/clashctl) - CLI for interacting with clash
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
@@ -2029,7 +2030,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [leoleelxh/obsidian-memos-ai-sync](https://github.com/leoleelxh/obsidian-memos-ai-sync) - obsidian-memos-sync-plugin，将 Memos 内容同步到 Obsidian 的插件，提供无缝集成体验。
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
-- [ccbikai/ssh-ai-chat](https://github.com/ccbikai/ssh-ai-chat) - Chat with AI over SSH.
+- [miantiao-me/ssh-ai-chat](https://github.com/miantiao-me/ssh-ai-chat) - Chat with AI over SSH.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [ytcheng/feishu_docs_export](https://github.com/ytcheng/feishu_docs_export) - 基于 Tauri + React + TypeScript 开发的跨平台桌面应用，用于批量导出飞书文档和文件。支持云盘文件浏览、知识库导航、多格式转换、断点续传、任务管理等功能。自动构建 Windows/macOS/Linux 安装包。
 - [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
