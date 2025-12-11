@@ -369,6 +369,7 @@
 
 ## EJS 
 
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Elm 
@@ -1060,6 +1061,7 @@
 
 ## Others 
 
+- [yetone/alma-releases](https://github.com/yetone/alma-releases) - 
 - [oldcai/LazyTyper-releases](https://github.com/oldcai/LazyTyper-releases) - 
 - [thuhollow2/myconfig](https://github.com/thuhollow2/myconfig) - 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
@@ -1380,6 +1382,7 @@
 
 ## Python 
 
+- [YangJiiii/bl_sbx_apple_wallet](https://github.com/YangJiiii/bl_sbx_apple_wallet) - Replace your Apple Wallet background image using the bl_sbx exploit
 - [maoist2009/TlsFragment](https://github.com/maoist2009/TlsFragment) - TlsFragment to Bypass GFW.
 - [maoist2009/HTTPS_IP_finder](https://github.com/maoist2009/HTTPS_IP_finder) - find ip survive from gfw block whivch is availabep
 - [Zoku-777/dify_dsl_flowchart_export](https://github.com/Zoku-777/dify_dsl_flowchart_export) - Convert dify app dsl to mermaid flowchart
