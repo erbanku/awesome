@@ -386,6 +386,8 @@
 
 ## Go 
 
+- [makotore/ipwhois](https://github.com/makotore/ipwhois) - An IP lookup app makes use of the https://ipwho.is API endpoint
+- [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest
 - [langgenius/dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
@@ -426,7 +428,6 @@
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
@@ -631,7 +632,6 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
-- [google/private-compute-services](https://github.com/google/private-compute-services) - 
 - [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube 是开源的远程服务器管理工具，支持SSH，RDP，Telnet，COM等协议。
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
@@ -696,7 +696,6 @@
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
 - [fraserxu/fraserxu.dev](https://github.com/fraserxu/fraserxu.dev) - My new personal sites
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
 - [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
@@ -1001,6 +1000,7 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [wenzewoo/jetbrains-markdown-image-support](https://github.com/wenzewoo/jetbrains-markdown-image-support) - Markdown editor one click upload image support is applicable to common products of JetBrains series.                           Markdown编辑器一键上传图片支持，适用于Jetbrains系列的常见产品。
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
+- [google/private-compute-services](https://github.com/google/private-compute-services) - 
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
@@ -1077,7 +1077,6 @@
 - [thu-pacman/Tree-KG](https://github.com/thu-pacman/Tree-KG) - knowledge graph, llm, knowledge-intensive domains
 - [jiangranlv/embodied-ai-start](https://github.com/jiangranlv/embodied-ai-start) - [PKU EPIC Lab] 面向小白的具身智能入门指南
 - [langgptai/awesome-doubao-prompts](https://github.com/langgptai/awesome-doubao-prompts) - 🚀 最全面的豆包AI提示词库 | DoubaoAI Prompts Collection | 字节跳动豆包提示词 | AI Prompt Engineering
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [KaWaIDeSuNe/xingjiabijichang](https://github.com/KaWaIDeSuNe/xingjiabijichang) - 2025年最新性价比机场推荐VPN、翻墙🚀推荐稳定性高，适合各类人需求的机场
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
@@ -1382,6 +1381,7 @@
 
 ## Python 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [YangJiiii/bl_sbx_apple_wallet](https://github.com/YangJiiii/bl_sbx_apple_wallet) - Replace your Apple Wallet background image using the bl_sbx exploit
 - [maoist2009/TlsFragment](https://github.com/maoist2009/TlsFragment) - TlsFragment to Bypass GFW.
 - [maoist2009/HTTPS_IP_finder](https://github.com/maoist2009/HTTPS_IP_finder) - find ip survive from gfw block whivch is availabep
@@ -1399,7 +1399,7 @@
 - [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - A Dify tool plugin to export Markdown to DOCX, PPTX, XLSX, PNG, PDF, HTML, MD, CSV, JSON, XML files
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatG
 - [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) - The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.
@@ -1878,8 +1878,10 @@
 
 ## Shell 
 
+- [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging [true] offline package.
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
@@ -2022,6 +2024,7 @@
 
 ## TypeScript 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [cdg1921/dify_annotation_and_analysis](https://github.com/cdg1921/dify_annotation_and_analysis) - Annotation and analysis for DIFY Source code（DIFY源码注释与解析）
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [Gloridust/eSoftCopyright](https://github.com/Gloridust/eSoftCopyright) - 易著AI：你给题目，秒出软著 ｜ 自动软著生成系统
@@ -2135,6 +2138,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
@@ -2167,13 +2171,14 @@
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
 - [AlistGo/docs](https://github.com/AlistGo/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist
 - [slidevjs/docs](https://github.com/slidevjs/docs) - [Mirrored] Documentation for Slidev
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [crashmax-dev/twallpaper](https://github.com/crashmax-dev/twallpaper) - 🌈 Multicolor gradient wallpaper created algorithmically and shimmers smoothly.
@@ -2423,7 +2428,7 @@
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 - [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [lpssss/THUeat--Frontend](https://github.com/lpssss/THUeat--Frontend) - 清华大学食堂App
-- [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
+- [djedi/DailyNotes](https://github.com/djedi/DailyNotes) - App for taking notes and tracking tasks on a daily basis
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
