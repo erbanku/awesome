@@ -368,7 +368,6 @@
 
 ## EJS 
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Elm 
@@ -385,6 +384,7 @@
 
 ## Go 
 
+- [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [makotore/ipwhois](https://github.com/makotore/ipwhois) - An IP lookup app makes use of the https://ipwho.is API endpoint
 - [bqlpfy/flux-panel](https://github.com/bqlpfy/flux-panel) - 哆啦A梦转发面板
@@ -532,11 +532,12 @@
 ## HTML 
 
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [sili-math/sili-math.github.io](https://github.com/sili-math/sili-math.github.io) - 
 - [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
 - [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - [seven1m/justforfunnoreally.dev](https://github.com/seven1m/justforfunnoreally.dev) - A little website to explain that sometimes we just like to have fun!
 - [summivox/thucal2](https://github.com/summivox/thucal2) - Tsinghua University curriculum -&gt; iCalendar format (.ics) -&gt; Google Calendar, etc.
@@ -626,6 +627,8 @@
 
 ## Java 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book) - 《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -810,7 +813,6 @@
 - [danielpigott/cloudflare-cli](https://github.com/danielpigott/cloudflare-cli) - CLI for interacting with Cloudflare
 - [shajidhasan/rknotes-landing](https://github.com/shajidhasan/rknotes-landing) - 
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
-- [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [py7hon/Meowdrive](https://github.com/py7hon/Meowdrive) - Meowdrive/Google drive directlink
 - [pkuhollow/webhole](https://github.com/pkuhollow/webhole) - PKU Hollow react frontend
 - [stef-levesque/vscode-3dviewer](https://github.com/stef-levesque/vscode-3dviewer) - Preview 3D meshes in VSCode
@@ -1016,7 +1018,7 @@
 ## Lua 
 
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
-- [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/
+- [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
@@ -1065,6 +1067,7 @@
 
 ## Others 
 
+- [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
 - [yetone/alma-releases](https://github.com/yetone/alma-releases) - 
 - [oldcai/LazyTyper-releases](https://github.com/oldcai/LazyTyper-releases) - 
 - [thuhollow2/myconfig](https://github.com/thuhollow2/myconfig) - 
@@ -1334,6 +1337,7 @@
 - [IO-Technologies/bashupload](https://github.com/IO-Technologies/bashupload) - Opensource for bashupload.com - PHP based files uploader for CLI, servers, desktops and mobiles
 - [renbaoshuo/Shortlink](https://github.com/renbaoshuo/Shortlink) - 短链接生成网站源码
 - [chenxuuu/shit-url](https://github.com/chenxuuu/shit-url) - 屑链生成，最屑的短链接生成站
+- [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL) - 清华大学计算机学科推荐学术会议和期刊列表
 - [youranreus/Subscription-Manager](https://github.com/youranreus/Subscription-Manager) - 订阅管理
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
@@ -1385,6 +1389,7 @@
 
 ## Python 
 
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [YangJiiii/bl_sbx_apple_wallet](https://github.com/YangJiiii/bl_sbx_apple_wallet) - Replace your Apple Wallet background image using the bl_sbx exploit
@@ -1600,7 +1605,6 @@
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [globus/globus-cli](https://github.com/globus/globus-cli) - A command line interface to Globus
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
@@ -2029,6 +2033,7 @@
 
 ## TypeScript 
 
+- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [erbanku/folder-alias-enhanced](https://github.com/erbanku/folder-alias-enhanced) - Further enhancements for personal needs
 - [Peaceful-World-X/folder-alias-fixed](https://github.com/Peaceful-World-X/folder-alias-fixed) - 配置文件放在.vscode；兼容显示git的记录
