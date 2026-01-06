@@ -541,7 +541,7 @@
 
 - [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) - MAI-UI: Real-World Centric Foundation GUI Agents.
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [sili-math/sili-math.github.io](https://github.com/sili-math/sili-math.github.io) - 
 - [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
@@ -1157,7 +1157,7 @@
 - [LUKE-ZZ/thuthesis-biomedical](https://github.com/LUKE-ZZ/thuthesis-biomedical) - 清华大学生物，医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。适合本硕博毕业论文和博后报告。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。
 - [oneclickearth/oneclick](https://github.com/oneclickearth/oneclick) - 科学上网/自由上网/翻墙/软件，2021科学上网指南
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [fredliu168/TheEconomist2022](https://github.com/fredliu168/TheEconomist2022) - 经济学人2022年期刊 在线阅读,包含音频，如果域名无法访问，请访问http://157.230.57.119:8888
 - [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper) - 收集Bing必应每日壁纸
 - [Ethkuil/awesome-thu-student-software](https://github.com/Ethkuil/awesome-thu-student-software) - 收录主要由清华大学在校学生开发/维护的实用开源软件。
@@ -1907,6 +1907,7 @@
 
 ## Shell 
 
+- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging [true] offline package.
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
