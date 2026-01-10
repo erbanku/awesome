@@ -666,7 +666,7 @@
 - [elainafan/Web-Dev-For-Beginners](https://github.com/elainafan/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐All-in-one AI Companion!  AI Desktop Companion + AI Virtual Streamer + AI Social App Bot + AI Interactive UI Interface + Digital Human Broadcasting + AI Games  and all the features you can imagine! ⭐
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI Companion! AI Desktop Girlfriend + AI Virtual Streamer + AI Social App Bot + AI Browser + AI Smart Home + AI Gaming — and every feature you can imagine!⭐全能型AI伴侣！AI桌面女友 + AI虚拟主播 + AI社交A
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [jpawlowski/openvpn-als-applications](https://github.com/jpawlowski/openvpn-als-applications) - svn clone from openvpn-als.svn.sourceforge.net
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1424,13 +1424,14 @@
 - [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) - 
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+- [chatbi/chatbi](https://github.com/chatbi/chatbi) - ChatBI is a BI system interacted by chat with LLM
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) - GigaBrain-0: A World Model-Powered Vision-Language-Action Model
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) - 
 - [limix-ldm/LimiX](https://github.com/limix-ldm/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
 - [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - A Dify tool plugin to export Markdown to DOCX, PPTX, XLSX, PNG, PDF, HTML, MD, CSV, JSON, XML files
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级多平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
 - [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.
@@ -2082,7 +2083,6 @@
 - [cdg1921/dify_annotation_and_analysis](https://github.com/cdg1921/dify_annotation_and_analysis) - Annotation and analysis for DIFY Source code（DIFY源码注释与解析）
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [Gloridust/eSoftCopyright](https://github.com/Gloridust/eSoftCopyright) - 易著AI：你给题目，秒出软著 ｜ 自动软著生成系统
-- [chatbi/chatbi](https://github.com/chatbi/chatbi) - ChatBI is a BI system interacted by chat with LLM
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d) - Awesome Digital Human
 - [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。 🚀  Dify-Plus = 管理中心 + Dify 二开 。 特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息。如有相关需求，请直接联系 Dify 官方获取授权与支持。
