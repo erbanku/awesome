@@ -2230,7 +2230,7 @@
 - [exposir/bing-wallpaper-node](https://github.com/exposir/bing-wallpaper-node) - Bing Daily 4K Ultra HD Wallpaper 必应每日4K超清壁纸
 - [AlistGo/docs](https://github.com/AlistGo/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist
 - [slidevjs/docs](https://github.com/slidevjs/docs) - [Mirrored] Documentation for Slidev
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [crashmax-dev/twallpaper](https://github.com/crashmax-dev/twallpaper) - 🌈 Multicolor gradient wallpaper created algorithmically and shimmers smoothly.
