@@ -213,7 +213,7 @@
 
 ## C++ 
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -659,6 +659,7 @@
 
 ## JavaScript 
 
+- [qoomon/starlines](https://github.com/qoomon/starlines) - Create beautiful stargazers histograms of your repositories or gists
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code
 - [erbanku/weather-extension-for-code](https://github.com/erbanku/weather-extension-for-code) - vscode weather extension
@@ -1081,7 +1082,7 @@
 
 ## Others 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Claude Skills for Obsidian
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [ar51an/unbound-dashboard](https://github.com/ar51an/unbound-dashboard) - Unbound Dashboard In Grafana With Prometheus & Loki
 - [ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) - 
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
@@ -1421,7 +1422,6 @@
 - [maoist2009/HTTPS_IP_finder](https://github.com/maoist2009/HTTPS_IP_finder) - find ip survive from gfw block whivch is availabep
 - [Zoku-777/dify_dsl_flowchart_export](https://github.com/Zoku-777/dify_dsl_flowchart_export) - Convert dify app dsl to mermaid flowchart
 - [artinmajdi/Project-Template-Manager](https://github.com/artinmajdi/Project-Template-Manager) - 
-- [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) - 
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 - [chatbi/chatbi](https://github.com/chatbi/chatbi) - ChatBI is a BI system interacted by chat with LLM
@@ -1764,7 +1764,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [urbanij/google_keep_takeout](https://github.com/urbanij/google_keep_takeout) - Export your Google Keep notes to a markdown or txt file
 - [lonnyzhang423/v2ex-hot-hub](https://github.com/lonnyzhang423/v2ex-hot-hub) - 记录v2ex热议话题，每小时更新，按天归档。
@@ -1823,6 +1823,7 @@
 
 ## Rust 
 
+- [ArnoChenFx/autocommit](https://github.com/ArnoChenFx/autocommit) - AutoCommit 是一个自动生成 Git 提交信息的命令行工具。它使用 AI 模型分析您的 Git diff，并生成符合约定的提交信息。
 - [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [George-Miao/clashctl](https://github.com/George-Miao/clashctl) - CLI for interacting with clash
