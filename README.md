@@ -358,7 +358,7 @@
 - [nfcim/nfsee](https://github.com/nfcim/nfsee) - Read your Transit/Bank/ID cards on Android/iOS phone with NFSee App
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 
 ## Dockerfile 
 
@@ -638,6 +638,7 @@
 
 ## Java 
 
+- [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
 - [inulute/medium-unlocker](https://github.com/inulute/medium-unlocker) - Medium Unlocker is an android app designed to access Medium articles without any paywalls.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
@@ -1414,6 +1415,7 @@
 
 ## Python 
 
+- [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs
 - [notedit/happy-coding-agent](https://github.com/notedit/happy-coding-agent) - happy coding  agent
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform) - Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform
@@ -1437,10 +1439,10 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) - 
 - [limix-ldm/LimiX](https://github.com/limix-ldm/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
-- [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - A Dify tool plugin and Agent Skill to transform Markdown to DOCX, PPTX, XLSX, PNG, PDF, HTML, MD, CSV, JSON, XML files
+- [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级多平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级多平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / QQ / QQ频道 / Slack e.g. Integrated
 - [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
 - [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) - The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.
@@ -2157,6 +2159,7 @@
 - [chaselen/v2ex-playground](https://github.com/chaselen/v2ex-playground) - VSCode 上逛 V2EX 网站的插件
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
+- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
@@ -2480,7 +2483,6 @@
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts、QGIS等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 - [hackun666/chat-easy](https://github.com/hackun666/chat-easy) - ChatGPT vue.js demo
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
