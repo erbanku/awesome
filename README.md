@@ -673,7 +673,7 @@
 - [elainafan/Web-Dev-For-Beginners](https://github.com/elainafan/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI Companion! AI Desktop Girlfriend + AI Virtual Streamer + AI Instant Messaging Bot + AI Browser + AI Smart Home + AI Gaming — and every feature you can imagine!⭐全能型AI伴侣！AI桌面女友 + AI虚拟主播 
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + instant messaging robot + browser control + smart home control + computer control + virtual reality, and everything else you can imag
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [jpawlowski/openvpn-als-applications](https://github.com/jpawlowski/openvpn-als-applications) - svn clone from openvpn-als.svn.sourceforge.net
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1442,7 +1442,6 @@
 - [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
-- [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。 🚀  Dify-Plus = 管理中心 + Dify 二开 。 特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息。如有相关需求，请直接联系 Dify 官方获取授权与支持。
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / QQ频道 e.g. Integ
 - [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The official Linode command line interface.
@@ -1469,7 +1468,7 @@
 - [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench) - [ACL 2025] AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark
 - [Lingyuzhou111/dow-ipad-859](https://github.com/Lingyuzhou111/dow-ipad-859) - 本项目是一个基于859版iPad协议的微信机器人，集成了dify-on-wechat聊天机器人框架，实现智能对话功能。项目支持在Windows系统本地部署和Linux系统云服务器部署，提供完整的微信消息收发、AI对话、图片识别等功能。
 - [github/transparency](https://github.com/github/transparency) - Structured data files for topics covered by GitHub's Transparency Report
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 - [zai-org/CogAgent](https://github.com/zai-org/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
@@ -2073,6 +2072,8 @@
 
 ## TypeScript 
 
+- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [project-epb/flaredrive-rev](https://github.com/project-epb/flaredrive-rev) - ✨ Get your own free cloud storage (image hosting) with 10 Gb free space ☁️ Cloud-native S3-compatible bucket manager built on Cloudflare Workers.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents - Run a team of Claude Code, OpenCode, or any other CLI agents on your machine
@@ -2103,6 +2104,7 @@
 - [Gloridust/eSoftCopyright](https://github.com/Gloridust/eSoftCopyright) - 易著AI：你给题目，秒出软著 ｜ 自动软著生成系统
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [wan-h/awesome-digital-human-live2d](https://github.com/wan-h/awesome-digital-human-live2d) - Awesome Digital Human
+- [YFGaia/dify-plus](https://github.com/YFGaia/dify-plus) - Dify-Plus 是 Dify 的企业级增强版，集成了基于 gin-vue-admin 的管理中心，并针对企业场景进行了功能优化。 🚀  Dify-Plus = 管理中心 + Dify 二开 。 特别说明： 本项目为开源社区的二次开发成果，严格遵循 Dify 原项目的版权许可协议，未涉及原项目许可的多租户功能及 logo 等版权信息。如有相关需求，请直接联系 Dify 官方获取授权与支持。
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [leoleelxh/obsidian-memos-ai-sync](https://github.com/leoleelxh/obsidian-memos-ai-sync) - obsidian-memos-sync-plugin，将 Memos 内容同步到 Obsidian 的插件，提供无缝集成体验。
