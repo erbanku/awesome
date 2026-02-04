@@ -664,6 +664,7 @@
 
 ## JavaScript 
 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [pskdje/bilibili-API-collect](https://github.com/pskdje/bilibili-API-collect) - 仓库SocialSisterYi/bilibili-API-collect的贡献者复刻，基础内容同步在master分支于2026年1月25日。main分支用于额外存档部分外部资源，若只要原始仓库存档应使用master分支。
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [qoomon/starlines](https://github.com/qoomon/starlines) - Create beautiful stargazers histograms of your repositories or gists
@@ -674,7 +675,7 @@
 - [elainafan/Web-Dev-For-Beginners](https://github.com/elainafan/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + instant messaging robot + browser control + smart home control + computer control + virtual reality, and everything else you can imag
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM bot + browser control + smart home control + computer control + virtual reality, and everything else you can imagine!⭐全能型AI伴侣！桌面女友
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [jpawlowski/openvpn-als-applications](https://github.com/jpawlowski/openvpn-als-applications) - svn clone from openvpn-als.svn.sourceforge.net
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -2075,6 +2076,8 @@
 
 ## TypeScript 
 
+- [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
