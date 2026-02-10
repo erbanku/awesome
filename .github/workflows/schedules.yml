@@ -1,6 +1,19 @@
 name: update awesome
 on:
   workflow_dispatch:
+    inputs:
+      username:
+        description: 'GitHub username'
+        required: false
+        default: 'erbanku'
+      repository:
+        description: 'Repository name'
+        required: false
+        default: 'awesome'
+      custom_message:
+        description: 'Custom commit message'
+        required: false
+        default: 'Stars update by GitHub actions'
   schedule:
   - cron: '0 0/16 * * *'
 jobs:
@@ -27,13 +40,16 @@ jobs:
     - name: Update repo with retry
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        USERNAME: ${{ inputs.username || 'erbanku' }}
+        REPO: ${{ inputs.repository || 'awesome' }}
+        MESSAGE: ${{ inputs.custom_message || 'Stars update by GitHub actions' }}
       run: |
         max_attempts=3
         attempt=1
         
         until [ $attempt -gt $max_attempts ]; do
           echo "Attempt $attempt of $max_attempts"
-          if starred --username erbanku --repository awesome --sort --token ${GITHUB_TOKEN} --message 'Stars update by GitHub actions'; then
+          if starred --username ${USERNAME} --repository ${REPO} --sort --token ${GITHUB_TOKEN} --message "${MESSAGE}"; then
             echo "Success"
             exit 0
           fi
