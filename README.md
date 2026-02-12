@@ -543,6 +543,7 @@
 
 ## HTML 
 
+- [kraten/terminal-resume](https://github.com/kraten/terminal-resume) - Showcasing resume in terminal style 💻
 - [DEKVIW/prompt-manager](https://github.com/DEKVIW/prompt-manager) - 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
@@ -859,7 +860,7 @@
 - [txthinking/bash](https://github.com/txthinking/bash) - One-Click Scripts.
 - [xuhuai66/used-book-pro](https://github.com/xuhuai66/used-book-pro) - 微信小程序云开发校园二手书商城，可在线支付提现，源码全开源
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [suxiaogang/WeiboPicBed](https://github.com/suxiaogang/WeiboPicBed) - 新浪微博图床 Chrome扩展
 - [The-NeXT-Project/Docs](https://github.com/The-NeXT-Project/Docs) - 
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -1408,6 +1409,7 @@
 
 ## PowerShell 
 
+- [kurokobo/psdify](https://github.com/kurokobo/psdify) - PSDify: A PowerShell module for workspace management for Dify, featuring various cmdlets for managing Apps, Knowledges, Models, and Members, etc.
 - [RedAndBlueEraser/rdp-file-password-encryptor](https://github.com/RedAndBlueEraser/rdp-file-password-encryptor) - A PowerShell script to encrypt plain text passwords into byte streams that can be embedded into RDP files for auto logon.
 - [lucyllewy/one-script-wsl2-systemd](https://github.com/lucyllewy/one-script-wsl2-systemd) - The one-script variant of the systemd hack for WSL2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
@@ -1420,6 +1422,8 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
 - [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs
 - [notedit/happy-skills](https://github.com/notedit/happy-skills) - happy coding  agent
@@ -1427,7 +1431,7 @@
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform) - Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform
 - [leverimmy/THU-Annual-Eat](https://github.com/leverimmy/THU-Annual-Eat) - 一年过去了，你在华子食堂里花的钱都花在哪儿了？
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 我的开发经验+提示词库=vibecoding工作站；My development experience + prompt dictionary = Vibecoding workstation；ניסיון הפיתוח שלי + מילון פרומפטים = תחנת עבודה Vibecoding；私の開発経験 + プロンプト辞書 = Vibecoding ワークステーション；나의 개
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 指南 - 涵盖 Prompt 提示词、Skill 技能库、Workflow 工作流的 AI 编程工作站
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [quge2023/TA-SQL](https://github.com/quge2023/TA-SQL) - 
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
@@ -1521,7 +1525,7 @@
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -1710,7 +1714,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
 - [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 557 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 558 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skylark36/Rules](https://github.com/skylark36/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1937,7 +1941,6 @@
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -2079,6 +2082,8 @@
 
 ## TypeScript 
 
+- [Lapis0x0/VermilionVoid](https://github.com/Lapis0x0/VermilionVoid) - 朱墨留白｜VermilionVoid｜我的个人博客框架
+- [Lapis0x0/VLMClassifier](https://github.com/Lapis0x0/VLMClassifier) - 一个基于VLM的图片分类程序
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
 - [coolcoala/koala-clash](https://github.com/coolcoala/koala-clash) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -2143,6 +2148,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -2169,7 +2175,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
-- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在边缘函数上的在线剪贴板/文件共享
@@ -2269,7 +2275,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [jackluson/vscode-pomodoro-clock](https://github.com/jackluson/vscode-pomodoro-clock) - Pomodoro clock for VS Code
