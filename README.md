@@ -1846,7 +1846,7 @@
 
 - [nguyenphutrong/agentlens](https://github.com/nguyenphutrong/agentlens) - Scan codebases and generate hierarchical symbol maps, module summaries, and memory markers to help AI assistants (Claude, Cursor) navigate your code effectively.
 - [ArnoChenFx/autocommit](https://github.com/ArnoChenFx/autocommit) - AutoCommit 是一个自动生成 Git 提交信息的命令行工具。它使用 AI 模型分析您的 Git diff，并生成符合约定的提交信息。
-- [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - proxycast 创作类 AI agent
+- [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [George-Miao/clashctl](https://github.com/George-Miao/clashctl) - CLI for interacting with clash
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
