@@ -543,7 +543,6 @@
 
 ## HTML 
 
-- [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website) - Personal website and blog for MJ Rathbun
 - [kraten/terminal-resume](https://github.com/kraten/terminal-resume) - Showcasing resume in terminal style 💻
 - [DEKVIW/prompt-manager](https://github.com/DEKVIW/prompt-manager) - 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -666,6 +665,7 @@
 
 ## JavaScript 
 
+- [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website) - Personal website and blog for MJ Rathbun
 - [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [pskdje/bilibili-API-collect](https://github.com/pskdje/bilibili-API-collect) - 仓库SocialSisterYi/bilibili-API-collect的贡献者复刻，基础内容同步在master分支于2026年1月25日。main分支用于额外存档部分外部资源，若只要原始仓库存档应使用master分支。
@@ -2118,7 +2118,7 @@
 - [Peaceful-World-X/folder-alias-fixed](https://github.com/Peaceful-World-X/folder-alias-fixed) - 配置文件放在.vscode；兼容显示git的记录
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [cdg1921/dify_annotation_and_analysis](https://github.com/cdg1921/dify_annotation_and_analysis) - Annotation and analysis for DIFY Source code（DIFY源码注释与解析）
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [Gloridust/eSoftCopyright](https://github.com/Gloridust/eSoftCopyright) - 易著AI：你给题目，秒出软著 ｜ 自动软著生成系统
