@@ -344,6 +344,7 @@
 
 ## Dart 
 
+- [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
@@ -1096,7 +1097,7 @@
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [Koolson/Qure](https://github.com/Koolson/Qure) - Quantumult X Policy Icon Set
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [ar51an/unbound-dashboard](https://github.com/ar51an/unbound-dashboard) - Unbound Dashboard In Grafana With Prometheus & Loki
 - [ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) - 
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
@@ -1480,7 +1481,7 @@
 - [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench) - [ACL 2025] AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark
 - [Lingyuzhou111/dow-ipad-859](https://github.com/Lingyuzhou111/dow-ipad-859) - 本项目是一个基于859版iPad协议的微信机器人，集成了dify-on-wechat聊天机器人框架，实现智能对话功能。项目支持在Windows系统本地部署和Linux系统云服务器部署，提供完整的微信消息收发、AI对话、图片识别等功能。
 - [github/transparency](https://github.com/github/transparency) - Structured data files for topics covered by GitHub's Transparency Report
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 - [zai-org/CogAgent](https://github.com/zai-org/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
@@ -2111,7 +2112,7 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [Leonardo8133/Leos-Shared-Commands](https://github.com/Leonardo8133/Leos-Shared-Commands) - 
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [erbanku/folder-alias-enhanced](https://github.com/erbanku/folder-alias-enhanced) - Further enhancements for personal needs
 - [Peaceful-World-X/folder-alias-fixed](https://github.com/Peaceful-World-X/folder-alias-fixed) - 配置文件放在.vscode；兼容显示git的记录
