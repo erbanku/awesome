@@ -601,6 +601,7 @@
 - [stellarkey/912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
 - [pengchujin/v2rayDocker](https://github.com/pengchujin/v2rayDocker) - 一键v2ray ws + tls 方便就完事了
 - [iBug/iBug-source](https://github.com/iBug/iBug-source) - Source of my website
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you
 - [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -1093,6 +1094,7 @@
 
 ## Others 
 
+- [Done-0/value-realization](https://github.com/Done-0/value-realization) - Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [Koolson/Qure](https://github.com/Koolson/Qure) - Quantumult X Policy Icon Set
@@ -2412,7 +2414,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - In-browser knowledge base on top of local plain-text files
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you
 - [GustavoASC/google-drive-vscode](https://github.com/GustavoASC/google-drive-vscode) - Extension to integrate VSCode with Google Drive™
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
