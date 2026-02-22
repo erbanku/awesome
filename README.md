@@ -1094,6 +1094,7 @@
 
 ## Others 
 
+- [Leading-AI-IO/palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy) - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
 - [Done-0/value-realization](https://github.com/Done-0/value-realization) - Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -1454,7 +1455,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) - 
 - [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
-- [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
+- [bowenliang123/markdown-exporter](https://github.com/bowenliang123/markdown-exporter) - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated w
