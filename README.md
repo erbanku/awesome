@@ -1096,6 +1096,7 @@
 
 ## Others 
 
+- [xstongxue/best-prompts](https://github.com/xstongxue/best-prompts) - 通用高质量 Prompt 合集🔥
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [dronezzzko/software-development-best-practices](https://github.com/dronezzzko/software-development-best-practices) - Comprehensive collection of essential software engineering practices and recommendations.
 - [anomalyco/opencode-beta](https://github.com/anomalyco/opencode-beta) - 
