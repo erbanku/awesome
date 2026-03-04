@@ -2100,7 +2100,7 @@
 
 ## TypeScript 
 
-- [OpenSource03/harnss](https://github.com/OpenSource03/harnss) - Open-source desktop client for the Agent Client Protocol, Claude Agent SDK & Codex App Server. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, and built-in t
+- [OpenSource03/harnss](https://github.com/OpenSource03/harnss) - Open-source desktop client/UI build to harness the Claude Code, Codex and any other Agent. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal,
 - [Lapis0x0/VermilionVoid](https://github.com/Lapis0x0/VermilionVoid) - 朱墨留白｜VermilionVoid｜我的个人博客框架
 - [Lapis0x0/VLMClassifier](https://github.com/Lapis0x0/VLMClassifier) - 一个基于VLM的图片分类程序
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
