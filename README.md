@@ -739,6 +739,7 @@
 - [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [anerg2046/Caddy_V2ray](https://github.com/anerg2046/Caddy_V2ray) - Caddy V2ray SSL TLS Websocket 整合Docker镜像
@@ -2281,7 +2282,6 @@
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
 - [jiegec/clone-learn-tsinghua](https://github.com/jiegec/clone-learn-tsinghua) - A utility to clone all files from learn.tsinghua.edu.cn
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
@@ -2338,6 +2338,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [wabarc/cairn](https://github.com/wabarc/cairn) - NPM package and CLI tool for saving web page as single HTML file
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [massCodeIO/assistant-vscode](https://github.com/massCodeIO/assistant-vscode) - massCode assistant for VS Code
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
@@ -2540,7 +2541,6 @@
 - [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [lpssss/THUeat--Frontend](https://github.com/lpssss/THUeat--Frontend) - 清华大学食堂App
 - [djedi/DailyNotes](https://github.com/djedi/DailyNotes) - App for taking notes and tracking tasks on a daily basis
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [lzdyes/douyin-downloader](https://github.com/lzdyes/douyin-downloader) - A cross-platform download douyin video tool built with tauri
