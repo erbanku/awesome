@@ -397,6 +397,7 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [Gouryella/drip](https://github.com/Gouryella/drip) - Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
+- [cvhariharan/flowctl](https://github.com/cvhariharan/flowctl) - An open source self-service workflow execution platform
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [makotore/ipwhois](https://github.com/makotore/ipwhois) - An IP lookup app makes use of the https://ipwho.is API endpoint
@@ -441,7 +442,7 @@
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [TimothyYe/bing-wallpaper](https://github.com/TimothyYe/bing-wallpaper) - A RESTful API to fetch daily wallpaper from Bing.com
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
@@ -618,7 +619,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡设计、可视化、标签、编辑器、设计器、报表、流程图、试卷、SVG、物联网、小票、打印、套打
 - [HuyNguyenAu/notability-to-svg](https://github.com/HuyNguyenAu/notability-to-svg) - A short and simple Python script that converts a Notability note strokes into an SVG wrapped HTML file.
-- [guillaC/JSBatchobfuscator](https://github.com/guillaC/JSBatchobfuscator) - JSBatchobfuscator is a simple obfuscator for batch script
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [Sobranier/github-chart](https://github.com/Sobranier/github-chart) - 
@@ -1468,7 +1468,7 @@
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) - 
 - [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
 - [bowenliang123/markdown-exporter](https://github.com/bowenliang123/markdown-exporter) - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) - 📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [antgroup/Agentar-Scale-SQL](https://github.com/antgroup/Agentar-Scale-SQL) - Agentar-Scale-SQL is a novel framework that leverages scalable computation to significantly improve Text-to-SQL performance.
@@ -1913,7 +1913,7 @@
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
 - [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -2057,7 +2057,6 @@
 
 ## Svelte 
 
-- [cvhariharan/flowctl](https://github.com/cvhariharan/flowctl) - An open source self-service workflow execution platform
 - [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 - [K-Sato1995/focus-sounds](https://github.com/K-Sato1995/focus-sounds) - Productivity site built with svelte-kit.  You can listen to ambient sounds to help u focus👨‍💻👨‍💻
 - [shajidhasan/rknotes-app](https://github.com/shajidhasan/rknotes-app) - 
