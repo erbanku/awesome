@@ -348,13 +348,13 @@
 
 ## Dart 
 
+- [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
@@ -390,6 +390,8 @@
 
 ## Go 
 
+- [memohai/Memoh](https://github.com/memohai/Memoh) - ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc (like OpenClaw).
+- [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -674,6 +676,7 @@
 
 ## JavaScript 
 
+- [systemmin/kill-doc](https://github.com/systemmin/kill-doc) - 看到经常有小伙伴们需要下载一些免费文档，但是相关网站浏览体验不好各种广告，各种登录验证，需要很多步骤才能下载文档，该脚本就是为了解决您的烦恼而诞生，尽可能做到自动化
 - [cursor/plugin-template](https://github.com/cursor/plugin-template) - 
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [nexmoe/cursor-themes-for-zed](https://github.com/nexmoe/cursor-themes-for-zed) - A Zed port of Cursor's theme family, including Cursor Dark, Cursor Dark Midnight, Cursor Dark High Contrast, and Cursor Light. Converted from the original VS Code themes with matching editor UI, synta
@@ -1109,7 +1112,7 @@
 
 ## Others 
 
-- [tw93/human](https://github.com/tw93/human) - Write like a human skill for Claude Code
+- [chatgptprojects/claude-code](https://github.com/chatgptprojects/claude-code) - https://x.com/paidev
 - [xstongxue/best-prompts](https://github.com/xstongxue/best-prompts) - 通用高质量 Prompt 合集🔥
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [dronezzzko/software-development-best-practices](https://github.com/dronezzzko/software-development-best-practices) - Comprehensive collection of essential software engineering practices and recommendations.
@@ -1720,7 +1723,7 @@
 - [surajjjjjj/Telegram-automatic-message](https://github.com/surajjjjjj/Telegram-automatic-message) - A python script using the telethon library to simply send messages to a bot every 30 seconds
 - [pirobot/rbx1](https://github.com/pirobot/rbx1) - ROS By Example Volume 1
 - [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) - 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [absop/ST-ChineseTokenizer](https://github.com/absop/ST-ChineseTokenizer) - Sublime Text 3 的 jieba 分词库绑定，支持对中文更精确地选词、删词和按词移动光标
@@ -2121,6 +2124,8 @@
 
 ## TypeScript 
 
+- [resend/resend-cli](https://github.com/resend/resend-cli) - The official CLI for Resend
+- [ankitvgupta/mail-app](https://github.com/ankitvgupta/mail-app) - Claude Code for your Inbox
 - [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
@@ -2342,7 +2347,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
 - [egoist/follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [buhe/vscode-mail](https://github.com/buhe/vscode-mail) - A Mail client embedded in Visual Studio Code.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
