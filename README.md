@@ -287,7 +287,6 @@
 - [OrangeX4/cheatsheets](https://github.com/OrangeX4/cheatsheets) - OrangeX4's cheatsheets website.
 - [h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme) - This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.
 - [calcom/sans](https://github.com/calcom/sans) - The home for our Cal Sans font.
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [Johnserf-Seed/TikTokWeb](https://github.com/Johnserf-Seed/TikTokWeb) - TikTokTool 网页版
 - [hydescarf/Obsidian-Theme-Mado-Miniflow](https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow) - A beautiful minimalism theme for Obsidian.
@@ -1096,6 +1095,7 @@
 
 ## Markdown 
 
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
