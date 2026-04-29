@@ -1465,7 +1465,6 @@
 - [sciknoworg/OntoLearner](https://github.com/sciknoworg/OntoLearner) - OntoLearner: A Modular Python Library for Ontology Learning with LLMs https://pypi.org/project/OntoLearner/
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [OptiMaL-PSE-Lab/Sketch2Simulation](https://github.com/OptiMaL-PSE-Lab/Sketch2Simulation) - Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models
-- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
 - [titanwings/ex-skill](https://github.com/titanwings/ex-skill) - 致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
@@ -2000,6 +1999,8 @@
 
 ## Shell 
 
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
+- [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [chatgptprojects/clear-code](https://github.com/chatgptprojects/clear-code) - See your claude code logs in clear details in your dashboard
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -2162,6 +2163,7 @@
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.
 - [better-auth/better-hub](https://github.com/better-auth/better-hub) - Re-imagining code collaboration for humans and agents
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
+- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
