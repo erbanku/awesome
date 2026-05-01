@@ -1124,6 +1124,9 @@
 
 ## Others 
 
+- [EryouHao/graker-release](https://github.com/EryouHao/graker-release) - 
+- [wrongly-cuddly-obsession/NTSB_FOIA_MU5735](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) - 
+- [sciknoworg/LLMs4OL-Challenge](https://github.com/sciknoworg/LLMs4OL-Challenge) - LLMs4OL Challenge @ ISWC
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
