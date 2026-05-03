@@ -348,6 +348,7 @@
 
 ## Dart 
 
+- [AprDeci/bili-music](https://github.com/AprDeci/bili-music) - B站源的音乐app
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
@@ -1469,11 +1470,13 @@
 
 ## Python 
 
+- [sciknoworg/YESciEval](https://github.com/sciknoworg/YESciEval) - YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering https://pypi.org/project/YESciEval/
+- [sciknoworg/OntoLearner](https://github.com/sciknoworg/OntoLearner) - OntoLearner: A Modular Python Library for Ontology Learning with LLMs https://pypi.org/project/OntoLearner/
+- [fankcoder/email-quote-automation](https://github.com/fankcoder/email-quote-automation) - Automated email inquiry processing and quotation generator for e-commerce and custom manufacturing businesses.
 - [cycleuser/GangDan](https://github.com/cycleuser/GangDan) - A tool to use local LLM to help to Code.
 - [xorbitsai/xagent](https://github.com/xorbitsai/xagent) - A production-ready platform for dynamic AI agents — plan, use tools, and complete real work without hardcoded workflows.
 - [yzhao062/agent-style](https://github.com/yzhao062/agent-style) - 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
-- [sciknoworg/OntoLearner](https://github.com/sciknoworg/OntoLearner) - OntoLearner: A Modular Python Library for Ontology Learning with LLMs https://pypi.org/project/OntoLearner/
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [OptiMaL-PSE-Lab/Sketch2Simulation](https://github.com/OptiMaL-PSE-Lab/Sketch2Simulation) - Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
@@ -1768,7 +1771,6 @@
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
 - [AmineSoukara/ImgBB-Bot](https://github.com/AmineSoukara/ImgBB-Bot) - Telegram Bot That Hosts Your Image On imgbb.com And Returns Link
 - [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
-- [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [ros/ros](https://github.com/ros/ros) - Core ROS packages
 - [libthu/reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader) - Download pages from http://reserves.lib.tsinghua.edu.cn/
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
@@ -2165,6 +2167,7 @@
 
 ## TypeScript 
 
+- [88lin/lofi-radio-web](https://github.com/88lin/lofi-radio-web) - 一个为专注场景而做的 Lofi Radio 网页版。Lofi音乐因节奏平稳、旋律循环、干扰较少，长期被公认为学习和工作场景中更适合作为背景音的音乐类型之一。项目采用 macOS 风格灵动岛设计，收录 21 个精选电台，打开网页即可收听。基于 LoFi Girl 等优质内容主要分布在海外平台、国内触达不够方便的现实，希望把适合学习、工作与放松的专注音乐带到更容易触达的地方。
 - [4O4-wasd/Microslop](https://github.com/4O4-wasd/Microslop) - An extension that converts Microsoft to Microslop
 - [leoleelxh/obsidian-memos-ai-sync](https://github.com/leoleelxh/obsidian-memos-ai-sync) - obsidian-memos-sync-plugin，将 Memos 内容同步到 Obsidian 的插件，提供无缝集成体验。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
@@ -2515,6 +2518,7 @@
 - [louisyoungx/safari-like-startpage](https://github.com/louisyoungx/safari-like-startpage) - Safari-like start page
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [rick-yo/remind](https://github.com/rick-yo/remind) - Bring mindmap to browser
+- [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 - [WayneGongCN/microsoft-todo-browser-ext](https://github.com/WayneGongCN/microsoft-todo-browser-ext) - An open source third-party browser extension for Microsoft To Do
