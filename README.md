@@ -2073,7 +2073,7 @@
 - [nginxinc/nginx-for-azure-deploy-action](https://github.com/nginxinc/nginx-for-azure-deploy-action) - Github Actions to sync NGINX configs into the NGINX for Azure service.
 - [eRaid6/gitea-install](https://github.com/eRaid6/gitea-install) - Install and Upgrade Gitea on CentOS 7/RHEL7 and Fedora 30
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
@@ -2225,7 +2225,7 @@
 - [lexmin0412/dify-chat](https://github.com/lexmin0412/dify-chat) - 一个 Dify 应用管理平台，基于 Dify API 构建，提供深度优化的用户端交互界面，支持 Chatflow、Workflow 等多种 Dify 应用类型，适配深度思考、思维链、图表渲染、文件处理等丰富的 AI 输出形式，提供开箱即用的 AI 应用解决方案。
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
+- [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [Leonardo8133/Leos-Shared-Commands](https://github.com/Leonardo8133/Leos-Shared-Commands) - 
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
