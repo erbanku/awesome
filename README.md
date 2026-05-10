@@ -395,6 +395,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [adiudiuu/tools](https://github.com/adiudiuu/tools) - aws常用的方法集合
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
@@ -1472,6 +1473,8 @@
 
 ## Python 
 
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
+- [Romanescu11/hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) - A meta-skill plugin for Nous Research's Hermes AI agent that watches your workflows and automatically turns them into reusable skills.  Every time you work with Hermes and solve something — setting up
 - [sciknoworg/YESciEval](https://github.com/sciknoworg/YESciEval) - YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering https://pypi.org/project/YESciEval/
 - [sciknoworg/OntoLearner](https://github.com/sciknoworg/OntoLearner) - OntoLearner: A Modular Python Library for Ontology Learning with LLMs https://pypi.org/project/OntoLearner/
 - [fankcoder/email-quote-automation](https://github.com/fankcoder/email-quote-automation) - Automated email inquiry processing and quotation generator for e-commerce and custom manufacturing businesses.
