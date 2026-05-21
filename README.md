@@ -491,7 +491,7 @@
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [utahta/pythonbrew](https://github.com/utahta/pythonbrew) - Python Environment manager
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihom
 - [master-coder-ll/v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager) - v2ray-web-manager 是一个v2ray的面板，也是一个集群的解决方案；同时增加了流量控制/账号管理/限速等功能。key: admin , panel ,web,cluster,集群,proxy
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1140,6 +1140,7 @@
 
 ## Others 
 
+- [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.
 - [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
 - [doraemonkeys/claude-code-debug-mode](https://github.com/doraemonkeys/claude-code-debug-mode) - Cursor-style Debug Mode skill for coding agents. Hypothesis-driven debugging with runtime log instrumentation and human-in-the-loop verification.
 - [allenGKC/ai-product-research](https://github.com/allenGKC/ai-product-research) - 
@@ -1479,6 +1480,7 @@
 
 ## Python 
 
+- [kiblee/tod0](https://github.com/kiblee/tod0) - A Terminal Client for Microsoft To-Do
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [HamedBabaei/LLMs4OL](https://github.com/HamedBabaei/LLMs4OL) - LLMs4OL:‌ Large Language Models for Ontology Learning
 - [IvanWng97/TradingAgents-Telegram](https://github.com/IvanWng97/TradingAgents-Telegram) - Telegram bot wrapping TradingAgents — chat-driven watchlist with parallel multi-ticker analysis, cancellation, and Telegraph reports.
@@ -1501,6 +1503,7 @@
 - [OptiMaL-PSE-Lab/Sketch2Simulation](https://github.com/OptiMaL-PSE-Lab/Sketch2Simulation) - Sketch2Simulation: Automating Flowsheet Generation via Multi Agent Large Language Models
 - [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
 - [titanwings/ex-skill](https://github.com/titanwings/ex-skill) - 致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
@@ -2042,7 +2045,6 @@
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [chatgptprojects/clear-code](https://github.com/chatgptprojects/clear-code) - See your claude code logs in clear details in your dashboard
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address
@@ -2195,6 +2197,8 @@
 
 ## TypeScript 
 
+- [2001Y/onw](https://github.com/2001Y/onw) - Extensions for VScode. Add an item here and there that opens in a new window.
+- [achingono/ms-todo-cli](https://github.com/achingono/ms-todo-cli) - OpenClaw CLI client for Microsoft Todo
 - [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
 - [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
