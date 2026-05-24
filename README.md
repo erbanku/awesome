@@ -949,7 +949,6 @@
 - [Glitchbone/vscode-base16-term](https://github.com/Glitchbone/vscode-base16-term) - Base16 Terminal Colors for Visual Studio Code
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
-- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -1480,6 +1479,7 @@
 
 ## Python 
 
+- [FredAntB/Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for 
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [kiblee/tod0](https://github.com/kiblee/tod0) - A Terminal Client for Microsoft To-Do
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
@@ -1953,7 +1953,6 @@
 - [khnfrhn/tokenbar](https://github.com/khnfrhn/tokenbar) - 
 - [nguyenphutrong/agentlens](https://github.com/nguyenphutrong/agentlens) - Scan codebases and generate hierarchical symbol maps, module summaries, and memory markers to help AI assistants (Claude, Cursor) navigate your code effectively.
 - [ArnoChenFx/autocommit](https://github.com/ArnoChenFx/autocommit) - AutoCommit 是一个自动生成 Git 提交信息的命令行工具。它使用 AI 模型分析您的 Git diff，并生成符合约定的提交信息。
-- [limecloud/lime](https://github.com/limecloud/lime) - AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [George-Miao/clashctl](https://github.com/George-Miao/clashctl) - CLI for interacting with clash
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -2141,6 +2140,7 @@
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [SnShine/Twitter-to-DayOne](https://github.com/SnShine/Twitter-to-DayOne) - Fetches all your tweets of the day and makes a DayOne entry.
+- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [haiwen/seafile-server-installer](https://github.com/haiwen/seafile-server-installer) - Script collection to setup production-ready Seafile server installations with HTTPS
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
@@ -2273,6 +2273,7 @@
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [limecloud/lime](https://github.com/limecloud/lime) - AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 - [erbanku/folder-alias-enhanced](https://github.com/erbanku/folder-alias-enhanced) - Further enhancements for personal needs
 - [Peaceful-World-X/folder-alias-fixed](https://github.com/Peaceful-World-X/folder-alias-fixed) - 配置文件放在.vscode；兼容显示git的记录
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
