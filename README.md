@@ -869,6 +869,7 @@
 - [AleksiKnuutila/nlp-highlight](https://github.com/AleksiKnuutila/nlp-highlight) - Semantic highlighting of natural language for readability
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [Robpayot/glowing-tree](https://github.com/Robpayot/glowing-tree) - Three.js tree experiment
+- [Serendipity-Theme/vs-code](https://github.com/Serendipity-Theme/vs-code) - Relaxed, gentle and modern.
 - [OBKoro1/web-basics](https://github.com/OBKoro1/web-basics) - 大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -1306,7 +1307,6 @@
 - [Infatuation-Fei/rule](https://github.com/Infatuation-Fei/rule) - 自用规则
 - [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [Serendipity-Theme/windows-terminal](https://github.com/Serendipity-Theme/windows-terminal) - Serendipity theme ported to windows terminal.
-- [Serendipity-Theme/vs-code](https://github.com/Serendipity-Theme/vs-code) - Relaxed, gentle and modern.
 - [Serendipity-Theme/template-for-repositories](https://github.com/Serendipity-Theme/template-for-repositories) - template for ported themes
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [xuehu54321/awesome-music-for-programming](https://github.com/xuehu54321/awesome-music-for-programming) - Awesome music for programming. 编程时的好听音乐，一起来分享你在编程时听的音乐！
