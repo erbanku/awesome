@@ -5,6 +5,9 @@
 
 ## Contents
 
+<details>
+<summary><strong>Click to expand table of contents</strong></summary>
+
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
@@ -82,6 +85,8 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
+
+</details>
 
 <details>
 <summary><strong>Adblock Filter List</strong></summary>
@@ -194,7 +199,7 @@
 </details>
 
 <details>
-<summary><strong>C# #</strong></summary>
+<summary><strong>C#</strong></summary>
 
 
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed a
