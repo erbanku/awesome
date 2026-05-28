@@ -5,6 +5,9 @@
 
 ## Contents
 
+<details>
+<summary><strong>Click to expand table of contents (2496 categories)</strong></summary>
+
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
@@ -83,26 +86,50 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## Adblock Filter List 
+</details>
+
+<details>
+<summary><strong>Adblock Filter List</strong></summary>
+
 
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 
-## Astro 
+
+</details>
+
+<details>
+<summary><strong>Astro</strong></summary>
+
 
 - [fraserxu/fraserxu.dev](https://github.com/fraserxu/fraserxu.dev) - My new personal sites
 
-## AutoHotkey 
+
+</details>
+
+<details>
+<summary><strong>AutoHotkey</strong></summary>
+
 
 - [raeleus/AHK-Macro-Recorder](https://github.com/raeleus/AHK-Macro-Recorder) - An AutoHotkey script that allows you to record macros
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
 
-## AutoIt 
+
+</details>
+
+<details>
+<summary><strong>AutoIt</strong></summary>
+
 
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
-## Batchfile 
+
+</details>
+
+<details>
+<summary><strong>Batchfile</strong></summary>
+
 
 - [K3V1991/APK-Bundle-Installer](https://github.com/K3V1991/APK-Bundle-Installer) - Batch Script that allow you to install APK Bundles/Split APKs
 - [erbanku/cactusium-win](https://github.com/erbanku/cactusium-win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
@@ -111,12 +138,22 @@
 - [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 - [erbanku/custom-search-engines](https://github.com/erbanku/custom-search-engines) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 
-## Blade 
+
+</details>
+
+<details>
+<summary><strong>Blade</strong></summary>
+
 
 - [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [Qoraiche/laravel-mail-editor](https://github.com/Qoraiche/laravel-mail-editor) - MailEclipse :zap: Laravel Mail Editor
 
-## C 
+
+</details>
+
+<details>
+<summary><strong>C</strong></summary>
+
 
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -158,7 +195,12 @@
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
-## C# # 
+
+</details>
+
+<details>
+<summary><strong>C#</strong></summary>
+
 
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed a
 - [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
@@ -221,7 +263,12 @@
 - [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) - GUI for AV1 (aomenc, rav1e & svt-av1)
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
 
-## C++ 
+
+</details>
+
+<details>
+<summary><strong>C++</strong></summary>
+
 
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -284,7 +331,12 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
-## CSS 
+
+</details>
+
+<details>
+<summary><strong>CSS</strong></summary>
+
 
 - [Fevol/starlight-theme-obsidian](https://github.com/Fevol/starlight-theme-obsidian) - Starlight theme inspired by the style of Obsidian Publish sites
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
@@ -330,29 +382,59 @@
 - [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
 - [treehollow/thuhole-index](https://github.com/treehollow/thuhole-index) - 
 
-## Clojure 
+
+</details>
+
+<details>
+<summary><strong>Clojure</strong></summary>
+
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
-## CodeQL 
+
+</details>
+
+<details>
+<summary><strong>CodeQL</strong></summary>
+
 
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
-## Common Lisp 
+
+</details>
+
+<details>
+<summary><strong>Common Lisp</strong></summary>
+
 
 - [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 
-## Crystal 
+
+</details>
+
+<details>
+<summary><strong>Crystal</strong></summary>
+
 
 - [phil294/AHK_X11](https://github.com/phil294/AHK_X11) - AutoHotkey for Linux (X11-based systems)
 
-## D 
+
+</details>
+
+<details>
+<summary><strong>D</strong></summary>
+
 
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
-## Dart 
+
+</details>
+
+<details>
+<summary><strong>Dart</strong></summary>
+
 
 - [AprDeci/bili-music](https://github.com/AprDeci/bili-music) - 全平台B站源的音乐app
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
@@ -370,7 +452,12 @@
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 
-## Dockerfile 
+
+</details>
+
+<details>
+<summary><strong>Dockerfile</strong></summary>
+
 
 - [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
@@ -378,27 +465,57 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
-## EJS 
+
+</details>
+
+<details>
+<summary><strong>EJS</strong></summary>
+
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
-## Elm 
+
+</details>
+
+<details>
+<summary><strong>Elm</strong></summary>
+
 
 - [hilverd/glossary-page-template](https://github.com/hilverd/glossary-page-template) - A single HTML page with a built-in editor for creating a glossary that can be hosted anywhere.
 
-## Erlang 
+
+</details>
+
+<details>
+<summary><strong>Erlang</strong></summary>
+
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 
-## Fluent 
+
+</details>
+
+<details>
+<summary><strong>Fluent</strong></summary>
+
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-## GDScript 
+
+</details>
+
+<details>
+<summary><strong>GDScript</strong></summary>
+
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
-## Go 
+
+</details>
+
+<details>
+<summary><strong>Go</strong></summary>
+
 
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [mamamiyear/SnapGo](https://github.com/mamamiyear/SnapGo) - 
@@ -561,17 +678,32 @@
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
-## Go Template 
+
+</details>
+
+<details>
+<summary><strong>Go Template</strong></summary>
+
 
 - [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 652 个。
 - [BorisPolonsky/dify-helm](https://github.com/BorisPolonsky/dify-helm) - Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.
 
-## HCL 
+
+</details>
+
+<details>
+<summary><strong>HCL</strong></summary>
+
 
 - [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
-## HTML 
+
+</details>
+
+<details>
+<summary><strong>HTML</strong></summary>
+
 
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill) - logo-generator-skill
@@ -651,25 +783,50 @@
 - [renzhezhilu/img2color-online](https://github.com/renzhezhilu/img2color-online) - 在线图片配色提取 测试中...
 - [UmeLabs/node.umelabs.dev](https://github.com/UmeLabs/node.umelabs.dev) - 每天24:00点前更新免费SS/SSR节点
 
-## Hack 
+
+</details>
+
+<details>
+<summary><strong>Hack</strong></summary>
+
 
 - [slan-ning/coolshell-markdown](https://github.com/slan-ning/coolshell-markdown) - coolshell.cn markdown version archive
 
-## Haskell 
+
+</details>
+
+<details>
+<summary><strong>Haskell</strong></summary>
+
 
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [asvyazin/imgbb-telegram-bot](https://github.com/asvyazin/imgbb-telegram-bot) - Telegram bot for autouploading images to imgbb
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
-## Haxe 
+
+</details>
+
+<details>
+<summary><strong>Haxe</strong></summary>
+
 
 - [saharan/works](https://github.com/saharan/works) - The code of several works on oimo.io/works
 
-## Imba 
+
+</details>
+
+<details>
+<summary><strong>Imba</strong></summary>
+
 
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your ChatGPT, Claude, Perplexity and Phind conversations into markdown files. ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store!
 
-## Java 
+
+</details>
+
+<details>
+<summary><strong>Java</strong></summary>
+
 
 - [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
 - [inulute/medium-unlocker](https://github.com/inulute/medium-unlocker) - Medium Unlocker is an android app designed to access Medium articles without any paywalls.
@@ -695,7 +852,12 @@
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
-## JavaScript 
+
+</details>
+
+<details>
+<summary><strong>JavaScript</strong></summary>
+
 
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export) - 
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
@@ -1001,15 +1163,30 @@
 - [treehollow/webhole](https://github.com/treehollow/webhole) - THU Hole react frontend
 - [xmcp/webhole](https://github.com/xmcp/webhole) - Hole react frontend
 
-## Jinja 
+
+</details>
+
+<details>
+<summary><strong>Jinja</strong></summary>
+
 
 - [yunionio/ocboot](https://github.com/yunionio/ocboot) - Installation and setup tool of Cloudpods
 
-## Julia 
+
+</details>
+
+<details>
+<summary><strong>Julia</strong></summary>
+
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
-## Jupyter Notebook 
+
+</details>
+
+<details>
+<summary><strong>Jupyter Notebook</strong></summary>
+
 
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
 - [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed version at https://github.com/pageman/suts
@@ -1057,7 +1234,12 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
-## Kotlin 
+
+</details>
+
+<details>
+<summary><strong>Kotlin</strong></summary>
+
 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -1080,11 +1262,21 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
 
-## LLVM 
+
+</details>
+
+<details>
+<summary><strong>LLVM</strong></summary>
+
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-## Lua 
+
+</details>
+
+<details>
+<summary><strong>Lua</strong></summary>
+
 
 - [orbitalquark/textadept](https://github.com/orbitalquark/textadept) - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
@@ -1096,11 +1288,21 @@
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) - plugin to auto-centre neovim buffers with a useful persistent scratchpad on the side
 
-## MATLAB 
+
+</details>
+
+<details>
+<summary><strong>MATLAB</strong></summary>
+
 
 - [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 
-## MDX 
+
+</details>
+
+<details>
+<summary><strong>MDX</strong></summary>
+
 
 - [langgenius/dify-docs](https://github.com/langgenius/dify-docs) - 
 - [himanshu864/Obsidian-Publish](https://github.com/himanshu864/Obsidian-Publish) - Official Obsidian-Publish was paid, so had to make one myself.
@@ -1112,12 +1314,22 @@
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
-## Makefile 
+
+</details>
+
+<details>
+<summary><strong>Makefile</strong></summary>
+
 
 - [Ewenwan/Ros](https://github.com/Ewenwan/Ros) - 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
-## Markdown 
+
+</details>
+
+<details>
+<summary><strong>Markdown</strong></summary>
+
 
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
@@ -1127,19 +1339,39 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
-## Mermaid 
+
+</details>
+
+<details>
+<summary><strong>Mermaid</strong></summary>
+
 
 - [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
 
-## Meson 
+
+</details>
+
+<details>
+<summary><strong>Meson</strong></summary>
+
 
 - [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
 
-## Objective-C 
+
+</details>
+
+<details>
+<summary><strong>Objective-C</strong></summary>
+
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
-## Others 
+
+</details>
+
+<details>
+<summary><strong>Others</strong></summary>
+
 
 - [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 
 - [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.
@@ -1411,7 +1643,12 @@
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 
-## PHP 
+
+</details>
+
+<details>
+<summary><strong>PHP</strong></summary>
+
 
 - [easychen/opc-methodology](https://github.com/easychen/opc-methodology) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
@@ -1444,29 +1681,59 @@
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
 
-## PLpgSQL 
+
+</details>
+
+<details>
+<summary><strong>PLpgSQL</strong></summary>
+
 
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 
-## Pascal 
+
+</details>
+
+<details>
+<summary><strong>Pascal</strong></summary>
+
 
 - [tarcode-apps/BatteryMode](https://github.com/tarcode-apps/BatteryMode) - Windows Battery Indicator replacement
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [sashaoli/GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray. Управління локальним сервером Gitea з трею.
 
-## Pawn 
+
+</details>
+
+<details>
+<summary><strong>Pawn</strong></summary>
+
 
 - [gfw-report/ndss25-wallbleed](https://github.com/gfw-report/ndss25-wallbleed) - This repo includes the artifacts for the NDSS 2025 paper "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China": https://gfw.report/publications/ndss25/en/
 
-## Perl 
+
+</details>
+
+<details>
+<summary><strong>Perl</strong></summary>
+
 
 - [linode/longview](https://github.com/linode/longview) - Linode Longview Agent
 
-## PostScript 
+
+</details>
+
+<details>
+<summary><strong>PostScript</strong></summary>
+
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
-## PowerShell 
+
+</details>
+
+<details>
+<summary><strong>PowerShell</strong></summary>
+
 
 - [kurokobo/psdify](https://github.com/kurokobo/psdify) - PSDify: A PowerShell module for workspace management for Dify, featuring various cmdlets for managing Apps, Knowledges, Models, and Members, etc.
 - [RedAndBlueEraser/rdp-file-password-encryptor](https://github.com/RedAndBlueEraser/rdp-file-password-encryptor) - A PowerShell script to encrypt plain text passwords into byte streams that can be embedded into RDP files for auto logon.
@@ -1479,7 +1746,12 @@
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
 
-## Python 
+
+</details>
+
+<details>
+<summary><strong>Python</strong></summary>
+
 
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
@@ -1911,23 +2183,48 @@
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [dylanyang17/TsinghuaBookCrawler](https://github.com/dylanyang17/TsinghuaBookCrawler) - 清华教参平台爬虫
 
-## QML 
+
+</details>
+
+<details>
+<summary><strong>QML</strong></summary>
+
 
 - [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) - 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.
 
-## R 
+
+</details>
+
+<details>
+<summary><strong>R</strong></summary>
+
 
 - [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 
-## Rich Text Format 
+
+</details>
+
+<details>
+<summary><strong>Rich Text Format</strong></summary>
+
 
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 
-## Roff 
+
+</details>
+
+<details>
+<summary><strong>Roff</strong></summary>
+
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
-## Ruby 
+
+</details>
+
+<details>
+<summary><strong>Ruby</strong></summary>
+
 
 - [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) - The most Token-efficient open-source AI Agent
 - [enactic/openarm_hardware](https://github.com/enactic/openarm_hardware) - OpenArm CAD data and information for manufacturing
@@ -1943,7 +2240,12 @@
 - [IgnoredAmbience/github-gitlab-sync](https://github.com/IgnoredAmbience/github-gitlab-sync) - Continuous repository synchroniser between GitHub and GitLab
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
-## Rust 
+
+</details>
+
+<details>
+<summary><strong>Rust</strong></summary>
+
 
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
@@ -2034,7 +2336,12 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 
-## SCSS 
+
+</details>
+
+<details>
+<summary><strong>SCSS</strong></summary>
+
 
 - [Gonzalo-D-Sales/obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
@@ -2043,12 +2350,22 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
-## SVG 
+
+</details>
+
+<details>
+<summary><strong>SVG</strong></summary>
+
 
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
-## Shell 
+
+</details>
+
+<details>
+<summary><strong>Shell</strong></summary>
+
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
@@ -2153,15 +2470,30 @@
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
 
-## Standard ML 
+
+</details>
+
+<details>
+<summary><strong>Standard ML</strong></summary>
+
 
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
 
-## Stylus 
+
+</details>
+
+<details>
+<summary><strong>Stylus</strong></summary>
+
 
 - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing.
 
-## Svelte 
+
+</details>
+
+<details>
+<summary><strong>Svelte</strong></summary>
+
 
 - [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 - [K-Sato1995/focus-sounds](https://github.com/K-Sato1995/focus-sounds) - Productivity site built with svelte-kit.  You can listen to ambient sounds to help u focus👨‍💻👨‍💻
@@ -2172,7 +2504,12 @@
 - [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - URL Link Catalog, lightweight multi-user cloud bookmark app running on serverless platform, made for speed and easy-to-use
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
-## Swift 
+
+</details>
+
+<details>
+<summary><strong>Swift</strong></summary>
+
 
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
@@ -2187,7 +2524,12 @@
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
-## TeX 
+
+</details>
+
+<details>
+<summary><strong>TeX</strong></summary>
+
 
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [LittleNewton/Replace_MathType](https://github.com/LittleNewton/Replace_MathType) - 提供一个基于Microsoft Office 365的数学公式替代方案
@@ -2205,11 +2547,21 @@
 - [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
-## Text 
+
+</details>
+
+<details>
+<summary><strong>Text</strong></summary>
+
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
-## TypeScript 
+
+</details>
+
+<details>
+<summary><strong>TypeScript</strong></summary>
+
 
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into colle
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
@@ -2652,20 +3004,40 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 
-## VBA 
+
+</details>
+
+<details>
+<summary><strong>VBA</strong></summary>
+
 
 - [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in to insert LaTeX equations into PowerPoint presentations on Windows and Mac
 
-## VBScript 
+
+</details>
+
+<details>
+<summary><strong>VBScript</strong></summary>
+
 
 - [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 ssl证书签发 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 
-## Vala 
+
+</details>
+
+<details>
+<summary><strong>Vala</strong></summary>
+
 
 - [birros/web-archives](https://github.com/birros/web-archives) - A web archives reader
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 
-## Vim Script 
+
+</details>
+
+<details>
+<summary><strong>Vim Script</strong></summary>
+
 
 - [int32bit/dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) - P站（Pixiv）的正确打开方式
@@ -2677,12 +3049,22 @@
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
-## Visual Basic .NET 
+
+</details>
+
+<details>
+<summary><strong>Visual Basic .NET</strong></summary>
+
 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
-## Vue 
+
+</details>
+
+<details>
+<summary><strong>Vue</strong></summary>
+
 
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [Ackites/hidden-word](https://github.com/Ackites/hidden-word) - A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.
@@ -2725,7 +3107,12 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
 
-## Zig 
+
+</details>
+
+<details>
+<summary><strong>Zig</strong></summary>
+
 
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
@@ -2733,6 +3120,9 @@
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - A CLI tool to switch and manage Codex accounts
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
+
+
+</details>
 
 ## License
 
