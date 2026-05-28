@@ -6,7 +6,7 @@
 ## Contents
 
 <details>
-<summary><strong>Click to expand table of contents</strong></summary>
+<summary><strong>Click to expand table of contents (2496 categories)</strong></summary>
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
