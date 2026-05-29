@@ -5,9 +5,6 @@
 
 ## Contents
 
-<details>
-<summary><strong>Click to expand table of contents (2496 categories)</strong></summary>
-
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
@@ -86,50 +83,26 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-</details>
-
-<details>
-<summary><strong>Adblock Filter List</strong></summary>
-
+## Adblock Filter List 
 
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 
-
-</details>
-
-<details>
-<summary><strong>Astro</strong></summary>
-
+## Astro 
 
 - [fraserxu/fraserxu.dev](https://github.com/fraserxu/fraserxu.dev) - My new personal sites
 
-
-</details>
-
-<details>
-<summary><strong>AutoHotkey</strong></summary>
-
+## AutoHotkey 
 
 - [raeleus/AHK-Macro-Recorder](https://github.com/raeleus/AHK-Macro-Recorder) - An AutoHotkey script that allows you to record macros
 - [marius-sucan/KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desk
 - [AutoHotkey/Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) - Official AutoHotkey script compiler - written itself in AutoHotkey
 
-
-</details>
-
-<details>
-<summary><strong>AutoIt</strong></summary>
-
+## AutoIt 
 
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
-
-</details>
-
-<details>
-<summary><strong>Batchfile</strong></summary>
-
+## Batchfile 
 
 - [K3V1991/APK-Bundle-Installer](https://github.com/K3V1991/APK-Bundle-Installer) - Batch Script that allow you to install APK Bundles/Split APKs
 - [erbanku/cactusium-win](https://github.com/erbanku/cactusium-win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
@@ -138,23 +111,14 @@
 - [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 - [erbanku/custom-search-engines](https://github.com/erbanku/custom-search-engines) - Import/Export Google Chrome or Microsoft Edge's custom search engines and sync (overwrite) between 2 browsers.
 
-
-</details>
-
-<details>
-<summary><strong>Blade</strong></summary>
-
+## Blade 
 
 - [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [Qoraiche/laravel-mail-editor](https://github.com/Qoraiche/laravel-mail-editor) - MailEclipse :zap: Laravel Mail Editor
 
+## C 
 
-</details>
-
-<details>
-<summary><strong>C</strong></summary>
-
-
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -195,12 +159,7 @@
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
-
-</details>
-
-<details>
-<summary><strong>C#</strong></summary>
-
+## C# # 
 
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed a
 - [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
@@ -263,12 +222,7 @@
 - [Alkl58/NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) - GUI for AV1 (aomenc, rav1e & svt-av1)
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
 
-
-</details>
-
-<details>
-<summary><strong>C++</strong></summary>
-
+## C++ 
 
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -331,12 +285,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
-
-</details>
-
-<details>
-<summary><strong>CSS</strong></summary>
-
+## CSS 
 
 - [Fevol/starlight-theme-obsidian](https://github.com/Fevol/starlight-theme-obsidian) - Starlight theme inspired by the style of Obsidian Publish sites
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
@@ -382,59 +331,29 @@
 - [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
 - [treehollow/thuhole-index](https://github.com/treehollow/thuhole-index) - 
 
-
-</details>
-
-<details>
-<summary><strong>Clojure</strong></summary>
-
+## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
-
-</details>
-
-<details>
-<summary><strong>CodeQL</strong></summary>
-
+## CodeQL 
 
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
-
-</details>
-
-<details>
-<summary><strong>Common Lisp</strong></summary>
-
+## Common Lisp 
 
 - [susam/mathb](https://github.com/susam/mathb) - Mathematics pastebin software that powered MathB.in from 2012 to 2025
 
-
-</details>
-
-<details>
-<summary><strong>Crystal</strong></summary>
-
+## Crystal 
 
 - [phil294/AHK_X11](https://github.com/phil294/AHK_X11) - AutoHotkey for Linux (X11-based systems)
 
-
-</details>
-
-<details>
-<summary><strong>D</strong></summary>
-
+## D 
 
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
-
-</details>
-
-<details>
-<summary><strong>Dart</strong></summary>
-
+## Dart 
 
 - [AprDeci/bili-music](https://github.com/AprDeci/bili-music) - 全平台B站源的音乐app
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
@@ -452,12 +371,7 @@
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 
-
-</details>
-
-<details>
-<summary><strong>Dockerfile</strong></summary>
-
+## Dockerfile 
 
 - [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
@@ -465,58 +379,29 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
-
-</details>
-
-<details>
-<summary><strong>EJS</strong></summary>
-
+## EJS 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
-
-</details>
-
-<details>
-<summary><strong>Elm</strong></summary>
-
+## Elm 
 
 - [hilverd/glossary-page-template](https://github.com/hilverd/glossary-page-template) - A single HTML page with a built-in editor for creating a glossary that can be hosted anywhere.
 
-
-</details>
-
-<details>
-<summary><strong>Erlang</strong></summary>
-
+## Erlang 
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 
-
-</details>
-
-<details>
-<summary><strong>Fluent</strong></summary>
-
+## Fluent 
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-
-</details>
-
-<details>
-<summary><strong>GDScript</strong></summary>
-
+## GDScript 
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
+## Go 
 
-</details>
-
-<details>
-<summary><strong>Go</strong></summary>
-
-
+- [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [mamamiyear/SnapGo](https://github.com/mamamiyear/SnapGo) - 
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
@@ -678,32 +563,17 @@
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
-
-</details>
-
-<details>
-<summary><strong>Go Template</strong></summary>
-
+## Go Template 
 
 - [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 652 个。
 - [BorisPolonsky/dify-helm](https://github.com/BorisPolonsky/dify-helm) - Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.
 
-
-</details>
-
-<details>
-<summary><strong>HCL</strong></summary>
-
+## HCL 
 
 - [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) - Rust Infrastructure automation
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
-
-</details>
-
-<details>
-<summary><strong>HTML</strong></summary>
-
+## HTML 
 
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill) - logo-generator-skill
@@ -783,50 +653,25 @@
 - [renzhezhilu/img2color-online](https://github.com/renzhezhilu/img2color-online) - 在线图片配色提取 测试中...
 - [UmeLabs/node.umelabs.dev](https://github.com/UmeLabs/node.umelabs.dev) - 每天24:00点前更新免费SS/SSR节点
 
-
-</details>
-
-<details>
-<summary><strong>Hack</strong></summary>
-
+## Hack 
 
 - [slan-ning/coolshell-markdown](https://github.com/slan-ning/coolshell-markdown) - coolshell.cn markdown version archive
 
-
-</details>
-
-<details>
-<summary><strong>Haskell</strong></summary>
-
+## Haskell 
 
 - [mujx/hakatime](https://github.com/mujx/hakatime) - Wakatime server implementation & analytics dashboard
 - [asvyazin/imgbb-telegram-bot](https://github.com/asvyazin/imgbb-telegram-bot) - Telegram bot for autouploading images to imgbb
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
-
-</details>
-
-<details>
-<summary><strong>Haxe</strong></summary>
-
+## Haxe 
 
 - [saharan/works](https://github.com/saharan/works) - The code of several works on oimo.io/works
 
-
-</details>
-
-<details>
-<summary><strong>Imba</strong></summary>
-
+## Imba 
 
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your ChatGPT, Claude, Perplexity and Phind conversations into markdown files. ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store!
 
-
-</details>
-
-<details>
-<summary><strong>Java</strong></summary>
-
+## Java 
 
 - [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
 - [inulute/medium-unlocker](https://github.com/inulute/medium-unlocker) - Medium Unlocker is an android app designed to access Medium articles without any paywalls.
@@ -852,12 +697,7 @@
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
-
-</details>
-
-<details>
-<summary><strong>JavaScript</strong></summary>
-
+## JavaScript 
 
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export) - 
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
@@ -1163,30 +1003,15 @@
 - [treehollow/webhole](https://github.com/treehollow/webhole) - THU Hole react frontend
 - [xmcp/webhole](https://github.com/xmcp/webhole) - Hole react frontend
 
-
-</details>
-
-<details>
-<summary><strong>Jinja</strong></summary>
-
+## Jinja 
 
 - [yunionio/ocboot](https://github.com/yunionio/ocboot) - Installation and setup tool of Cloudpods
 
-
-</details>
-
-<details>
-<summary><strong>Julia</strong></summary>
-
+## Julia 
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
-
-</details>
-
-<details>
-<summary><strong>Jupyter Notebook</strong></summary>
-
+## Jupyter Notebook 
 
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
 - [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed version at https://github.com/pageman/suts
@@ -1234,12 +1059,7 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
-
-</details>
-
-<details>
-<summary><strong>Kotlin</strong></summary>
-
+## Kotlin 
 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -1262,21 +1082,11 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fan123199/v2ex-simple](https://github.com/fan123199/v2ex-simple) - A simple 3rd-party  Android app for v2ex
 
-
-</details>
-
-<details>
-<summary><strong>LLVM</strong></summary>
-
+## LLVM 
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-
-</details>
-
-<details>
-<summary><strong>Lua</strong></summary>
-
+## Lua 
 
 - [orbitalquark/textadept](https://github.com/orbitalquark/textadept) - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
@@ -1288,21 +1098,11 @@
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) - plugin to auto-centre neovim buffers with a useful persistent scratchpad on the side
 
-
-</details>
-
-<details>
-<summary><strong>MATLAB</strong></summary>
-
+## MATLAB 
 
 - [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 
-
-</details>
-
-<details>
-<summary><strong>MDX</strong></summary>
-
+## MDX 
 
 - [langgenius/dify-docs](https://github.com/langgenius/dify-docs) - 
 - [himanshu864/Obsidian-Publish](https://github.com/himanshu864/Obsidian-Publish) - Official Obsidian-Publish was paid, so had to make one myself.
@@ -1314,22 +1114,12 @@
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
-
-</details>
-
-<details>
-<summary><strong>Makefile</strong></summary>
-
+## Makefile 
 
 - [Ewenwan/Ros](https://github.com/Ewenwan/Ros) - 机器人操作系统ROS  语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
-
-</details>
-
-<details>
-<summary><strong>Markdown</strong></summary>
-
+## Markdown 
 
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
@@ -1339,39 +1129,19 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
-
-</details>
-
-<details>
-<summary><strong>Mermaid</strong></summary>
-
+## Mermaid 
 
 - [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
 
-
-</details>
-
-<details>
-<summary><strong>Meson</strong></summary>
-
+## Meson 
 
 - [elementary/wallpapers](https://github.com/elementary/wallpapers) - Collection of wallpapers for elementary OS
 
-
-</details>
-
-<details>
-<summary><strong>Objective-C</strong></summary>
-
+## Objective-C 
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
-
-</details>
-
-<details>
-<summary><strong>Others</strong></summary>
-
+## Others 
 
 - [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 
 - [referodesign/refero_skill](https://github.com/referodesign/refero_skill) - Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.
@@ -1424,7 +1194,6 @@
 - [majinqiawa/xxn](https://github.com/majinqiawa/xxn) - 非正常人类研究中心 存储中国大陆各类非正常女性所为的非正常案件，欢迎补充
 - [krishnr/MATLAB-cheat-sheet](https://github.com/krishnr/MATLAB-cheat-sheet) - Quick reference sheet for MATLAB
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
-- [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -1643,12 +1412,7 @@
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 
-
-</details>
-
-<details>
-<summary><strong>PHP</strong></summary>
-
+## PHP 
 
 - [easychen/opc-methodology](https://github.com/easychen/opc-methodology) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
@@ -1681,59 +1445,29 @@
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [jimmielin/the-light](https://github.com/jimmielin/the-light) - The Light powers The Seed.
 
-
-</details>
-
-<details>
-<summary><strong>PLpgSQL</strong></summary>
-
+## PLpgSQL 
 
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 
-
-</details>
-
-<details>
-<summary><strong>Pascal</strong></summary>
-
+## Pascal 
 
 - [tarcode-apps/BatteryMode](https://github.com/tarcode-apps/BatteryMode) - Windows Battery Indicator replacement
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [sashaoli/GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray. Управління локальним сервером Gitea з трею.
 
-
-</details>
-
-<details>
-<summary><strong>Pawn</strong></summary>
-
+## Pawn 
 
 - [gfw-report/ndss25-wallbleed](https://github.com/gfw-report/ndss25-wallbleed) - This repo includes the artifacts for the NDSS 2025 paper "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China": https://gfw.report/publications/ndss25/en/
 
-
-</details>
-
-<details>
-<summary><strong>Perl</strong></summary>
-
+## Perl 
 
 - [linode/longview](https://github.com/linode/longview) - Linode Longview Agent
 
-
-</details>
-
-<details>
-<summary><strong>PostScript</strong></summary>
-
+## PostScript 
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
-
-</details>
-
-<details>
-<summary><strong>PowerShell</strong></summary>
-
+## PowerShell 
 
 - [kurokobo/psdify](https://github.com/kurokobo/psdify) - PSDify: A PowerShell module for workspace management for Dify, featuring various cmdlets for managing Apps, Knowledges, Models, and Members, etc.
 - [RedAndBlueEraser/rdp-file-password-encryptor](https://github.com/RedAndBlueEraser/rdp-file-password-encryptor) - A PowerShell script to encrypt plain text passwords into byte streams that can be embedded into RDP files for auto logon.
@@ -1746,13 +1480,9 @@
 - [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [dracula/powershell](https://github.com/dracula/powershell) - 🧛🏻‍♂️ Dark theme for PowerShell and cmd.exe
 
+## Python 
 
-</details>
-
-<details>
-<summary><strong>Python</strong></summary>
-
-
+- [UdaraJay/tiny-router](https://github.com/UdaraJay/tiny-router) - Compact multi-head text classifier for short, domain-neutral routing decisions.
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
 - [tile-ai/TileRT](https://github.com/tile-ai/TileRT) - Tile-Based Runtime for Ultra-Low-Latency LLM Inference
@@ -2183,48 +1913,23 @@
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [dylanyang17/TsinghuaBookCrawler](https://github.com/dylanyang17/TsinghuaBookCrawler) - 清华教参平台爬虫
 
-
-</details>
-
-<details>
-<summary><strong>QML</strong></summary>
-
+## QML 
 
 - [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) - 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.
 
-
-</details>
-
-<details>
-<summary><strong>R</strong></summary>
-
+## R 
 
 - [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 
-
-</details>
-
-<details>
-<summary><strong>Rich Text Format</strong></summary>
-
+## Rich Text Format 
 
 - [gauravghongde/social-icons](https://github.com/gauravghongde/social-icons) - Collection of SVG & PNG social media icons. Embeddable Social Icons, Use directly on your websites.
 
-
-</details>
-
-<details>
-<summary><strong>Roff</strong></summary>
-
+## Roff 
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
-
-</details>
-
-<details>
-<summary><strong>Ruby</strong></summary>
-
+## Ruby 
 
 - [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) - The most Token-efficient open-source AI Agent
 - [enactic/openarm_hardware](https://github.com/enactic/openarm_hardware) - OpenArm CAD data and information for manufacturing
@@ -2240,13 +1945,10 @@
 - [IgnoredAmbience/github-gitlab-sync](https://github.com/IgnoredAmbience/github-gitlab-sync) - Continuous repository synchroniser between GitHub and GitLab
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
+## Rust 
 
-</details>
-
-<details>
-<summary><strong>Rust</strong></summary>
-
-
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [elliotgao2/handsets](https://github.com/elliotgao2/handsets) - A high-performance Android automation CLI, built for agents and humans
@@ -2336,12 +2038,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 
-
-</details>
-
-<details>
-<summary><strong>SCSS</strong></summary>
-
+## SCSS 
 
 - [Gonzalo-D-Sales/obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
@@ -2350,28 +2047,18 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
-
-</details>
-
-<details>
-<summary><strong>SVG</strong></summary>
-
+## SVG 
 
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
-
-</details>
-
-<details>
-<summary><strong>Shell</strong></summary>
-
+## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
-- [chatgptprojects/clear-code](https://github.com/chatgptprojects/clear-code) - See your claude code logs in clear details in your dashboard
+- [Leanmcp/superview.sh](https://github.com/Leanmcp/superview.sh) - See your claude code logs in clear details in your dashboard
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address
 - [clouvet/sprite-mobile](https://github.com/clouvet/sprite-mobile) - A PWA chat UI for accessing Claude Code on a Sprite
@@ -2470,30 +2157,15 @@
 - [ludovicchabant/Chrome-Search-Engine-Sync](https://github.com/ludovicchabant/Chrome-Search-Engine-Sync) - Some simple scripts for exporting/importing Google Chrome's search engine preferences.
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
 
-
-</details>
-
-<details>
-<summary><strong>Standard ML</strong></summary>
-
+## Standard ML 
 
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
 
-
-</details>
-
-<details>
-<summary><strong>Stylus</strong></summary>
-
+## Stylus 
 
 - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing.
 
-
-</details>
-
-<details>
-<summary><strong>Svelte</strong></summary>
-
+## Svelte 
 
 - [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 - [K-Sato1995/focus-sounds](https://github.com/K-Sato1995/focus-sounds) - Productivity site built with svelte-kit.  You can listen to ambient sounds to help u focus👨‍💻👨‍💻
@@ -2504,12 +2176,7 @@
 - [cxumol/URLinkCat](https://github.com/cxumol/URLinkCat) - URL Link Catalog, lightweight multi-user cloud bookmark app running on serverless platform, made for speed and easy-to-use
 - [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
-
-</details>
-
-<details>
-<summary><strong>Swift</strong></summary>
-
+## Swift 
 
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
@@ -2524,12 +2191,7 @@
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
-
-</details>
-
-<details>
-<summary><strong>TeX</strong></summary>
-
+## TeX 
 
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [LittleNewton/Replace_MathType](https://github.com/LittleNewton/Replace_MathType) - 提供一个基于Microsoft Office 365的数学公式替代方案
@@ -2547,22 +2209,15 @@
 - [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
-
-</details>
-
-<details>
-<summary><strong>Text</strong></summary>
-
+## Text 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
+## TypeScript 
 
-</details>
-
-<details>
-<summary><strong>TypeScript</strong></summary>
-
-
+- [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
+- [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
+- [RyanLisse/mercury2-showcase](https://github.com/RyanLisse/mercury2-showcase) - Mercury 2 by Inception Labs — Showcase app with ai-elements, Vercel AI SDK, and streaming chat. Diffusion-based LLM generating ~1000 tokens/sec.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into colle
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [Emanuele-web04/dpcode](https://github.com/Emanuele-web04/dpcode) - The best place to build with your AI sub
@@ -2587,7 +2242,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [gsscsd/big_model_radar](https://github.com/gsscsd/big_model_radar) - 
 - [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto) - kiro自动注册机
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
 - [better-auth/better-hub](https://github.com/better-auth/better-hub) - Re-imagining code collaboration for humans and agents
@@ -3004,40 +2659,20 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 
-
-</details>
-
-<details>
-<summary><strong>VBA</strong></summary>
-
+## VBA 
 
 - [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in to insert LaTeX equations into PowerPoint presentations on Windows and Mac
 
-
-</details>
-
-<details>
-<summary><strong>VBScript</strong></summary>
-
+## VBScript 
 
 - [bugfan/i996](https://github.com/bugfan/i996) - 免费 免搭建 免安装 内网穿透 ssl证书签发 远程办公 居家办公工具 方便调试微信小程序(客户端无需安装任何程序拿来即用) 类似于natapp ngrok
 
-
-</details>
-
-<details>
-<summary><strong>Vala</strong></summary>
-
+## Vala 
 
 - [birros/web-archives](https://github.com/birros/web-archives) - A web archives reader
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 
-
-</details>
-
-<details>
-<summary><strong>Vim Script</strong></summary>
-
+## Vim Script 
 
 - [int32bit/dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) - P站（Pixiv）的正确打开方式
@@ -3049,22 +2684,12 @@
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
-
-</details>
-
-<details>
-<summary><strong>Visual Basic .NET</strong></summary>
-
+## Visual Basic .NET 
 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
-
-</details>
-
-<details>
-<summary><strong>Vue</strong></summary>
-
+## Vue 
 
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [Ackites/hidden-word](https://github.com/Ackites/hidden-word) - A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.
@@ -3107,12 +2732,7 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
 
-
-</details>
-
-<details>
-<summary><strong>Zig</strong></summary>
-
+## Zig 
 
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
@@ -3120,9 +2740,6 @@
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - A CLI tool to switch and manage Codex accounts
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
-
-
-</details>
 
 ## License
 
