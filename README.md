@@ -1484,6 +1484,9 @@
 
 ## Python 
 
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [erbanku/stars](https://github.com/erbanku/stars) - GitHub stars grouped by month
 - [erbanku/action-stars-next](https://github.com/erbanku/action-stars-next) - GitHub Action to generate starred repositories README grouped by month
 - [UdaraJay/tiny-router](https://github.com/UdaraJay/tiny-router) - Compact multi-head text classifier for short, domain-neutral routing decisions.
