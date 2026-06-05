@@ -160,6 +160,7 @@
 
 ## C# # 
 
+- [Villoh/tunnel-agent](https://github.com/Villoh/tunnel-agent) - Use your OAuth subscriptions or API keys in any coding agent, Factory Droid, Cursor, and more. Tunnel Agent handles provider authentication and routes requests through CLIProxyAPI.
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed a
 - [jindongjie/SoftwareCopyrightSourceCodeCollector](https://github.com/jindongjie/SoftwareCopyrightSourceCodeCollector) - 跨平台中国软件著作权源代码收集器 （GUI图形界面/ 软著自动收集 / 60页源码 / 自动生成 World文档）
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -2186,6 +2187,7 @@
 
 ## Swift 
 
+- [Neighbor-Z/DiskIcicle](https://github.com/Neighbor-Z/DiskIcicle) - (Maybe) the first disk usage visualizer for iOS. (and macOS support)
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
