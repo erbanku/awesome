@@ -1330,7 +1330,7 @@
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
 - [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [axipo/TrafficBlackhole](https://github.com/axipo/TrafficBlackhole) - network quality & proxy service bench
 - [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
@@ -1485,6 +1485,7 @@
 
 ## Python 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [xiangruiai/vantasma-toolkit](https://github.com/xiangruiai/vantasma-toolkit) - 万涂幻象社区工具合集 · 仅供个人学习使用
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
