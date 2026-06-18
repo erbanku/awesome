@@ -1197,7 +1197,6 @@
 - [KaWaIDeSuNe/xingjiabijichang](https://github.com/KaWaIDeSuNe/xingjiabijichang) - 2026性价比机场推荐VPN、翻墙🚀推荐稳定性高，适合各类人需求的机场
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
-- [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
 - [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
 - [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
