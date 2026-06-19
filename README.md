@@ -708,7 +708,6 @@
 
 - [DullJZ/bashupload-r2](https://github.com/DullJZ/bashupload-r2) - Use CF Worker & R2 to set your own fast file transit station, and simply upload from bash. Support password for upload and download. Support setting file lifetime.用CF Worker和R2来建立自己的快捷文件中转站，使用终端轻松上传。支
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [erbanku/dify-workflow-batch-export](https://github.com/erbanku/dify-workflow-batch-export) - 
 - [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs
@@ -2080,6 +2079,7 @@
 ## Shell 
 
 - [DullJZ/gh-backup](https://github.com/DullJZ/gh-backup) - 使用Actions每天自动备份GitHub仓库到Gitea/Gitlab
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
