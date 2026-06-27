@@ -405,6 +405,7 @@
 
 ## Go 
 
+- [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw) - Multi-Agent Framework
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [sumingcheng/tido](https://github.com/sumingcheng/tido) - Persistent task memory for AI agents — MCP-native, multi-agent safe, single binary.
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
@@ -708,6 +709,7 @@
 
 ## JavaScript 
 
+- [666OS/YYDS](https://github.com/666OS/YYDS) - 简单拿捏了🤌
 - [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 - [kadevin/ilab-gpt-conjure](https://github.com/kadevin/ilab-gpt-conjure) - 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-
 - [DullJZ/bashupload-r2](https://github.com/DullJZ/bashupload-r2) - Use CF Worker & R2 to set your own fast file transit station, and simply upload from bash. Support password for upload and download. Support setting file lifetime.用CF Worker和R2来建立自己的快捷文件中转站，使用终端轻松上传。支
@@ -1156,6 +1158,7 @@
 
 ## Others 
 
+- [666OS/rules](https://github.com/666OS/rules) - 
 - [lcmomo/my-anti-distill](https://github.com/lcmomo/my-anti-distill) - fork: leilei926524-tech anti-distill : 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [kokisanai/anti-anthropic](https://github.com/kokisanai/anti-anthropic) - Codex skill for finding startup opportunities in Anthropic-style AI platform backlash.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -1499,6 +1502,7 @@
 
 ## Python 
 
+- [yinshaojun001/projectbrain](https://github.com/yinshaojun001/projectbrain) - 为 AI 编程智能体提供本地项目记忆层 | Project memory layer for AI coding agents
 - [jd-opensource/JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction) - 
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [hermesonehq/hermes-registry](https://github.com/hermesonehq/hermes-registry) - 
@@ -1848,7 +1852,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
 - [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 565 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 566 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skylark36/Rules](https://github.com/skylark36/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
