@@ -590,7 +590,7 @@
 - [DEKVIW/prompt-manager](https://github.com/DEKVIW/prompt-manager) - 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Error page generator that brings premium downtime experience to your website. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [sili-math/sili-math.github.io](https://github.com/sili-math/sili-math.github.io) - 
 - [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
@@ -1985,6 +1985,7 @@
 - [hlf20010508/telegram-onedrive](https://github.com/hlf20010508/telegram-onedrive) - A Telegram Bot to transfer files to OneDrive. No file size limitation. Restricted content supported. Doesn't occupy local space.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
@@ -2265,7 +2266,6 @@
 - [RobertTLange/headless-cli](https://github.com/RobertTLange/headless-cli) - One unified CLI for headless coding agent execution 🤖
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
-- [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
 - [RyanLisse/mercury2-showcase](https://github.com/RyanLisse/mercury2-showcase) - Mercury 2 by Inception Labs — Showcase app with ai-elements, Vercel AI SDK, and streaming chat. Diffusion-based LLM generating ~1000 tokens/sec.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into colle
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
