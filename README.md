@@ -1252,7 +1252,7 @@
 - [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step) - This repo is a fork of ToutyRater/v2ray-guide, we aim to provide a new step-by-step guide of v2ray
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-- [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - My profile & the agent skills I created
+- [noobnooc/agent](https://github.com/noobnooc/agent) - My profile & the agent skills I created
 - [jesselau76/GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [erbanku/erbanku](https://github.com/erbanku/erbanku) - Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
@@ -1506,6 +1506,7 @@
 
 ## Python 
 
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [yinshaojun001/projectbrain](https://github.com/yinshaojun001/projectbrain) - 为 AI 编程智能体提供本地项目记忆层 | Project memory layer for AI coding agents
 - [jd-opensource/JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction) - 
