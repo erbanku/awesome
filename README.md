@@ -584,6 +584,7 @@
 
 ## HTML 
 
+- [superhumancorp/r2drop](https://github.com/superhumancorp/r2drop) - R2 is a MacOS app the allows you to conveniently upload files to your Cloudflare R2 buckets
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill) - logo-generator-skill
@@ -773,7 +774,6 @@
 - [LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon) - Open source application for creating free invoices and receipts
 - [scomper/cf-openai-azure-proxy](https://github.com/scomper/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-- [evildevill/Article-Summarizer](https://github.com/evildevill/Article-Summarizer) - Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
 - [eideehi/sd-webui-better-prompt](https://github.com/eideehi/sd-webui-better-prompt) - Stable Diffusion web UI extension that provides a better UI for prompt editing.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
@@ -1212,7 +1212,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
-- [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - awesome-dify-workflow as DSL file
+- [aircrushin/awesome-dify-workflow](https://github.com/aircrushin/awesome-dify-workflow) - Curated Dify workflow DSL files and templates for RAG, agents, search, translation, deep research, SEO and automation.
 - [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
 - [majinqiawa/xxn](https://github.com/majinqiawa/xxn) - 非正常人类研究中心 存储中国大陆各类非正常女性所为的非正常案件，欢迎补充
 - [krishnr/MATLAB-cheat-sheet](https://github.com/krishnr/MATLAB-cheat-sheet) - Quick reference sheet for MATLAB
@@ -1790,7 +1790,7 @@
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [google-parfait/tensorflow-federated](https://github.com/google-parfait/tensorflow-federated) - An open-source framework for machine learning and other computations on decentralized data.
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [GeekTG/Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram) - Best Telegram userbot with inline buttons support
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [globus/globus-cli](https://github.com/globus/globus-cli) - A command line interface to Globus
