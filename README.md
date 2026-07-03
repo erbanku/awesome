@@ -1506,6 +1506,7 @@
 
 ## Python 
 
+- [rasbt/local-coding-agent-evals](https://github.com/rasbt/local-coding-agent-evals) - 
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [yinshaojun001/projectbrain](https://github.com/yinshaojun001/projectbrain) - 为 AI 编程智能体提供本地项目记忆层 | Project memory layer for AI coding agents
