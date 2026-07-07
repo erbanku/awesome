@@ -1519,7 +1519,7 @@
 - [hermesonehq/hermes-registry](https://github.com/hermesonehq/hermes-registry) - 
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [philipl/inferencefs](https://github.com/philipl/inferencefs) - The new data-free filesystem!
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [xiangruiai/vantasma-toolkit](https://github.com/xiangruiai/vantasma-toolkit) - 万涂幻象工具箱：vchat、祥瑞白板录制工具与 AI 工作流 Skills
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
@@ -1991,6 +1991,7 @@
 
 ## Rust 
 
+- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
 - [hlf20010508/telegram-onedrive](https://github.com/hlf20010508/telegram-onedrive) - A Telegram Bot to transfer files to OneDrive. No file size limitation. Restricted content supported. Doesn't occupy local space.
