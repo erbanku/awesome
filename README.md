@@ -405,7 +405,7 @@
 
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [duriantaco/vouch](https://github.com/duriantaco/vouch) - Vouch compiles human-owned intent into obligations, links evidence artifacts to those obligations, and produces deterministic release decisions for agent-written changes.
@@ -710,7 +710,7 @@
 - [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 - [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [G3G4X5X6/ultimate-cube](https://github.com/G3G4X5X6/ultimate-cube) - ultimate-cube 是开源的远程服务器管理工具，支持SSH，RDP，Telnet，COM等协议。
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [hellokaton/profit](https://github.com/hellokaton/profit) - 🤔 biezhi 在线打赏系统，开启你的要饭生涯。
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
