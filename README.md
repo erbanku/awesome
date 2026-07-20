@@ -414,7 +414,6 @@
 - [sumingcheng/tido](https://github.com/sumingcheng/tido) - Persistent task memory for AI agents — MCP-native, multi-agent safe, single binary.
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
 - [mayankjain0141/nixis](https://github.com/mayankjain0141/nixis) - AI agent firewall that intercepts tool calls (file, shell, network) and enforces deterministic policies at sub-microsecond latency using CEL, IFC, secret scanning, and audit logging.
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [mamamiyear/SnapGo](https://github.com/mamamiyear/SnapGo) - 
@@ -1521,7 +1520,7 @@
 - [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.
 - [abesticode/dify-plugin-email-html-pro](https://github.com/abesticode/dify-plugin-email-html-pro) - 
 - [hailaobao2026/codex_Autoplus](https://github.com/hailaobao2026/codex_Autoplus) - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通codex-Plus
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [langgenius/dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 - [LingyiChen-AI/weflow](https://github.com/LingyiChen-AI/weflow) - A Python SDK to automate the content workflow: identifying trending articles, crawling content, summarizing with AI, generating matching illustrations, and publishing drafts to WeChat Official Account
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -1578,7 +1577,7 @@
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
 - [titanwings/ex-skill](https://github.com/titanwings/ex-skill) - 致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Yevanchen/human-in-the-loop-in-dify](https://github.com/Yevanchen/human-in-the-loop-in-dify) - human in the loop in dify workflow by plugin
 - [hatprof/tg-smm-bot](https://github.com/hatprof/tg-smm-bot) - a python script to generate bot users for telegram groups, channels, reactions and views.
@@ -2301,6 +2300,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [RobertTLange/headless-cli](https://github.com/RobertTLange/headless-cli) - One unified CLI for headless coding agent execution 🤖
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
 - [RyanLisse/mercury2-showcase](https://github.com/RyanLisse/mercury2-showcase) - Mercury 2 by Inception Labs — Showcase app with ai-elements, Vercel AI SDK, and streaming chat. Diffusion-based LLM generating ~1000 tokens/sec.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into colle
@@ -2462,7 +2462,7 @@
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
