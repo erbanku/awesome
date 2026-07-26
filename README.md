@@ -1581,7 +1581,6 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Yevanchen/human-in-the-loop-in-dify](https://github.com/Yevanchen/human-in-the-loop-in-dify) - human in the loop in dify workflow by plugin
 - [hatprof/tg-smm-bot](https://github.com/hatprof/tg-smm-bot) - a python script to generate bot users for telegram groups, channels, reactions and views.
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [langgenius/dify-agentbox](https://github.com/langgenius/dify-agentbox) - A production-ready, all-in-one Docker image designed for AI agents and autonomous systems that need to execute code across multiple programming languages.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Yeuolir/dify-plugin-imagetool](https://github.com/Yeuolir/dify-plugin-imagetool) - An image generation plugin for the Dify platform, supporting text-to-image conversion, sketch refinement, and automated creative poster generation.
@@ -2351,6 +2350,7 @@
 - [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
 - [Ablaze-MIRAI/Twitter-UI-Customizer](https://github.com/Ablaze-MIRAI/Twitter-UI-Customizer) - Twitter を思いのままに。
 - [OpenSource03/harnss](https://github.com/OpenSource03/harnss) - Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP int
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [Lapis0x0/VermilionVoid](https://github.com/Lapis0x0/VermilionVoid) - 朱墨留白｜VermilionVoid｜我的个人博客框架
 - [Lapis0x0/VLMClassifier](https://github.com/Lapis0x0/VLMClassifier) - 一个基于VLM的图片分类程序
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
