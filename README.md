@@ -306,6 +306,7 @@
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
+- [gaocegege/Blog](https://github.com/gaocegege/Blog) - Personal Blog in github.io
 - [daenuprobst/terminus-theme-hype](https://github.com/daenuprobst/terminus-theme-hype) - A Windows 10 Theme for Terminus
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
 - [jtchen2k/typora-theme-next](https://github.com/jtchen2k/typora-theme-next) - A theme for Typora, inspired by hexo theme NexT.
@@ -419,7 +420,7 @@
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [mamamiyear/SnapGo](https://github.com/mamamiyear/SnapGo) - 
-- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
+- [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [adiudiuu/tools](https://github.com/adiudiuu/tools) - aws常用的方法集合
@@ -892,7 +893,6 @@
 - [dukelec/cde](https://github.com/dukelec/cde) - HTML5 Encryption Tool (Tips: https://blog.d-l.io/cde), https://e.d-l.io or
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [gaocegege/Blog](https://github.com/gaocegege/Blog) - Personal Blog in github.io
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
 - [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - 基于node+express爬虫 API接口项目,包括全国高校信息、成语诗歌、星座运势、历史的今天、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1140,7 +1140,6 @@
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -2382,7 +2381,7 @@
 - [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
 - [lexmin0412/dify-app-hub](https://github.com/lexmin0412/dify-app-hub) - 一个 Dify 应用管理平台，基于 Dify API 构建，提供深度优化的用户端交互界面，支持 Chatflow、Workflow 等多种 Dify 应用类型，适配深度思考、思维链、图表渲染、文件处理等丰富的 AI 输出形式，提供开箱即用的 AI 应用解决方案。
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [Leonardo8133/Leos-Shared-Commands](https://github.com/Leonardo8133/Leos-Shared-Commands) - 
@@ -2686,6 +2685,7 @@
 - [ddiu8081/bus-vis](https://github.com/ddiu8081/bus-vis) - 🚌 City bus visualizations of China.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [danloh/mdSilo-web](https://github.com/danloh/mdSilo-web) - In-browser knowledge base on top of local plain-text files
