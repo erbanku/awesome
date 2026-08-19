@@ -884,7 +884,6 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
-- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [MuggleWei/learning_compass](https://github.com/MuggleWei/learning_compass) - 各种学科自学指南 https://mugglewei.github.io/learning_compass/
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
@@ -2104,6 +2103,7 @@
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [kxxt/aspeak](https://github.com/kxxt/aspeak) - A simple text-to-speech client for Azure TTS API.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
