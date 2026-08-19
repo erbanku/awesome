@@ -698,6 +698,7 @@
 
 ## Java 
 
+- [yuqing2026/ruoyi-office](https://github.com/yuqing2026/ruoyi-office) - 🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben 的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │🛍️ ERP进销存 │📑 合同管理 │📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │⚙️ MES制造执行 │💰 财务管理 │📡 IoT物联网 │🛠️ 工单管理 │🛒 MALL商城 │🤖 A
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -1182,7 +1183,6 @@
 - [holyshell/AppsForMac](https://github.com/holyshell/AppsForMac) - Some awesome software for macOS
 - [666OS/rules](https://github.com/666OS/rules) - 
 - [lcmomo/my-anti-distill](https://github.com/lcmomo/my-anti-distill) - fork: leilei926524-tech anti-distill : 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
-- [kokisanai/anti-anthropic](https://github.com/kokisanai/anti-anthropic) - Codex skill for finding startup opportunities in Anthropic-style AI platform backlash.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [codeman008/Excellent_person_blog](https://github.com/codeman008/Excellent_person_blog) - 计算机相关优秀的个人博客：C++，AI，java，前端，ios
 - [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 
@@ -1890,7 +1890,7 @@
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [thedogb/smmsbot](https://github.com/thedogb/smmsbot) - 一个部署在gae上的telegram bot。可用作sm.ms图床客户端
 - [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region. Block Ads, Trackers, Malware, HTTPDNS, PCDN.
-- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 569 颗 ★
+- [iBug/pac](https://github.com/iBug/pac) - 科学上网，智能分流，使用 GFWList 和 IP 地址双重判断。现在已有 570 颗 ★
 - [Roiocam/V2ray2Clash](https://github.com/Roiocam/V2ray2Clash) - V2ray 订阅转 Clash 配置文件 python 脚本，供 Clash-Linux 自动订阅 V2ray
 - [skylark36/Rules](https://github.com/skylark36/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 - [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -2111,7 +2111,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
