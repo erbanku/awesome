@@ -535,6 +535,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合https://interview.disign.me/
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
@@ -794,6 +795,7 @@
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
+- [liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts) - I know what your pet is thinking - gemini
 - [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 - [tans/voicegpt](https://github.com/tans/voicegpt) - voice talk with gpt
@@ -1522,6 +1524,7 @@
 
 ## Python 
 
+- [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates) - Public collection of high-quality templates created by General Legal attorneys with CC0 license
 - [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
 - [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 - [Hsiifu3/clash-verge-skill](https://github.com/Hsiifu3/clash-verge-skill) - CLI skill to control Clash Verge Rev via mihomo API - proxy groups, node switching, delay testing, connections, DNS
@@ -2029,7 +2032,7 @@
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
 - [hlf20010508/telegram-onedrive](https://github.com/hlf20010508/telegram-onedrive) - A Telegram Bot to transfer files to OneDrive. No file size limitation. Restricted content supported. Doesn't occupy local space.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -2674,7 +2677,6 @@
 - [charleswan/vscode-extensions](https://github.com/charleswan/vscode-extensions) - A collection of delicious Visual Studio Code extensions recipes https://marketplace.visualstudio.com/publishers/CharlesWan
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [XadillaX/vscode-language-viml](https://github.com/XadillaX/vscode-language-viml) - VimL plugin for VSCode.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
