@@ -2154,7 +2154,7 @@
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [nilbuild/claude-queue](https://github.com/nilbuild/claude-queue) - Automated GitHub issue solver using Claude Code
 - [Leanmcp/superview.sh](https://github.com/Leanmcp/superview.sh) - See your claude code logs in clear details in your dashboard
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [antelle/generate-ip-cert](https://github.com/antelle/generate-ip-cert) - Script for generating a self-signed certificate for an IP address
 - [clouvet/sprite-mobile](https://github.com/clouvet/sprite-mobile) - A PWA chat UI for accessing Claude Code on a Sprite
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
@@ -2371,7 +2371,7 @@
 - [resend/resend-cli](https://github.com/resend/resend-cli) - The official CLI for Resend
 - [ankitvgupta/exo](https://github.com/ankitvgupta/exo) - Claude Code for your Inbox
 - [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time
-- [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
+- [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [Railly/agentfiles](https://github.com/Railly/agentfiles) - Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative, where YOU own what you type on your keyboard.
