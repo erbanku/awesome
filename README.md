@@ -1621,7 +1621,7 @@
 - [maoist2009/TlsFragment](https://github.com/maoist2009/TlsFragment) - TlsFragment to Bypass GFW.
 - [maoist2009/HTTPS_IP_finder](https://github.com/maoist2009/HTTPS_IP_finder) - find ip survive from gfw block whivch is availabep
 - [Zoku-777/dify_dsl_flowchart_export](https://github.com/Zoku-777/dify_dsl_flowchart_export) - Convert dify app dsl to mermaid flowchart
-- [artinmajdi/Project-Template-Manager](https://github.com/artinmajdi/Project-Template-Manager) - 
+- [artinmajdi/vscode-extensions](https://github.com/artinmajdi/vscode-extensions) - 
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) - 
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 - [chatbi/chatbi](https://github.com/chatbi/chatbi) - ChatBI is a BI system interacted by chat with LLM
