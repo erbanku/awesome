@@ -599,6 +599,7 @@
 
 ## HTML 
 
+- [BaiHLiu/IOT-WaterLevel-Monitor](https://github.com/BaiHLiu/IOT-WaterLevel-Monitor) - 智联云城市水位监控系统（硬件+前后端+AI接入）
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) - 
 - [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent) - 
 - [superhumancorp/r2drop](https://github.com/superhumancorp/r2drop) - R2 is a MacOS app the allows you to conveniently upload files to your Cloudflare R2 buckets
@@ -1009,6 +1010,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
@@ -1058,6 +1060,7 @@
 
 ## Jupyter Notebook 
 
+- [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
 - [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed version at https://github.com/pageman/suts
 - [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) - Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent
@@ -1530,6 +1533,7 @@
 
 ## Python 
 
+- [zhouzhupianbei/UAV-Stack-Knowledge-Base](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base) - 无人机（UAV）领域的“百科全书”。本项目深度整合了无人机**政策解读、硬件选型、通讯协议（MAVLink/SDK）、边缘计算（YOLO/AI）、流媒体分发（ZLMediaKit）及 GIS 可视化（Cesium）**的全链路知识。
 - [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 - [unifyai/unify](https://github.com/unifyai/unify) - AI teammates for everyone else 🤖
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) - Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥
@@ -2768,7 +2772,6 @@
 - [rid9/DateTime](https://github.com/rid9/DateTime) - Date and time status bar information for Visual Studio Code.
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [microsoft/vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) - Sublime Text Keymap extension for VS Code
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
