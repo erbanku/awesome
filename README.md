@@ -2039,7 +2039,7 @@
 ## Rust 
 
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [alphaXiv/openresearch-cli](https://github.com/alphaXiv/openresearch-cli) - Run parallel research agents with any model
+- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Run parallel research agents with any model
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, deve
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
