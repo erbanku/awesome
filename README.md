@@ -407,6 +407,7 @@
 
 ## Go 
 
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [felinics/Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1532,6 +1533,9 @@
 
 ## Python 
 
+- [Whatsonyourmind/deckforge](https://github.com/Whatsonyourmind/deckforge) - Executive-ready slides, one API call away. API-first AI presentation engine with 32 slide types, 24 chart types, 15 themes, finance vertical. PPTX + Google Slides. MCP server for AI agents. TypeScript
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [aws/context-ontology-accelerator](https://github.com/aws/context-ontology-accelerator) - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.
 - [zhouzhupianbei/UAV-Stack-Knowledge-Base](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base) - 无人机（UAV）领域的“百科全书”。本项目深度整合了无人机**政策解读、硬件选型、通讯协议（MAVLink/SDK）、边缘计算（YOLO/AI）、流媒体分发（ZLMediaKit）及 GIS 可视化（Cesium）**的全链路知识。
 - [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 - [unifyai/unify](https://github.com/unifyai/unify) - AI teammates for everyone else 🤖
@@ -1607,7 +1611,7 @@
 - [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into 
 - [titanwings/ex-skill](https://github.com/titanwings/ex-skill) - 致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Yevanchen/human-in-the-loop-in-dify](https://github.com/Yevanchen/human-in-the-loop-in-dify) - human in the loop in dify workflow by plugin
 - [hatprof/tg-smm-bot](https://github.com/hatprof/tg-smm-bot) - a python script to generate bot users for telegram groups, channels, reactions and views.
@@ -2050,7 +2054,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [hlf20010508/telegram-onedrive](https://github.com/hlf20010508/telegram-onedrive) - A Telegram Bot to transfer files to OneDrive. No file size limitation. Restricted content supported. Doesn't occupy local space.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
@@ -2162,9 +2166,9 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Local Root CA and auto-renewed HTTPS certificates for private networks and services.
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [DullJZ/gh-backup](https://github.com/DullJZ/gh-backup) - 使用Actions每天自动备份GitHub仓库到Gitea/Gitlab
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -2332,6 +2336,10 @@
 
 ## TypeScript 
 
+- [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
+- [hardbeat920/monocode](https://github.com/hardbeat920/monocode) - A GUI for your coding agents
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
@@ -2846,7 +2854,7 @@
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [yddeng/amp](https://github.com/yddeng/amp) - 自动化管理平台: 计划任务、进程控制、进程监控报警
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - 🌱 My digital vihāra, built by me.
 - [liuzi6612/boomb](https://github.com/liuzi6612/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
