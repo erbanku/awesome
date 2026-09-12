@@ -1115,6 +1115,8 @@
 
 ## Kotlin 
 
+- [mohdamaan1/JustForPixel-ExpressiveLab](https://github.com/mohdamaan1/JustForPixel-ExpressiveLab) - Publishable Open-Source Android Material 3 Expressive Component & Motion Library by Er. Mohd Amaan
+- [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android and Desktop based on Material 3 Expressive
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -1177,7 +1179,7 @@
 
 ## Markdown 
 
-- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build a great interface.
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -2308,6 +2310,7 @@
 
 ## Swift 
 
+- [edenkollcinaku/ExpressiveUI](https://github.com/edenkollcinaku/ExpressiveUI) - Material 3 Expressive components for SwiftUI
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
@@ -2380,7 +2383,7 @@
 - [GoJam11/LLMRelayService](https://github.com/GoJam11/LLMRelayService) - 
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
 - [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
@@ -2426,7 +2429,7 @@
 - [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time
 - [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [Railly/agentfiles](https://github.com/Railly/agentfiles) - Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative, where YOU own what you type on your keyboard.
 - [op7418/Generative-UI-MCP](https://github.com/op7418/Generative-UI-MCP) - MCP server that teaches AI models to generate interactive visualizations — charts, diagrams, mockups, and more.
 - [amio/npmjs.dev](https://github.com/amio/npmjs.dev) - Fiddle with npm packages in browser
@@ -2747,7 +2750,7 @@
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [funnyzak/react-native-v2ex](https://github.com/funnyzak/react-native-v2ex) - 项目使用了 React Native 构建了一个 V2EX 移动客户端应用。目的是为了构建一个 React Native 快速开发脚手架。客户端数据完全基于 V2EX 开放 API。基于 RN 0.71.5。
 - [trzsz/trzsz.js](https://github.com/trzsz/trzsz.js) - trzsz.js is the js version of trzsz, makes terminal built with electron and webshell to support trzsz ( trz / tsz ).
-- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [louisyoungx/safari-like-startpage](https://github.com/louisyoungx/safari-like-startpage) - Safari-like start page
