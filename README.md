@@ -52,6 +52,7 @@
 - [Mermaid](#mermaid)
 - [Meson](#meson)
 - [Objective-C](#objective-c)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -1200,6 +1201,10 @@
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
+## Objective-C++ 
+
+- [ZSeven-W/rish-app](https://github.com/ZSeven-W/rish-app) - Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH · Claude Code · Codex · GLM).
+
 ## Others 
 
 - [dosu-ai/better-stale-bot](https://github.com/dosu-ai/better-stale-bot) - AI-powered stale issue bot built with GitHub Agentic Workflows
@@ -1211,7 +1216,6 @@
 - [lcmomo/my-anti-distill](https://github.com/lcmomo/my-anti-distill) - fork: leilei926524-tech anti-distill : 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [codeman008/Excellent_person_blog](https://github.com/codeman008/Excellent_person_blog) - 计算机相关优秀的个人博客：C++，AI，java，前端，ios
-- [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 
 - [github/app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 - [doraemonkeys/claude-code-debug-mode](https://github.com/doraemonkeys/claude-code-debug-mode) - Cursor-style Debug Mode skill for coding agents. Hypothesis-driven debugging with runtime log instrumentation and human-in-the-loop verification.
 - [allenGKC/ai-product-research](https://github.com/allenGKC/ai-product-research) - 
@@ -1549,6 +1553,7 @@
 
 ## Python 
 
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 - [ingjieye/apple-notes-cli](https://github.com/ingjieye/apple-notes-cli) - Search, read, and export Apple Notes from the terminal by reading the local SQLite store directly — no AppleScript.
 - [ashemag/autoblock](https://github.com/ashemag/autoblock) - For automatically blocking hateful content on twitter
 - [ashemag/daily_arxiv_bot](https://github.com/ashemag/daily_arxiv_bot) - Slack integration to grab daily papers from Arxiv with agents / llms
@@ -1594,7 +1599,7 @@
 - [philipl/inferencefs](https://github.com/philipl/inferencefs) - The new data-free filesystem!
 - [gz83/thorium](https://github.com/gz83/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
-- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
 - [erbanku/stars](https://github.com/erbanku/stars) - GitHub stars grouped by month
 - [erbanku/action-stars-next](https://github.com/erbanku/action-stars-next) - GitHub Action to generate starred repositories README grouped by month
@@ -2065,7 +2070,7 @@
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [what1f/kitter](https://github.com/what1f/kitter) - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Run parallel research agents with any model
+- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) - All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, deve
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -2193,6 +2198,7 @@
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [DullJZ/gh-backup](https://github.com/DullJZ/gh-backup) - 使用Actions每天自动备份GitHub仓库到Gitea/Gitlab
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
+- [meituan/MT-Paotui-For-Client](https://github.com/meituan/MT-Paotui-For-Client) - 直接调用美团跑腿接口，帮你下单完成帮取送、帮忙、帮买的跑腿需求。
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [indestructible-type/Jost](https://github.com/indestructible-type/Jost) - Jost* by indestructible type*
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
@@ -2360,6 +2366,8 @@
 
 ## TypeScript 
 
+- [kunpengtalk/OmniStudio](https://github.com/kunpengtalk/OmniStudio) - OmniStudio 是一个本地大模型一体化桌面工作台，集模型市集下载、llama.cpp/vLLM/SGLang 三引擎推理管理，以及对话、语音合成、ASR语音识别、图片生成、视频生成、OCR 等多种大模型应用于一体，全程本地优先。
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
 - [superfly/sprites-vscode-ext](https://github.com/superfly/sprites-vscode-ext) - 
 - [ashemag/ashe-goals-oss](https://github.com/ashemag/ashe-goals-oss) - 
 - [ashemag/grok-topic-modeling](https://github.com/ashemag/grok-topic-modeling) - Open-source X/Grok topic modeling dashboard for clustering recent posts into ranked themes, gotchas, examples, and a radial topic map.
