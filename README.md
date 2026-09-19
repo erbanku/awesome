@@ -1459,6 +1459,7 @@
 - [treehollow/install-doc](https://github.com/treehollow/install-doc) - 如何搭建一个树洞
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
@@ -1995,7 +1996,6 @@
 - [132ikl/liteshort](https://github.com/132ikl/liteshort) - [MOVED] User-friendly, actually lightweight, and configurable URL shortener
 - [brndnmtthws/tweet-delete](https://github.com/brndnmtthws/tweet-delete) - Self-destructing Tweets so you too can be cool 😎
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) - 仅供参考。
 - [yhangf/PythonCrawler](https://github.com/yhangf/PythonCrawler) - :heartpulse:用python编写的爬虫项目集合
 - [mobier/shadowsocksr-speed](https://github.com/mobier/shadowsocksr-speed) - SSR 批量测试节点有效带宽
