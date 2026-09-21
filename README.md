@@ -873,7 +873,6 @@
 - [cagataycali/url-shortener](https://github.com/cagataycali/url-shortener) - Shitty url shortener, emoji powered. 🌍✌🏼
 - [7wate/wiki](https://github.com/7wate/wiki) - 7Wate 个人维基知识库
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-- [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage) - My homepage
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
@@ -2200,7 +2199,7 @@
 ## Shell 
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Local Root CA and auto-renewed HTTPS certificates for private networks and services.
+- [luizbizzio/local-https](https://github.com/luizbizzio/local-https) - 🔒 Automatic local HTTPS for Pi-hole, Technitium DNS, Tailscale and homelabs. Local Root CA, trusted certificates, auto-renewal and deployment.
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [DullJZ/gh-backup](https://github.com/DullJZ/gh-backup) - 使用Actions每天自动备份GitHub仓库到Gitea/Gitlab
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
@@ -2560,6 +2559,7 @@
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [memgraph/odin](https://github.com/memgraph/odin) - 
@@ -2683,6 +2683,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [next-terminal/next-terminal](https://github.com/next-terminal/next-terminal) - A simple, secure, easy-to-use bastion and session auditing system. Supports RDP, SSH, VNC, Telnet, HTTP, records and replays sessions for auditing and compliance.
 - [wayjam/picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) - PicGo S3 插件
+- [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [gaeulbyul/RedBlock](https://github.com/gaeulbyul/RedBlock) - [STATUS: UNMAINTAINED] 트위터 사상 최강의 체인블락 확장기능. / Powerful extension to block multiple users on Twitter.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
@@ -2881,7 +2882,6 @@
 - [Ackites/hidden-word](https://github.com/Ackites/hidden-word) - A Unicode-based text digital watermarking tool for embedding invisible copyright marks and metadata in text content.
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts、QGIS等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 - [hackun666/chat-easy](https://github.com/hackun666/chat-easy) - ChatGPT vue.js demo
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
