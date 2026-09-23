@@ -157,7 +157,6 @@
 - [pyrogram/tgcrypto](https://github.com/pyrogram/tgcrypto) - Fast and Portable Cryptography Extension Library for Pyrogram
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core) - Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -212,6 +211,7 @@
 - [wakatime/notepadpp-wakatime](https://github.com/wakatime/notepadpp-wakatime) - Notepad++ plugin for automatic time tracking and metrics generated from your programming activity.
 - [wakatime/office-wakatime](https://github.com/wakatime/office-wakatime) - Office Solution add-ins for automatic time tracking and metrics generated from your programming activity.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [ModuleArt/quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer) - 🖼️ Lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer.
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
@@ -386,6 +386,7 @@
 - [coollabsio/minio](https://github.com/coollabsio/minio) - Automated MinIO docker images
 - [tao12345666333/radicale](https://github.com/tao12345666333/radicale) - 
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
+- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [albuild/snap](https://github.com/albuild/snap) - Snappy for Amazon Linux 2
 
@@ -644,7 +645,6 @@
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
 - [233boy/tools](https://github.com/233boy/tools) - 
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [sciooga/Dropper](https://github.com/sciooga/Dropper) - Dropper(投掷器) 基于七牛云对象存储的文件分享工具
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
@@ -1571,7 +1571,7 @@
 - [aws/context-ontology-accelerator](https://github.com/aws/context-ontology-accelerator) - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.
 - [zhouzhupianbei/UAV-Stack-Knowledge-Base](https://github.com/zhouzhupianbei/UAV-Stack-Knowledge-Base) - 无人机（UAV）领域的“百科全书”。本项目深度整合了无人机**政策解读、硬件选型、通讯协议（MAVLink/SDK）、边缘计算（YOLO/AI）、流媒体分发（ZLMediaKit）及 GIS 可视化（Cesium）**的全链路知识。
 - [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
-- [unifyai/unify](https://github.com/unifyai/unify) - 
+- [unifyai/unify-agent](https://github.com/unifyai/unify-agent) - 
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) - Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [neo4j-examples/rag-demo](https://github.com/neo4j-examples/rag-demo) - 
@@ -2322,11 +2322,12 @@
 
 ## Swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [wieslawsoltes/MacExplorer](https://github.com/wieslawsoltes/MacExplorer) - 
 - [edenkollcinaku/ExpressiveUI](https://github.com/edenkollcinaku/ExpressiveUI) - Material 3 Expressive components for SwiftUI
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -2402,7 +2403,7 @@
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
-- [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
+- [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
 - [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - Free, open-source desktop manager for AI Agent Skills. Write a skill once, sync it to 32 AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, and more) via symlinks. Local-first, MIT licensed. mac
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
