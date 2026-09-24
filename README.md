@@ -722,6 +722,7 @@
 - [inulute/freedium-app](https://github.com/inulute/freedium-app) - Medium Unlocker (now Freedium App) is an android app designed to access Medium, NYT, Bloomberg, Washington Post, Financial Times, Reuters, The Economist articles without any paywalls.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book) - 《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -1233,7 +1234,6 @@
 - [Leading-AI-IO/palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy) - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
 - [Done-0/value-realization](https://github.com/Done-0/value-realization) - Analyze whether end users will discover clear value in product ideas.
 - [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng) - 收集户晨风的所有内容
-- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [Koolson/Qure](https://github.com/Koolson/Qure) - Quantumult X Policy Icon Set
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -1555,6 +1555,8 @@
 
 ## Python 
 
+- [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
+- [harrymunro/jev-laya-benchmark](https://github.com/harrymunro/jev-laya-benchmark) - Speed and accuracy benchmark: TypeSafe's Jev API vs the local Laya MLX typed-decision model on synthetic tasks
 - [jianjun156/doubao-tts](https://github.com/jianjun156/doubao-tts) - doubao-tts
 - [callmerio/doubao-tts](https://github.com/callmerio/doubao-tts) - 豆包 TTS 逆向工程客户端 - 基于 WebSocket 协议的文本转语音 Python 客户端
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
@@ -1656,6 +1658,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
 - [cfinke/EpsteOut](https://github.com/cfinke/EpsteOut) - See which of your LinkedIn connections appear in the Epstein files.
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [ray-project/llmperf](https://github.com/ray-project/llmperf) - LLMPerf is a library for validating and benchmarking LLMs
 - [notedit/happy-skills](https://github.com/notedit/happy-skills) - happy skills
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -2278,7 +2281,7 @@
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [xiantang/xiantang-blog](https://github.com/xiantang/xiantang-blog) - blog
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [wabarc/on-heroku](https://github.com/wabarc/on-heroku) - Deploy and maintaining wayback service as a Heroku app easily and quickly.
 - [wabarc/on-github](https://github.com/wabarc/on-github) - Wayback service as GitHub Actions (Just a demo)
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
@@ -2419,7 +2422,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [2001Y/onw](https://github.com/2001Y/onw) - Extensions for VScode. Add an item here and there that opens in a new window.
 - [achingono/ms-todo-cli](https://github.com/achingono/ms-todo-cli) - OpenClaw CLI client for Microsoft Todo
-- [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
 - [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [LichAmnesia/openseek](https://github.com/LichAmnesia/openseek) - OpenSeek - 广度求索: open-source TUI coding agent with multi-provider routing, MCP, LSP, and Plan/Agent/YOLO modes.
@@ -2552,7 +2555,6 @@
 - [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [woaiqjj/FileWorker](https://github.com/woaiqjj/FileWorker) - 运行在边缘函数上的在线剪贴板/文件共享
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - Telegram bot（img-mon | 图片老妈）
