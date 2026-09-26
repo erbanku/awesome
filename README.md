@@ -867,7 +867,6 @@
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [alcor/emoji-supply](https://github.com/alcor/emoji-supply) - Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen
 - [Tyrone2333/giteeDeleteAccount](https://github.com/Tyrone2333/giteeDeleteAccount) - gitee 帐号删除指南
 - [Dandelionss/CloudFlare-Workers](https://github.com/Dandelionss/CloudFlare-Workers) - 储存一些CloudFlare Workers脚本
@@ -1656,7 +1655,7 @@
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Yeuolir/dify-plugin-imagetool](https://github.com/Yeuolir/dify-plugin-imagetool) - An image generation plugin for the Dify platform, supporting text-to-image conversion, sketch refinement, and automated creative poster generation.
 - [hitechbeijing/dify-plugin-tools-html-exporter](https://github.com/hitechbeijing/dify-plugin-tools-html-exporter) - 用于将llm生成的html代码转为docx文档
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - An AI-powered smart vocabulary tool with features like One-click vocabulary building and story-based memorization.
 - [cfinke/EpsteOut](https://github.com/cfinke/EpsteOut) - See which of your LinkedIn connections appear in the Epstein files.
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -1845,6 +1844,7 @@
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold 2.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
@@ -2087,7 +2087,7 @@
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [hlf20010508/telegram-onedrive](https://github.com/hlf20010508/telegram-onedrive) - A Telegram Bot to transfer files to OneDrive. No file size limitation. Restricted content supported. Doesn't occupy local space.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -2425,7 +2425,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [2001Y/onw](https://github.com/2001Y/onw) - Extensions for VScode. Add an item here and there that opens in a new window.
 - [achingono/ms-todo-cli](https://github.com/achingono/ms-todo-cli) - OpenClaw CLI client for Microsoft Todo
-- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
+- [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
 - [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [LichAmnesia/openseek](https://github.com/LichAmnesia/openseek) - OpenSeek - 广度求索: open-source TUI coding agent with multi-provider routing, MCP, LSP, and Plan/Agent/YOLO modes.
@@ -2619,6 +2619,7 @@
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [MNThomson/containerflare](https://github.com/MNThomson/containerflare) - 🔥 Cloudflare (Workers + R2) edge container image repository
+- [Paul-Gy/SessionShare](https://github.com/Paul-Gy/SessionShare) - Easily share files in multiple times with a single link! Built using Vue.js on Cloudflare Workers, with Durable Objects and R2.
 - [cmj2002/CF-R2-ImageBed](https://github.com/cmj2002/CF-R2-ImageBed) - Image hosting based on Cloudflare R2. Supports PicGo.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [robertying/learnX-companion](https://github.com/robertying/learnX-companion) - 清华大学网络学堂 App 助手，为 learnX 提供个性化的推送通知支持。
@@ -2893,7 +2894,6 @@
 - [hackun666/chat-easy](https://github.com/hackun666/chat-easy) - ChatGPT vue.js demo
 - [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
 - [weekend-project-space/chatgpt-chrome-extension](https://github.com/weekend-project-space/chatgpt-chrome-extension) - chatgpt-chrome-extension
-- [Paul-Gy/SessionShare](https://github.com/Paul-Gy/SessionShare) - Easily share files in multiple times with a single link! Built using Vue.js on Cloudflare Workers, with Durable Objects and R2.
 - [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 玉桃文飨轩🍑 ，专业的文本转图片工具。一键将 Markdown 转换为精美图片，支持书摘模式、自定义主题、字体和背景。所有数据本地处理保障隐私安全，完美适配多端展示。让文章分享、读书笔记、社交传播更有格调。 基于 Vue3、Vite、Pinia、TailwindCSS、TypeScript 等技术栈构建。
