@@ -2099,7 +2099,7 @@
 - [elliotgao2/handsets](https://github.com/elliotgao2/handsets) - A high-performance Android automation CLI, built for agents and humans
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、高度自定义，本地化离线剪贴板。
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
 - [Loongphy/codext](https://github.com/Loongphy/codext) - An opinionated Codex CLI with better DX
@@ -2438,7 +2438,7 @@
 - [leoleelxh/obsidian-memos-ai-sync](https://github.com/leoleelxh/obsidian-memos-ai-sync) - obsidian-memos-sync-plugin，将 Memos 内容同步到 Obsidian 的插件，提供无缝集成体验。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [better-auth/better-hub](https://github.com/better-auth/better-hub) - Re-imagining code collaboration for humans and agents
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
