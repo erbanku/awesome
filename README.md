@@ -2325,7 +2325,6 @@
 ## Swift 
 
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
-- [mandipadk/parallex](https://github.com/mandipadk/parallex) - Run multiple fully isolated instances of any macOS app — each with its own Dock icon, its own data, and its own settings
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [wieslawsoltes/MacExplorer](https://github.com/wieslawsoltes/MacExplorer) - 
 - [edenkollcinaku/ExpressiveUI](https://github.com/edenkollcinaku/ExpressiveUI) - Material 3 Expressive components for SwiftUI
