@@ -414,7 +414,7 @@
 
 ## Go 
 
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI agents use your phone, with you in the loop.
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [HyNetworks/OpenGFW](https://github.com/HyNetworks/OpenGFW) - OpenGFW is your very own DIY Great Firewall of China
 - [peisp/catdb](https://github.com/peisp/catdb) - Cross-platform database client based on Wails3 (Go + Vue 3 + WebView). 基于 Wails v3（Go + Vue 3 + WebView）的跨平台数据库客户端。
@@ -720,7 +720,7 @@
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker 
-- [nullpointexception-i/agent-sphere](https://github.com/nullpointexception-i/agent-sphere) - This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achiev
+- [nullpointexception-i/agent-sphere](https://github.com/nullpointexception-i/agent-sphere) - AgentSphere Harness Build, orchestrate, and run enterprise AI agents in one framework. From single-agent runtime loops, secure tool calls, and memory governance, to supervisor-led multi-agent collabor
 - [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one 
 - [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
 - [inulute/freedium-app](https://github.com/inulute/freedium-app) - Medium Unlocker (now Freedium App) is an android app designed to access Medium, NYT, Bloomberg, Washington Post, Financial Times, Reuters, The Economist articles without any paywalls.
@@ -746,6 +746,7 @@
 
 ## JavaScript 
 
+- [AlephAITech/DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide) - 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。
 - [fanhuayishiy/offline-form-filler](https://github.com/fanhuayishiy/offline-form-filler) - 纯离线的网页表单自动填充浏览器扩展(MV3):零网络请求,资料只存本机,支持多套资料、自定义参数、手动映射、数据导入导出
 - [PDFMathTranslate/PDFMathReader](https://github.com/PDFMathTranslate/PDFMathReader) - Read scientific documents in your language, in realtime, on any platform. 在任何平台上用您的语言实时翻译和阅读科学文献。
 - [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
@@ -1340,7 +1341,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
-- [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [lesuixin/v2ray-cf](https://github.com/lesuixin/v2ray-cf) - v2ray套CF无域名加速的小白教程
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
@@ -2354,7 +2354,7 @@
 - [Neighbor-Z/DiskIcicle](https://github.com/Neighbor-Z/DiskIcicle) - (Maybe) the first disk usage visualizer for iOS. (and macOS support)
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
@@ -2391,7 +2391,7 @@
 ## TypeScript 
 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) - 非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。
+- [fanhuayishiy/ai-crew-pass](https://github.com/fanhuayishiy/ai-crew-pass) - 万物工牌｜AI 角色、人物特别篇与自定义 3D 工牌，支持拖拽翻面和透明 PNG 下载。微信公众号：风花AI实验室。
 - [clawboo/clawboo](https://github.com/clawboo/clawboo) - An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then watch them delegate and collaborate live. Self-hosted, one command.
 - [iRedScarf/onedrive-index](https://github.com/iRedScarf/onedrive-index) - OneDrive public directory listing, and One-Click Deploy to Vercel. Powered by Vercel and Next.js.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Restyle any website
@@ -2428,7 +2428,7 @@
 - [GoJam11/LLMRelayService](https://github.com/GoJam11/LLMRelayService) - 
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
 - [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
