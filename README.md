@@ -338,7 +338,7 @@
 
 ## Clojure 
 
-- [0nelight/sutra-os](https://github.com/0nelight/sutra-os) - Scarce Units, Typed, Related, Actionable.  An open-source, self-hosted ontology platform.
+- [0nelight/sutra-os](https://github.com/0nelight/sutra-os) - Scarce Units, Typed, Related, Actionable. An open-source, self-hosted ontology platform.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
@@ -361,7 +361,7 @@
 
 ## Dart 
 
-- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是最专业的英语精听 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动你把每一段音频练懂、练熟、练到会说。
 - [exusr/fluent-editor](https://github.com/exusr/fluent-editor) - A powerful and feature-rich rich word processor for Flutter applications, inspired by nature 🍃.
 - [AprDeci/bili-music](https://github.com/AprDeci/bili-music) - 全平台B站源的音乐app
 - [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
@@ -422,7 +422,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [felinics/Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [zgiai/zgi](https://github.com/zgiai/zgi) - ZGI is an open-source platform for building AI applications. Its intuitive interface combines workflow design, agent orchestration, dataset management, and model integration—allowing you to quickly mo
 - [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules.
@@ -534,7 +534,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
@@ -1002,6 +1002,7 @@
 - [pocc/bulk_delete_notion_pages](https://github.com/pocc/bulk_delete_notion_pages) - Bookmarklet to permanently delete all notion pages that have already been deleted.
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - A curated list of Progressive Web Apps, resources, tools and articles
 - [belaviyo/save-images](https://github.com/belaviyo/save-images) - Save loaded images in nested iframe pages
@@ -1179,7 +1180,6 @@
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1296,7 +1296,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [maxujie/awesome-tsinghua](https://github.com/maxujie/awesome-tsinghua) - 与清华大学 (Tsinghua University) 相关的有趣 repo 整合
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
-- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 - [Wsky51/THU-CS912-kaoyan](https://github.com/Wsky51/THU-CS912-kaoyan) - 清华大学计算机类912考研的历年真题，清华本科生试卷以及清华相关课程ppt
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
@@ -1720,6 +1720,7 @@
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [yt-koike/dify-cron](https://github.com/yt-koike/dify-cron) - Regular self-call plugin for Dify on self-hosted servers and cloud.dify.ai
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -1758,7 +1759,7 @@
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
-- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，支持视频、图集、合集、音乐(原声)。
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
 - [rooktwo/rectg](https://github.com/rooktwo/rectg) - Telegram频道群组推荐
@@ -2081,6 +2082,7 @@
 
 ## Rust 
 
+- [ns2250225/filetime](https://github.com/ns2250225/filetime) - 单文件版本管理软件
 - [harshsinghsv/swiftdl](https://github.com/harshsinghsv/swiftdl) - Fast, resumable download manager with a browser extension. Many connections per file, instant resume, IDM-style download windows. Rust + Tauri.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
@@ -2113,7 +2115,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [elliotgao2/handsets](https://github.com/elliotgao2/handsets) - A high-performance Android automation CLI, built for agents and humans
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、高度自定义，本地化离线剪贴板。
+- [Y-ASLant/ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) - An elegant and fast clipboard. 低占用、高性能、现代化、优雅、高度自定义，本地化离线剪贴板。
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [Haleclipse/codex](https://github.com/Haleclipse/codex) - Lightweight coding agent that runs in your terminal
@@ -2141,7 +2143,6 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [KipData/KiteSQL](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust — an embedded SQL database with a typed ORM and pluggable LMDB/RocksDB storage.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2237,7 +2238,6 @@
 - [junjiem/dify-plugin-repackaging](https://github.com/junjiem/dify-plugin-repackaging) - Scripting tool for downloading Dify plugin package from Dify Marketplace and Github and repackaging [true] offline package.
 - [nelvko/clashctl](https://github.com/nelvko/clashctl) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -2340,6 +2340,7 @@
 
 ## Swift 
 
+- [icloudza/caplo](https://github.com/icloudza/caplo) - macOS 屏幕录制工具
 - [usual-labs/usual-bot](https://github.com/usual-labs/usual-bot) - A new home for your Hermes Bots: a native Mac and iPhone messenger that works with Hermes Bot Mode. Chat with your Bots, approve commands, group them in rooms, call them.
 - [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
@@ -2590,6 +2591,7 @@
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [dicarne/feishu-backup](https://github.com/dicarne/feishu-backup) - 用于备份飞书文档，可以将飞书文档转成markdown下载。
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [memgraph/odin](https://github.com/memgraph/odin) - 
